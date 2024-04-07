@@ -1,0 +1,65 @@
+- Day 1
+	- Christine Q: Is this world in the standard lore world of D&D?
+		- No!
+	- Space? Do we like space?
+		- Christine likes space, Tucker kinda maybe
+   - Tucker’s character
+      - Huldar
+      - Pastoral
+      - He fell in love with weapons because of the world being harsh
+      - Met someone who can teach him - got religion from that
+         - Thenolin, a female dwarf
+      - Has he been on the journey for awhile?
+         - Schism at Wyrfall and Il Ausper put stuff into motion.
+      - Part of Tucker? Not at all Tucker?
+         - Not a Tucker foil or stand-in.
+         - Low charisma as a way to vamp on not knowing what to do.
+         - To be more artistic - play at being artistic.
+- Christine’s character
+	- Storm sorcery powers from literally washing up on the shores recently
+	- Don’t remember a lot of things
+	- Sorcerer powers are completely new
+	- Has felt sense of when she’s seen stuff that she’s seen before
+	- Low amount of trust
+	- Very recent, very fresh
+	- Is in Wyrfall - even that’s too big for her
+	- Is used to fighting, remembers it in a felt sense
+	- Things that things should probably die if they can’t take care of themse
+- Wyrfall
+	- One Cruck House and one inn
+		- Mayvra is in the Cruck House.
+		- Somebody reached out to ask about her feelings.
+		- Drank a beer for the first time and got real.
+		- Huldar has connections to Il Ausper
+			- Mentor is there, sells weapons
+			- Shit went bad in Il Ausper
+			- Came to the Cruck House to lie low.
+	- Probable reason for meeting Karna
+		- Huldar has cool weapons - maybe Karna is shopping
+	- People they know in Wyrfall
+		- Mayvra knows nobody - traded something to stay in the cruck house
+			- She's on night 3
+		- Huldar knows merchants
+			- Tucker is coming up with a name and short description
+- Resource Management
+	- Make them buy fucking incense
+- Logistics
+	- We’re gonna do weekly
+	- We’re going to almost always play with the whole group.
+- Day 2
+	- Huldar rerun
+	- Mayvra rerun
+	- Karna
+		- 50s human, dark olive skin
+		- Grayish hair, ponytail situation, 6ish feet
+		- Likes nature - specifically plants
+		- Was in town looking for someone
+		- Totally broke
+		- Needs to work
+		- Mayvra feels she is a fighter, Karna is a fighter - there's a bond there
+		- Karna got his glaive
+			- Showed up with an improvised weapon
+			- Huldar gave him a sweet sweet deal
+	- Mayvra may have lit him on fire
+	- He got up early this morning
+

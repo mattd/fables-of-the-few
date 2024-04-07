@@ -1,0 +1,17 @@
+- Lines
+	- Player romance
+	- Player torture
+	- Sexual trafficking, sexual violence
+	- Infant stuff
+- Veils
+	- Torture
+	- Groups of people with torches
+		- Allowed with warning
+	- Overt Racism
+	- Hunting
+	- Animal Suffering
+		- Environmental fine, PCs or NPCs brutalizing animals are not fine
+- Things That Aren’t Veils
+	- Slavery
+		- In this setting, it would probably happen
+

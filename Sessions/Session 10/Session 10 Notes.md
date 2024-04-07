@@ -1,0 +1,51 @@
+- In Session
+	- “We’re going to space, guys.”
+	- Bronze casted eyes.
+	- Many options were discussed.
+		- Calling Lo’Thos with the blackstone.
+		- Negotiating.
+		- Hiding Zaida.
+		- Fight.
+			- “Huldar, she would kill you."
+		- The Nuke.
+	- Huldar pulverizes blackstone. Gets it wet.
+	- Casts identify.
+	- Karna takes damage. “We’re on our way.”
+- Post Session
+	- Doors close, Huldar's comment about space.
+	- Calls Mia, bronze eyes, she sees an opening.
+	- Many options discussed.
+	- Karna has his dream.
+	- Sameera is thinking about Yuska and maybe on cue, she appears. (See talking points in plan.)
+	- The five follow her, find the back open, tie ropes, Doorna appears through an opening from the narrow end of the now egg shaped chamber.
+	- “You are of no consequence to us - but Zaida _stays_.” A sword of pure radiant energy extends from her hand.
+	- Karna and Huldar leap out and falter on the rope, while Sameera and Mayvra - with Zaida holding tight land softly.
+	- Down descends Doorna.
+	- Doorna kicks backwards into a backflip, Mayvra’s ice bolt narrowly missing her. Her eyes are on Zaida.
+	- She charges forward and buries the blade into Huldar’s midsection. Huldar is unconscious.
+	- Karna catches her with his Glaive, arresting her advance.
+	- Sameera hits her with an arrow with dizzying power.
+	- Emboldened, Zaida charges forward and jabs her shortsword where the Curator was - but she’s so quick, it’s like she’s in two places at once.
+	- Karna jabs, clearing Zaida’s escape - she sprints away.
+	- Evangelion turns sharply, headed for the ground.
+	- Mayvra once again conjures a thunderous surge of pure sonic energy - and as it focuses, pummeling the Curator’s form - that form now cloaked in divine smoke, collecting heavy on the ground - the voice of Kord can be heard on the wind: “YESSSS.”
+	- Evangelion strikes the ground, part of it protected, and it transforms, quickly now.
+	- Gather gold, Sameera and Karna pick up Huldar. Mayvra surveys the area, sees a thick, overgrown and wild expanse that clings close to the base of the Penumbra.
+	- They can hide their.
+	- Mia, absent her summoner, circles above Evangelion and sees Yuska dart out at preternatural speed.
+	- The High Curator strolls out hands clasped behind back.
+	- Mayvra finds them a perfect path, hacking back thick, verdant overgrowth as she goes.
+	- They can hear Yuska call out to the High Curator, but then the two - almost inexplicably - choose not to follow.
+	- Karna follows close to the base of the Penumbra, lots of caves. Finds one jagged gash. Unnatural hovel. Boots.
+	- Mayvra doesn’t want to bother whatever’s in there. Sameera is the farthest in, arm hooks around her neck. She and Karna drop Huldar.
+	- “Well, you don’t look like them.”
+	- Karna inquires - and his description is not unlike that of the Hope of Ioun.
+	- Takes into his burrow, apartment, or … whatever this is.
+	- Heals Huldar. Zaida really wants to pet him, and Mayvra cautions that she should ask permission first.
+	- Sitting down, criss-cross applesauce, she gets it - foot banging.
+	- He tells them of his charge, is mysterious about his order.
+	- Over a meal shares of Archdruid Oristivius Quan, who’s conquered the Myconid Wastes.
+	- He’s a collector of artifacts. Huldar wonders out loud about the Blade of the Silver Sun.
+	- Perhaps. They discuss traveling together. Pref is headed that way anyway. They could even leave today, after lunch.
+	- Scritches from Zaida, tousels her hair. “Yeah. This is good.” The five of you are alright. We’re all gonna be alright.”
+	

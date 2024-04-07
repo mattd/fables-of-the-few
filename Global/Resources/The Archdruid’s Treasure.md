@@ -1,0 +1,22 @@
+- Magic Items
+	- Consumables
+		- Feather Step Stone (Item 3)
+		- Graveroot (Item 3)
+		- Climbing Bolt (Item 4)
+		- Bloodseeker Beak (Item 4)
+		- Hunting Spider Venom (Item 5)
+		- Tiger Menuki (Item 5)
+		- Imprisonment Orb (Contains a a single casting of the Imprisonment ritual spell)
+	- Permanent
+		- Longbow - Potency (Rune 2)
+		- Guisarne - Striking (Rune 4)
+		- Holy Prayer Beads (Item 5)
+		- Scale Mail - Shadow (Rune 5)
+- Currency
+	- 8 pp
+	- 86 gp
+	- 235 sp
+	- 112 cp
+- Equipment
+	- Any two non-magical items of Common or Uncommon rarity
+

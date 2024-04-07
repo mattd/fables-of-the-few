@@ -1,0 +1,171 @@
+- **Global State**
+    - Experience Tracking
+        - Last Leveled Before: Session 12
+        - Experience Gained
+            - Making friends with Gehrp Flintfoot = 30
+            - Avoiding a fight with a Greater Barghest = 30
+            - Weak Myceloid (x2), Elite Myceloid (x1): Severe = 120
+            - Weak Myceloid (x2), Blindheim (x2): Severe = 120
+            - Fungal Vine (x2), Blindheim (x1): Low = 60 (Non-Fatal)
+            - Fungal Vine (x2), Blindheim (x2): Severe = 120
+    - World Information
+        - Date: Sirt, Cruvas 6th, 218 PA
+            - Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+            - Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+        - Time of Day at Session Start: 7:01 pm
+        - Solar Origin: Southern
+- **Kickoff**
+    - Operations
+        - We’ve got some new, easier-to-use tools!
+    - Recap
+        - Pref Patar, Harengon Ranger, member of the Dawn Walkers, charged with delivering the Archdruid Oristivius Quan to his prison on the Shadow Plane via a portal in the Sombrewood, strode with purpose up the boney, chitinous stairs of Sentience, living home of the myceloids. Karna, Sameera, Mayvra, and Huldar paused to consider their options - but certain aspects of their future felt inescapable. A web of decisions, fate, and blind luck have informed their position and their goals. Oglazath’s curse that requires pursuit of a key-like Blade. Sameera and Karna’s history with said blade, Zaida’s fusion with a strange orb at the beginning of all things, this infection that grows inside Mayvra - tying her to the myceloids. And right in the middle of all of these tethers, there was Zaida’s whispered warning to Mayvra before the party charged behind Pref up those stairs - “Sentience will want to keep you. And the fey will know what I am.”
+        - So, then, here he was before you: the Archdruid Quan, sitting atop a fetid throne, bloomed and decayed a thousand times over. Quan, a high fey, not of this world, appeared fused to his seat, covered in fungal growth, his eyes clouded over. Ribbon-like shadow spirits flanked him, and a shakey looking but enthralled myceloid stood guard. Covered in a thick membranous pod on the floor - and quite unconscious - was the woman Jin Lunai and her cohort had come to save: Brinni Stonesoul, leader of the Conventicle of the First World. Though Quan claimed respect for this strange band before him - freely offering his consideration - it was clear the fey ultimately had very little he cared to hand over. Huldar, for his part, went right for the juice. The four of you were here for the Blade - and as Huldar Minor Imaged up a simple facsimile, Quan’s attention fully focused on this chamber for the first time. The Archdruid mused aloud: everyone seeks that which the Collector is least likely to release. Huldar, Quan informs all of you, will _not_ be able to reach the Blade without great effort.
+        - Then, stepping forward, Karna spoke. Karna’s play felt, at that moment, like the best offer the group had: cut this deal (though for what _precisely_ Karna remained non-commital) and your group would actively dissuade anyone from making incursions on Quan’s domain. There _was_ a kernel of logic to it - but the being that Karna figured the Archdruid was least eager to confront … that’s exactly who Quan most wants to draw forth: Saiviel Second-Of-The-Name, Keeper of Worlds. At this admission, Mayvra, quietly hanging to the side, can’t keep her disdain hidden. As _if_ Quan could stand against Saiviel. But that’s the point - in his mind, Quan is _preparing_ for that meeting with Saiviel. And he sees his preparations as nearly complete.
+        - Suddenly, Quan paused. He had seen something fleeting. Zaida’s porcelain white skin - Mayvra failing to fully hide the smaller fey where Zaida clung to her back. It was okay, Zaida said. This was something Quan could work with - something truly worthy of his attention. Sister, Quan called Zaida. Bearer of the Graft of Briccriu, the Dawn Chronicle itself taken form. Karna and Huldar strode in front of Zaida. And as a last ditch grab at an upper hand, Huldar attempted a feint. Sure, he’d hand her over - and just leave. And showily, with great weight, Huldar did. But when he was out of sight on the floor below, Huldar grabbed a rune-carved Guisarne, and unfortunately triggering an alarmed trap of sorts - a long, twisting cat with more toe beans than you can count slithered out of a sudden cloud of hazy aether.
+        - And poof, everything fell apart, quickly. A marble of pure dark expanded from Quan’s palm, enveloping the entire room. With Huldar out of reach, a hectic scrabble unfolded. Missed shots, snuffed spells, hard hits. There was a muffled groan in the darkness as Pref fell, ribbons of shadow pulling out what remained of his soul. And there was Karna reaching for Zaida. He was able to hold true for a moment - but then Zaida was airborne, screaming, out of reach as Sameera scurried up the pocked wall in pursuit. As Huldar charged in, shield alit with Torag's light, the darkness spell Quan had cast dissipated. But Quan raised his extended hand, and Zaida shot towards the ceiling, a kind of smooth chrysalis knitting around her, slammed into the ceiling. Her palm pounded on the barrier that held her - and then stilled.
+        - Karna called out for aid - to anyone - and in time, when this is over, and he has time to process, Karna might be amazed to learn what responded. The myceloid, shaken free of its thrall, slammed itself into the feline poracha, momentum carrying it through a chitinous port that had opened moments ago. A musky, musty breeze blew forth, and Mayvra turned in its direction. As Karna and Sameera began to pummel Quan in earnest, Mayvra took the opening. Sentience lay beyond that open door. She needed only walk through and prepare to meet an incomprehensible being ready to ask for nothing less than Mayvra’s whole world.
+- **Session Material**
+    - Character Review
+        - Huldar
+        - Karna
+        - Mayvra
+        - Sameera
+    - Session Start
+        - [Sentience]
+            - We begin with Mayvra.
+            - The sound of your friends struggling against Quan in the room behind you reaches your ears only as a muffled clatter.
+            - Mayvra, you find yourself in an other-worldly place of … immense gravity. At least, that’s how it feels to you at this moment. Literally heavy - but not oppressive.
+            - As if in slow motion, your gaze turns to your right. A many-legged feline beast, long and lithe like a serpent, thrashes against the thick-armed grasp of the myceloid that pins it to the wall. The feline’s claws rip and rend at the myceloid’s body, but the Myceloid remains rooted to the spot, leaning into the wall.
+            - A heavy, click filled voice draws your attention. You understand it intuititively: “Go, my sister.”
+            - As your gaze turns to the left, you become aware of the air here. It is filled with glimmering, glittering spores that drift on unseen currents of air, tracing slow patterns through the light of early evening. You are in a lung. You are in a brain. You’re aware that your mind is grasping, trying to hold on to outmoded ways of thinking, but there’s no way for you to understand what this place truly is. At least not yet.
+            - And then your gaze lands on the edges of what you are certain is the source - the origin of what you’re becoming. But from this angle, where you stand, you can only see a few elements: a deeply layered mound of fungal growth and an umbilical tether hanging low to the ground. It’s no more than 30 feet away, tucked just out of sight on the west end of the room.
+            - What do you do?
+        - [Quan]
+            - Sameera, you reach to the quiver on your back and swifly - with a single deft motion - draw and nock another arrow in your bow. Karna stands to your side, pulling his spear from the Archdruid’s gut with a sickening squelch.
+            - A gout of dark purple muck falls from the wound and onto the floor. When you arrived in this chamber, you saw mostly this being’s fey form. But standing up close now, you see how little of him is actually humanoid. Quan had been seated on this fetid, fungal throne, a bloom that has bloomed and withered thousands of times. When Quan stood a moment ago, you could hear him rip free.
+            - Now you understand that sound. This thing before you - the thing that calls itself Quan - keeps its humanoid shape out of sheer will - but there’s no mistaking. He is one with this tower.
+            - Quan draws in a rasping breath and deftly grabs the shaft of Karna’s spear. “You may hinder me. I may fall - and in those moments, you may find yourself with the barest, most narrow sliver of time. But I will rise anew.”
+            - “_I_ am Sentience now. The being fully realized. There is no end to Sentience. And I will not be ended so easily.”
+    - Scenes
+        - The party battles Quan, and finds that his link to Sentience ensures his continued survival.
+        - Mayvra meets Sentience - and confronts a choice that may change the trajectory of her life.
+        - Wanting to end Quan’s authoritarian hold, Sentience offers to break all bonds with Quan and the hive - but only if Mayvra agrees to metamorphosis and the Bond.
+        - The party finds a rose crystal orb containing one casting of the Imprisonment ritual among Quan’s treasure.
+        - The party either dispatches or captures Oristivius Quan and must choose to deliver him to the Sombrewood - or to head directly for Saiviel.
+        - After dealing with Quan, the party revives Brinni Stonesoul and learns about the dealings of the Conventicle of the First World.
+        - Whether through a struck deal or the withering of Quan’s form, the last Blade of the Silver Sun is finally revealed.
+        - Zaida is either left with Quan or is revived when the Archdruid is robbed of his connection with Sentience.
+    - Secrets & Clues
+        - The Archdruid Oristivius Quan does, in fact, hold the seventh Blade of the Silver Sun - buried in a cavity in his chest that’s filled with myceloid flesh.
+        - Archdruid Quan obtained the seventh Blade from a woman named Brinni Stonesoul - who, in turn, had purchased it for a large sum from Fynn and Karna’s employer.
+        - Brinni Stonesoul is the leader of a group called the Conventicle of the First World - a cult based out of Cay Abrill, three days northwest of the Myceloid Wastes.
+        - Archdruid Quan didn’t just take the blade of the Silver Sun - he took Brinni herself and currently holds her in myceloid stasis, believing the Conventicle has discovered a deep truth.
+        - The cultists are close friends of Sameera’s mother, Meerabai - who lives with the First World Conventicle in Cay Abrill.
+        - The Conventicle of the First World has no use for the seventh Blade - instead, they seek leverage over Saiviel, believing they could deliver their people “back to the beginning”.
+        - In the mess of his sizable collection, Archdruid Quan has lost track of an at-first unassuming rose quartz sphere imbued with a casting of the Imprisonment ritual.
+        - Archdruid Quan’s Imprisonment Orb is etched around its circumference with an incantation, written in Draconic, which must be chanted to activate the spell.
+        - Archdruid Quan is able to control the myceloids by exploiting a link Sentience shares with her children.
+        - Though it thinks and acts on a scale misunderstood by most mortals, Sentience may be convinced by great devotion to sever the link she shares with her children.
+        - Saiviel’s allies now know something that the Curators do not - Saiviel Second-Of-The-Name is dying, much sooner than was foretold.
+    - Locations
+        - Sentience
+            - Baseroot Tap
+                - Naturally formed stairs like layers of chipped bone lead in.
+                - Hardened walls are smoother than the tower exterior and have a violet sheen.
+                - From out of the middle of the floor slowly - so slow it appears still - rises a bubble filled with a glowing orange liquid or gel.
+            - Gathering Spine
+                - Thick ropes of yellow-orange sinew branch from the wall.
+                - A twisted tangle forms a kind of spine that follows the ascent of the stair.
+                - A platform levels off, out of which extends two similarly colored, organically imperfect obelisks that curve back into the wall.
+            - Voice Tethers
+                - Boney stairs lead up to a wider platform.
+                - Thinner thread like protrusions run from the platform where they join and press thru the ceiling twenty feet above.
+                - A cramped, much narrower stair ascends on the tower’s east wall.
+            - Radiance Stem
+                - Organic vein running from floor to ceiling, encased in an opaque case.
+                - Strobes slowly with a light of changing hue that is bright enough to fill the room.
+                - Thick ropey tentacles have broken through shell-like walls.
+            - Collector’s Hold
+                - Walls covered with blister-like, opaque pods.
+                - Within the pods, a vast array of items of all kinds.
+                - An irregularly shaped aperture style door is shut tight.
+            - Lambent Archive
+                - Room well-lit by strobing veins and sun illuminating opaque ocular bays.
+                - Aperture doors stand open, revealing obviously arranged displays on stands and various man-made daises.
+                - A strange, oscillating, humming moan issues from somewhere above.
+            - Throne of the Archdruid
+                - Bone stairs lead to a high dais afront a seeking eye.
+                - Animate, fungal arms gather into the shape of a throne.
+                - A disordered set of crystaline shards pierce the floor.
+            - Sentience Seat
+                - A massive, brilliantly colored fungal bloom billows out of a split in the chitin-armored wall - narrow at the floor and widening to several feet across at eye level.
+                - Pushing out from the center is a gold colored pearl of sorts - at least a foot and half in diameter - from which flows a pulsing glow, its opaque flesh flexing and releasing.
+                - A single vine-like tether emerges from the bloom, draping low near the floor, connected to another split in the opposite wall.
+                - A shorter, stiffer, more crudely formed bloom rises from the floor near where the tether is attached - like an ornate natural chest in the shape of a spiraling lichen, formed from hardened carapace.
+    - NPCs
+        - Zaida (CG, She/Her)
+            - Archetype
+                - Allison Reynolds (The Breakfast Club)
+            - Story Connection
+                - Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+            - Description
+                - A small female, clearly fey, and somewhat larger than a gnome.
+                - True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+                - Glassy eyes much larger than normal, without iris or pupil.
+        - Pref Patar (NG, He/Him)
+            - Archetype
+                - Guinon (Star Trek TNG)
+            - Story Connection
+                - A well-traveled ranger policing the broad stretch of land between the Penumbra and the Myceloid Wastes.
+            - Description
+                - A later-middle-aged harengon with warm-hued light-brown fur and wildly long expressive ears that he can stand up or let flop down against his head.
+                - The fur of his muzzle is somewhat logger and graying and frames his perpetual, relaxed smile.
+                - He wears loose fitting trousers, a well worn leather vest that clearly doubles as armor, and thick, rigid bracers on both forearms.
+        - Oristivius Quan (CE, He/Him)
+            - Archetype
+                - Corrupted Theoden (The Two Towers)
+            - Story Connection
+                - An Archdruid, recently escaped from his prison on the Shadow Plane, has taken notice of the game that Saiviel plays.
+            - Description
+                - Sits atop a misshapen throne of myceloid flesh that has bloomed decayed, become fetid, and bloomed again - at least a thousand times.
+                - Quan appears fused to the throne.
+                - He is true fey, elven - long ears extending thin and long from his head.
+                - Flowing gold-blond hair is choked with snags and snarls of colorful fungal masses of various sizes - but still manages to look immaculate untouched by time.
+                - Lesions of all colors pock his skin. His eyes appear glazed with some slight milky substance. He stares absently into the middle distance, presumably viewing some scene that happens elsewhere.
+        - Brinni Stonesoul (CG, She/Her)
+            - Archetype
+                - Gaius Baltar (Battlestar Galactica)
+            - Story Connection
+                - Leader of the First World Conventicle - and friend to Meerabai, mother of Sameera.
+            - Description
+                - Elven woman with bronze skin and auburn hair.
+                - Dressed in a flowing, sleeveless dress cut far down from the neck.
+                - Heavy, ostentatious jewelry covers her fingers and wrists - but does nothing to impede her expressive hands.
+    - Monsters
+        - 1 Myceloids (Weak)
+        - 4 Poracha
+        - 2 Fungal Vines
+        - 1 Blindheim
+        - 2 Shadows
+        - 1 Oristivius Quan
+    - Magic Items
+        - Consumables
+            - Feather Step Stone (Item 3)
+            - Graveroot (Item 3)
+            - Climbing Bolt (Item 4)
+            - Bloodseeker Beak (Item 4)
+            - Hunting Spider Venom (Item 5)
+            - Tiger Menuki (Item 5)
+        - Permanent
+            - Longbow - Potency (Rune 2)
+            - Guisarne - Striking (Rune 4)
+            - Holy Prayer Beads (Item 5)
+            - Scale Mail - Shadow (Rune 5)
+    - Treasure
+        - Currency
+            - 8 pp
+            - 86 gp
+            - 235 sp
+            - 112 cp
+        - Equipment
+- **Resources**

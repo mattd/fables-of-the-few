@@ -1,0 +1,226 @@
+- Global State
+	- Experience Tracking
+		- Last Leveled Before: Session 6
+		- Experience Gained:
+			- Ghast: 450
+			- Living Lightning Bolt: 1,800
+			- Troglodytes (x2): 50 x 2 = 100
+			- Kobolds (x2): 25 x 2 = 50
+	- World Information
+		- Solar Origin: Northern
+		- Date: Ream, Cruvas 3rd, 218 PA
+			- Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+			- Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+		- Time of Day at Session Start: 3:42 pm
+- Kickoff
+	- Operations
+		- Pathfinder talk! Now or after?
+		- About Pathfinder
+			- Similarities and Differences
+				- Conditions are a big thing - your actions impose Conditions on your opponents, and their actions impose Conditions on you. They all have real, mechanical impact.
+				- Almost of all of your specific abilities comes from Pathfinder's version of Feats - and these are way more flexible and modular than they are in D&D.
+				- As a result, all the numbers are all bigger. By 20th level, you're basically a god.
+				- "Races" are called "Ancestries" and they have more to do with the features your character has than they do in D&D.
+				- Actions work differently - there are way more of them and they're more specific about how they work. (Some actions can only be done by folks who have taken specific feats.)
+				- There is no advantage/disadvantage - instead, almost all Conditions cause you to suffer a numeric penalty or bonus to a roll.
+				- In combat, instead of Action, Move, Bonus Action, Reaction, everything is an Action and you get three of them a turn (plus a Reaction and a Free Action).
+				- There are classes. Many of them are the exact same.
+			- With Pathfinder, all of the rules - the content from all of the books - is _completely free_. Their business model is different and I love it.
+			- It's a crunchier system. There are _more_ rules, but as a GM, that's actually a _godsend_ for me - I've struggled with the way D&D relies on the GM to make up rulings on the fly as they go.
+			- The big dust-up at D&D basically came down to the fact that the companies managing D&D are going to lock new versions of D&D behind some crappy video-game style virtual tabletop. I _like_ and _want_ the changes in the upcoming new D&D version.
+	- Recap
+		- With the terrifying electric avatar of a long-absent god hovering before her, Mayvra’s mind was filled with splinters of memory that clicked against each other and calcified into something visible and visual, a brief chain of moments hanging in time. A druid grandmother, a community of renewal druids, all wielding fire. The grandmother’s death. The Circle’s loss of control. And that moment: dawn, and Mayvra’s house on fire. Something is in her house. She _needs_ it. But she cannot move. Behind her, a storm builds, rain beginning to wet her fur. As the memory took hold and her attention returned to the present day, a detail hung in her mind. That fire had started in darkness, the sun well below the horizon. And that brilliant dawn. Tears streamed down her cheeks.
+		- Here, in this time, the words of the Storm Lord rumbled for all to hear: “Good. Prove yourselves.” And they did. Mayvra lightning lured the avatar, pulling it towards her, making an opening for Sameera to send an arrow moving at incredible speed into the heart of the apparition. As Huldar’s ethereal mace swung through it, the avatar recoiled - and then exploded, sending a giant beam of lightning directly into Karna’s chest, knocking him from his feet. As Zaida charged to his side, Huldar tossed her a potion of healing. “What … _is_ this?” she squeaked, before taking Huldar’s direction and slamming it forcibly down Karna’s gullet. Mayvra threw her hands behind her and a wave of thunderous force pummeled the apparition - and again, it retaliated, this time dropping Zaida. As it rose above their heads, Huldar shouted after it. “Prove YOUR self!” Karna, bleary eyed, propped himself up, took aim, and loosed an axe into its center. Finally, it gave up its form, its energy rippling outwards.
+		- This energy changed and calmed. “I am close,” this avatar said. “Closer than they realize. A god, but you need not bow. A god, but you need not believe. You are my fist. You are the harbinger. To you, I grant this gift.” Lightning encircled Mayvra, consuming her, branching out from her and lifting her off the ground. The gift was granted - and Kord departed. As Huldar tended to an unconscious Zaida, Mayvra scoped out a rise in the distance. Upon arrival, you found what turned out to be a massive arcane orrery. But at the moment, it was rest that was needed. As folks bedded down, Huldar intoned to Mayvra, “Is your name really Destiny?” Then, he stammered, “Are you okay? You maybe were … crying? I just wanted to … you know, check.” Mayvra was resolute. “I wasn’t crying. The lightning was in my eyes.” And the night passed quietly. In the light of pre-dawn, Sameera could make out a pencil-thin line of smoke on the horizon - a small camp perhaps. But it seemed to pose no danger.
+		- After sunrise, Huldar found himself at the control panel of a functional but ancient and badly neglected Orrery. Through the use of an Identify spell and a series of deft moves, he, Zaida, and Sameera managed to navigate ethereal images of galaxies and planets that were, presumably, an incalculable distance away. Huldar locked on one planet not so different from Nerah - but when he released the controls, the arcane machine powered down, perhaps full of secrets still untapped. Before making off for the Penumbra Range, Sameera called Yuska, asking her her exact location - and confirming the group was close. “Delightful,” she responded. “You’re within a day’s travel. Follow the eastern side of the range. Trust me - you’ll see it.”
+		- They were off. The five passed by the massive, explosive wound - the genesis of the Penumbra Range, a chill air surrounding them. Maybe it was Mayvra’s memory of her grandmother that triggered it - maybe not - but a gut sense caused her to look twice at an odd turn of stone. Lo and behold, rough hewn stairs tucked back at the edge of the rubble lead to a ridgeline trail, cutting precious hours of tough climb from their journey. They climbed and climbed, a breathtaking vista sprawling beneath them.
+		- And then: temptation. A shattered ridge of crystalline ice revealed a dark cavern below. The group wanted a peak, but without Mia to send down, Huldar would need to meditate a bit to summon her back to this plane. As he did so, Sameera trekked ahead - and saw it for the first time - three ornate towers, floating above a great ledge branching from the Penumbra’s tallest peak. Golden rings of light hovered around the largest tower. Tiny platforms whisked along and between the towers. Sameera excitedly reported back, but Mia was ready. And this group … this group chose danger.
+		- Mia fluttered down into the abyss to find a circuitous drop of about 200 feet - and at the bottom was gold. _Lots_ of gold. As she circled, a chunk of ice crumbled from the wall and revealed the shape of a small, puckish ice sprite. It flew wide circles as it yipped and clicked. There was some debate, but the decision also seemed like it was already made. As Zaida and Mayvra watched from the top, Zaida’s feet dangling into the crevasse, the other three tied off their ropes and spelunked down. Mayvra for her part tossed their rope down when Huldar, Sameera, and Karna realized they needed more rope.
+		- At the bottom, Huldar and Karna - finding the rope still short - dropped the last fifteen feet, and Sameera deftly swung wide and tied the rope off against a craggy, crystalline wall. The gold. So much gold. But also: Mephits. Five more of them, peeling free. Then a massive crunching sound as a much larger form, 25 feet in height, pushing itself forward out of the wall. Sameera clocks a ring on its finger as it raises its hand to its face and balls its crystalline fingers into a massive, boulder size fist. The cavern is quiet, filled only with yipping and clicks, as the golem dropped its shoulder, ready to charge.
+- Session Material
+	- Character Review
+		- Huldar
+		- Karna
+		- Mayvra
+		- Sameera
+	- Session Start
+		- [Trench Entrance]
+			- We begin at the level of the Penumbra Mountain’s ridgeline.
+			- We see two figures - Mayvra and Zaida - sitting at the very edge of a long rift in the strange crystalline ice that makes up most of the top quarter of this mountain range. The ledge on which they sit juts out before cutting sharply backwards.
+			- Their feet dangle into this rift. Mayvra: Zaida kicks her feet back and forth in wide arcs.
+			- “It’s not … very cold.”
+			- You’ve been up here for most of a day, hiking, clambering up jagged footpaths - and this is the first time you’ve stopped to reflect. Zaida’s right: it’s _not_ cold. The _ice_ - or whatever it is - is cold. But the air isn’t. Or rather, it is - but only near the ground.
+			- It’s at this moment that you hear a chittering - then the sound of cracking, like crumbling ice and stone scattering on the ground. Then the sound of a thunderous smash - one that you feel where you sit.
+			- What do you do?
+		- [Trench Interior]
+			- In the dim cavern, torchlight glints on a carpet of gold coins beneath your feet. But at the southern end of this main chamber, a cloud of debris - a mix of ice and stone - settles to the floor.
+			- This creature before you - it’s crystalline, not flesh - and yet its form flexes like muscle. It clicks and clinks like cracking ice. It slams its fists against the ground. The chittering of the ice mephitis that fly in circles above you intensifies - and is not unlike laughter.
+			- Then this massive golem strides, then leaps towards you - crashing to the ground at a full run.
+			- It’s time to roll initiative.
+	- Scenes
+		- Having descended into a treasure filled cavern, the group faces off with an Ice Golem and their minions.
+		- As the group leaves the cavern behind, Evangelion bursts open to the sky with radiant light.
+		- The group navigates a massive gap between peaks via the Sheer Cliff Cables.
+		- Arriving finally at their destination, the group finds Evangelion in the process of a complex and baffling transformation.
+		- Sameera and Zaida are reunited with their friend, Yuska Rei.
+		- Yuska takes the group to High Curator Kwelan Amikye and Curator Veo Doorna - and sees Zaida’s mood swiftly change.
+		- Through Yuska, the two Curators provide answers to many questions - about Saiviel, the Blades, the Graft, and the Adjuration Flare - but also lay bare the hard truth about Zaida’s future.
+		- The group potentially stays at Evangelion for the night - and plans their next move.
+	- Secrets & Clues
+		- The Penumbra Range was formed by a burrowing Frost Worm Colossus named Taenoth the Uncorrupted.
+		- Rather than returning all at once, the Hope of Ioun has, in fact, been returning one curator at a time, drawing attendants from across the northern reaches of Midsommar.
+		- Both monks and curators have wandered some distance from Evangelion - and have been spotted by adventurers and gatherers several times.
+		- The High Curator Kwelan Amikye is moments away from returning, delivered via a column of light that reaches to the stars.
+		- Evangelion is a vessel built for flight.
+		- As its warden, Curator Doorna is the only being - on any plane - that has the ability to transition the Graft of Briccriu to its final form.
+		- When the Graft of Briccriu transitions, its host is subsumed, melding with the Graft’s accumulated knowledge.
+		- Lo’Thos has reached Prine and activated a sleeper cell of Shadowghasts that have lain in wait for months.
+		- Lo’Thos is preparing to take control of the Akremahtir, the Night Tower.
+		- Dormant since the end of the Age of Many, Akremahtir waits to be activated, covering the southwestern reaches of Midsommar in a dome of impenetrable darkness.
+	- Locations
+		- Cold Crystal Trench
+			- A ridge of opaque crystalline ice shattered down the center.
+			- Wind passing over the shattered ridge fills the range with a ghastly, multi-tonal drone.
+			- A narrow, craggy crevasse widens before disappearing into darkness below.
+		- Sheer Cliff Cables
+			- A steep, wide peak of ice and stone flattened on one side, exposing a thousand foot drop.
+			- A cable bridge two hundred feet in length spans the gap to a trail that picks up below a much wider peak.
+			- The cables’ slack sways in a stiff breeze.
+		- Evangelion
+			- Exterior
+				- Initial
+					- Three towers float above a natural plateau jutting from the side of the Penumbra’s tallest peak.
+					- The largest is ringed by three hovering circles of brilliant golden light.
+					- Flat, free-floating lifts, tiny from a distance, scale each tower, or swoop quickly from one tower to the next.
+				- Transformed
+					- Each of Evangelion’s towers in various states of descent - with the largest braced against the ground and slowly expanding.
+					- The quiet, minute, but unmistakable sound of an arcane clockwork.
+					- The largest tower, now standing on the ground, has sprouted supporting struts - almost like spindly arms - as its center reforms itself into part of a larger sanctuary hall.
+			- The Shuffling Stair
+				- A tower - still airborne - splits into three parts and the largest descends towards the ground quickly, unfolding into a strange layered fan on its side.
+				- The fan-like structure flexes together once more - then releases, revealing what is now clearly a stairway.
+				- The architecture, however, seems to be considering its own design as it goes, and as it rebuilds itself the stair swoops in front of you, finally beginning to attach itself to the larger sanctuary chamber.
+			- Kaleidoscope Sanctuary
+				- A massive, mostly finished chamber that’s roughly spherical with walls consisting of intricate mirrors and opaque crystal.
+				- Even now, the chamber rearranges itself, opening further, making room for an additional tower that drops silently into place.
+				- A high pitched ringing or hum fills the air - like the sound of a perfectly machined puzzle assembling itself.
+			- Moonkeeper’s Ward
+				- Three floor panels, equidistant from each other against the sanctuary walls, pull back like retracticing apertures.
+				- The floor beneath rerranges with soft clicking and whirrs, revealing a winding stair leading into the floor.
+				- All three stairs lead into a room with curving beds arranged closely together, head to foot, in a ring.
+				- A large semi-spherical dome sits in the middle of the ring.
+	- NPCs
+		- High Curator Kwelan Amikye (NG, He/Him)
+			- Archetype
+				- Dr. Manhattan (Watchmen)
+			- Story Connection
+				- Harbinger of the Knowing Mother’s return.
+			- Description
+				- Pale, opaque skin that reveals incandescent, ultra-violet veins.
+				- Unhealthily slender, dressed in simple but resplendent clothing - an angular and precisely embroidered poncho.
+				- Brilliantly colored, ethereal smoke flows in constant streams down their cheeks.
+			- Talking Points
+				- [A History]
+					- For years innumerable, the people of Nerah suffered but persevered.
+					- Day and night, an endless cycle of sunrise and sunset.
+					- The nights ruled by a darkness that crawled with unspeakable danger.
+					- For most sentient beings, days were spent preparing for the relentless terrors of the night.
+					- But a few learned how to harness the powers of the dark - and speak with the myriad beings that roamed there.
+					- The world seemed beyond repair. One by one, the attention of Nerah’s many gods turned to other worlds.
+					- Eventually, two archfey rose - a pair bound in a continual chain of death and rebirth.
+					- They yearned to put an end to Nerah’s endless suffering.
+					- These archfey convinced one of the few gods that remained - Avandra, a god of chaos - that Nerah was indeed beyond saving.
+					- The archfey asked Avandra to leave the task of rebuilding Nerah to them.
+					- The plan they detailed acted on a planetary scale: the god would sunder nearly everything and stop the world’s rotation.
+					- The archfey would protect a chosen few and send them into a slumber that would last millenia.
+					- When Nerah was purged of the evil behind the darkness, those chosen few would awaken and live in the light of the Endless Day.
+					- The god of chaos agreed, and the plan moved forward.
+					- But something went wrong.
+					- A kernel of the darkness remained, and over time it grew - to a strength beyond what any generation had ever known.
+					- Alerted to the strength of this dark power, the attention of the gods has turned back to Nerah.
+					- We, the Hope of Ioun, are now manifest. We are the keeper of knowledge. We precede her return.
+					- We will fulfill our true purpose. We will receive the Knowing Mother, and deliver to her the knowledge of the Few, the record of Nerah’s darkness, and the potential for destruction beyond all measure.
+		- Curator Veo Doorna (NG (She/Her)
+			- Archetype
+				- The Childlike Empress (The Neverending Story)
+			- Story Connection
+				- Attendant to the High Curator and warden of the Graft of Briccriu.
+			- Description
+				- Hair appears weightless, floating almost imperceptibly above the shoulders.
+				- Similar to the High Curator, but with a softer, round shapeliness.
+			- Talking Points
+				- [To Zaida]
+					- “I see your trepidation. I see the doubt in your eyes at this moment.”
+					- “You needn’t worry, my darling. You will be delivered. Your journey is not yet at an end - but the Hope will ensure you find your way into her knowing embrace.”
+					- “The bearer - oh, my darling … you’ve achieved your purpose.”
+				- [To The Party]
+					- “This world is in your debt. The Knowing Mistress - she, too, is in your debt, though so far she does not know it.”
+					- “Not only has Zaida reached us - but the skies outside are quiet. Her whereabouts is unknown."
+					- “We will gladly take Zaida into our care. Your efforts have not been in vain.”
+					- “That is no small accomplishment.”
+					- “You have done well.”
+		- Yuska Rei, The Guide (LG, She/Her)
+			- Archetype
+				- Sandman (The Sandman)
+			- Story Connection
+				- Last of the Circle of Six, steward of the Hope of Ioun, and trusted friend to Sameera.
+			- Description
+				- Wears a long sleeveless vest identical to that worn by Akio Kiran in Wyrfall. 
+				- A human woman with an unmistakable but distant tiefling heritage.
+				- Fiery tone to her skin that shifts from orange to yellow.
+			- Talking Points
+				- [On The Blades]
+					- “Why he thinks that … the High Curator won’t say.”
+					- “The fact that Saiviel _already_ holds six of the Blades. There’s no plan for this. This isn’t the way it was supposed to go.”
+					- “The High Curator - and the others … this is a bad situation they’ve returned to.”
+					- “But _this_ Saiviel … the one that walks Nerah today … for some reason, the High Curator believes we can reason with them.”
+				- [On Zaida’s Purpose]
+					- “She _is_ the Graft.”
+					- “And the Knowing Mistress will arrive. She’ll … take Zaida … “
+					- “There’s no … space.”
+					- “What is … written. What is … recorded in Zaida now. It will be … read. It will be … removed? Catalogued.”
+					- “Understand that this is what _must_ happen. The darkness that grows on Nerah is far, far bigger than this world."
+					- “It was an anomaly. And to stop this darkness, the gods must understand how it happened.”
+					- “You need to understand what Zaida _is_ now. She is the record of this world. There’s … well, there isn’t any separation between her and the Graft of Briccriu.”
+		- Zaida (CG, She/Her)
+			- Archetype
+				- Allison Reynolds (The Breakfast Club)
+			- Story Connection
+				- Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+			- Description
+				- True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+				- Glassy eyes much larger than normal, without iris or pupil.
+				- A small female, clearly fey, and somewhat larger than a gnome.
+	- Monsters
+		- 6 Ice Mephits
+		- 1 Ice Golem
+	- Magic Items
+		- Gloves of Hill Giant Strength
+		- Potion of Greater Healing
+		- Pearl of Power
+		- Potion of Fire Breath
+		- Ring of Cold Resistance 
+- Resources
+	- Treasure
+		- Coinage
+			- Pieces
+				- 119 PP - 2.38 lbs.
+				- 342 SP - 6.84 lbs.
+				- 15,104 GP - 302.08 lbs.
+			- Total Weight
+				- 311.30 lbs.
+	- Distance Travel
+		- Pace Rules
+			- Speed per minute is a number of feet equal to 10 times character speed
+			- Assume average party speed of 30 ft.
+			- 8 hours of travel is permitted per day
+			- Speed per hour is a number of miles equal to character speed divided by 10
+			- After 8 hours, each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion
+		- Pace Buffs/Penalties
+			- Fast: -5 penalty to passive perception scores
+			- Normal: None
+			- Slow: Able to use stealth
+		- Calculated Daily Pace
+			- Slow: 18 miles/day
+			- Fast: 30 miles/day
+			- Normal: 24 miles/day

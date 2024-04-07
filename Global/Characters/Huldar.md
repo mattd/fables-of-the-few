@@ -1,0 +1,28 @@
+- Initial Notes
+	- Huldar
+	- Pastoral Firbolg
+	- He fell in love with weapons because of the world being harsh
+	- Met someone who can teach him - got religion from that
+		- Thenolin, a female dwarf
+	- Has he been on the journey for awhile?
+		- Schism at Wyrfall and Il Ausper put stuff into motion.
+	- Part of Tucker? Not at all Tucker?
+		- Not a Tucker foil or stand-in.
+		- Low charisma as a way to vamp on not knowing what to do.
+		- To be more artistic - play at being artistic.
+- Starting NPCs
+	- Irrun Tinn, (they/them)
+		 - Bugbear gray fur with white fur along their sternum. long brown hair. Got a little chonk to them. Wearing a pinkish fabric wrapped around their top. White capris. Black leather wrapped around feet. Carries a great axe black metal head. Flask chained to their belt.
+		 - Jovial person, cunning business person, drives hard bargain. Reputable clerk. Huldars been selling weapons the longest but they had a shield he really admired in a display case. Just recently stole the shield from them.
+		 - Starts in Wyrfall.
+	- Henk, orc. (He/him)
+		- Super cut. Vibrant green skin. Wolf pelt head piece. Leather belts cross his massive pecs fur lined epaulets and bracers. Dark Green and fur trimmed half plate on bottom. Incredibly thick bow and quiver
+		- More rough and tumble. Bit shadier. Rival of Irrun. Gouges ignorant folks. Respects when people have an eye for quality. Huldar doesn’t much care for him but his wares can be interesting, especially behind the table.
+		- Starts in Il Ausper.
+- Development Prompts
+	- Tucker’s Idea
+		- “I like the idea of Huldar learning more about his giant origins and picking up levels of fighter along the way”
+	- Hook Concept
+		- Giants were left out of the Long Sleep.
+		- The few that did survive aligned with the [unnamed darkness].
+		- Their motivation for doing so was complex: in part for protection, in part animosity for what had happened to them.

@@ -1,0 +1,17 @@
+- In Session
+	- Forge first rune, light incantation etches across mace, striking.
+	- Crafted bronze bull pendants, reminder of who Sentienc Mayvra was.
+		- As a reminder of what you once were ... or still are? I'm excited to see what you can be.
+		- Of course, thank you.
+	- "It's an option" about becoming a leshy.
+	- Sameera doesn't remember her mom leaving. Young, remembers only aspects, not what she left.
+	- Huldar makes play on Sameera to "I would see my parents if I could."
+	- Karna: we just need to make sure we secure this artifact.
+	- "Last time a blade was involved a lot of people died."
+		- "A town was razed to the ground."
+	- On leaving for the First World
+		- Mayvra: "I just got here."
+		- Huldar: "But you've been here."
+		- Mayvra: "That was different."
+- Post Session
+

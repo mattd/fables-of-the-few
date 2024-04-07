@@ -1,0 +1,154 @@
+- **Global State**
+    - Experience Tracking
+        - Last Leveled Before: Session 18
+        - Experience Gained
+            - None yet!
+    - World Information
+        - Date: Sirt, Cruvas 20th, 218 PA
+            - Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+            - Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+        - Time of Day at Session Start: 4:02 pm
+        - Solar Origin: Southern
+        - Kord’s Arrival: Syhr, Cruvas 28th, 218 PA
+- **Kickoff**
+    - Operations
+        - If last session was a wrap-up, this one is the pivot session.
+    - Recap
+        - We began bathed in a strobe of iridescent light, the manifestation of synapses forming. Where there was once only Mayvra, now there was a plural, more than just “I”. A new being, Sentience/Mayvra - for lack of a more suitable name - felt, in their first moments, a sense of … peace? Acceptance of facts that they already understood. This was a feeling that - I dare say - Mayvra may have never experienced, at least not in recent years. A sense that things … just “were” and “fit”. And then - with a crack of light - this new being _was_. Before them was Mayvra’s god, a storming maelstrom cloaked and contained at this moment in the form of a myceloid. Kord, the Storm Lord, knelt in front of Sentience/Mayvra, an oddly aged Zaida behind and to one side - obviously bearing a complex weave of emotions. And on the other side, Saiviel Second-Of-The-Name. Saiviel is _furious_ to hear how near Kord is to Nerah. They had a _deal_, Saiviel complained. And as this space in between lives crumbled, there were final words from the Storm Lord: “Protect the Waypoint, my child. Without it, I am lost to this world.”
+        - And then Sentience/Mayvra awoke. Sameera ran to gather the others, leaving Pref to introduce himself - and marvel at this new being’s duality. Mayvra is smaller now, but _strong_. Reassured by Sentience/Mayvra’s mode of being, Pref looked frantic. He could leave _now_ - and spare a lot of hurt, he figured. “If you need to live another way,” Sentience/Mayvra said calmly, “you can go.” And at that, Pref _bawled_. Completely lost it. And then the moment passed, and the group cycled into the room. Farewells were inevitable. But first, a welcoming. Sameera and Karna seemed both to hold the same kind of reverence for their new/old plural friend. But Huldar, finding Sentience/Mayvra last, seemed to just _get_ what they were all about intuitively.
+        - After the Sentience tower fell, Pref had guided the group here - a kind of palatial but largely empty safehouse maintained by the Dawn Walkers. In this sparse infirmary, light filtering in through cream-pink, strangely porous walls, Zaida and Brinni Stonesoul recuperated, Pref having done all that he could to heal them. They would wake in time. With all accounted for, conversation turned to what the group had accomplished - and the overall state of the world. Through a static-y interference that hid the Dawn Walker’s secrets, Pref made it clear he had been called west to the Night’s Quarter. And it was at this point that a realization struck Pref. Sentience had _millenia_ of context on this world - and together, as the two of them told stories in pieces, a narrative evolved - with many blank spots now newly filled.
+        - Saiviel Second-Of-The-Name is known also as Nerah’s Worldkeeper. Many thousands of years ago, a darkness was born on this world. Sentience was aware of it, having been initially formed at some point before that birth. The gods were ready to leave the planet, intending to let the darkness win out, consume all, and then wither and die in the vastness of empty space. But Saiviel First-Of-The-Name brokered a deal. Knowing the gods had already given up hope - but believing deeply in the planet’s promise - Saiviel asked for aid in stopping Nerah’s rotation and decimating all but a small pocket of protected life. He would care for the lands in light and quarantine whatever remained in the well-scorched dark, lest some errant bits of evil remained. He convinced the gods, somehow, that what evil was left was best confronted where the light couldn’t touch. While he worked, while the world healed, those few that he had protected, those that survived great terror would sleep until all was clear. But, quite obviously, _something_ interfered.
+        - In this present day, whatever darkness grows does so swiftly. And this is where Pref muses openly. Many guesses now confirmed by both what the group has told him about their quest for the blade - and Sentience/Mayvra’s added context - highlight unanswered questions. Saiviel Worldkeeper seeks for the Blades of the Silver Sun, keys to the Adjuration Flare, used to call the gods back to this world. Why would Saiviel _want_ the gods to return? If Saiviel was a bad actor, wouldn’t he, more sensibly, want to _keep_ that from happening? Wouldn’t he rather _destroy_ the Flare? But why, then, would he need the keys? And where _was_ First-Of-The-Name? Where had they gone? Would they return?
+        - Everything on Nerah is moving faster now, rushing to some dark end. As Sentience/Mayvra tested the operation of their new body, all cartwheels and exaggerated walks, Pref said his goodbyes. He and Huldar repositioned venting of an arcane forge in the sub-basement. Pref passed Huldar the keys to this house, and explained that there were others, drawing their locations out on a map. Pref had seen Huldar’s kind soul - a fact underscored when Huldar, touched by the realization that Dawn Walker safehouses were engineered to house those that remained at the end, forged a steel horse to sit quietly in a room stocked at first with only a single meager toy. For Sameera, Pref had encouragement - and the gift of context that would echo only after he left - knowledge of the Conventicle of the First World, a cult in Cay Abrill that believes Saiviel intends to return us all to the plane where all life began. Pref picked herbs with Karna, and introduced the aging warrior to the barest glimmer of the stars. Pref implored Karna to embrace his gifts, ready himself for the battles that remain. Pref claims Karna is more capable and mighty than he assumes. Karna’s friends will need it.
+        - And for Sentience/Mayvra, there was wonder - Pref’s instinct that something had changed, that maybe _this_ being’s very existence - it’s uniqueness, a duality that mirrored aspects of Nerah’s story itself - maybe this was a turning of the tide. One could hope.
+        - And then Pref was gone. Days passed, and as Sameera returned from archery drills, she found Brinni Stonesoul still asleep but breathing swiftly. Sameera approached, perhaps panicking, and as she laid a hand on Brinni’s sternum, Brinni awoke suddenly, and deftly grappled Sameera by one arm. Sameera’s earnest expression won a brief moment of trust. Brinni rapidly pelted Sameera with questions, but Sameera - wisely - stopped _just_ short of telling Brinni of the Blade of the Silver Sun. Yet there was a look on Brinni’s face. “Sameera?” she asked, eliciting a nod. “Meerabai?” And Brinni froze, drawing only the slightest of breaths. “Yes,” Sameera continued. “She was my mother.”
+        - “_Was_, my kindred darling?” A slight smile crossed Brinni’s face. “Meerabai is with us still. With the Conventicle. Meerabai is, in fact, very much alive.”
+- **Session Material**
+    - Character Review
+        - Huldar
+        - Karna
+        - Mayvra
+        - Sameera
+    - Session Start
+        - Sameera, you stand in a large, mostly unappointed room in the Weaver’s Wend - built millennia ago by Pref’s pre-cedents, the earliest Dawn Walkers. This room, this building, shows almost no age. The asymmetrical curves of the walls - as they ascend far above you - fade from cream to pale rose and back again. The early evening light filters in through a near-infinite number of perforation holes, somehow sealed from the passage of air - but letting through the evening’s soft sun.
+        - Brinni Stonesoul sits on one of the austere beds in this room, the tall base of which is of one piece with the floor. In this way, it’s more of a table than a bed, but contoured and carefully crafted. Brinni sits with her back slumped slightly and her hands clutching a thin mattress on each side. On another identical bed, ten feet to her right, lies Zaida - still asleep, breathing quickly and drenched in sweat.
+        - This next part is important - and I did not write it down after last session: Who else is in the room, and where are you standing?
+        - [If anyone within 30 feet is wearing a dagger, Brinni rolls Perception against the character’s Stealth DC.]
+        - For anyone not in the room, where are you? It is nearing meal time, the sun still high, but steadily falling lower in the sky.
+        - Brinni is dressed in several white garments, thin but layered, a sharp contrast to her _literally_ bronze colored skin.
+        - “What’s the nature of my stay here, daughter of Meerabai? Am I your prisoner?”
+    - Scenes
+        - The group grapples with Brinni Stonesoul’s revelation that Sameera’s mother is not only alive - but relatively close at hand.
+        - Zaida awakens at the sun’s turn - changed and aware of Brinni’s presence.
+        - Zaida contextualizes what Sentience/Mayvra saw in her dreams - drawing a line from the Graft of Briccriu and the Storm Lord’s imminent return.
+        - If she discovers that the group now carries the Seventh Blade, Brinni Stonesoul may attempt to take the Blade by force.
+        - On the road to their next destination, the party confronts the harried and frightened people of Vur Gamir, a city now in ruins.
+        - The terror that destroyed Vur Gamir finds the group - and attacks with great ferocity.
+        - The group may grapple with the impact of Oglazath’s curse, manifesting itself as a throbbing, necrotic blackness in the largest of veins (and - mechanically - the enfeebled condition).
+        - While on the road, the group becomes aware of a broken Nightstone Monolith, not unlike the one they encountered east of the Myceloid Wastes.
+    - Secrets & Clues
+        - **Archdruid Quan obtained the seventh Blade from a woman named Brinni Stonesoul - who, in turn, had purchased it for a large sum from Fynn and Karna’s employer.**
+        - **Brinni Stonesoul is the leader of a group called the Conventicle of the First World - a cult based out of Cay Abrill, three days northwest of the Myceloid Wastes.**
+        - **Archdruid Quan didn’t just take the blade of the Silver Sun - he took Brinni herself and held her for months in myceloid stasis, believing the Conventicle had discovered a deep truth.**
+        - **The Conventicle of the First World has no use for the seventh Blade - instead, they seek leverage over Saiviel, believing they could deliver their people “back to the beginning”.**
+        - Saiviel’s allies now know something that the Curators do not - Saiviel Second-Of-The-Name is dying, much sooner than was foretold.
+        - Saiviel has summoned a nameless city of the First World - but the enormity of the arcane force involved lead to miscalculations, leaving it half submerged in the dusty red soil of the Arrid Callum.
+        - The Adjuration Flare is more than just a beacon to be activated by the Blades, sending a call to the divine; it is, in its dormancy, a waypoint, the only relic visible from both this realm and the outer planes.
+        - Saiviel - ever-patient - grows restless, understanding that time is short and only days remain to prevent Kord’s return.
+        - The Adjuration Flare can only be broken once - and though Saiviel does not need the Seventh to break the beacon, deactivating the waypoint requires every blade.
+        - The Guecubu that terrorize the Vur Gamir encampment are the resurrected remnants of the Mortal Fade - followers of Lamashtu and scientists from the Age of Many, aiming to hasten evolution on Nerah in search of life’s perfect form.
+        - The people of Vur Gamir rely on the energy of the Heartbraid Wellspring to keep their progeny alive - all following an accident that left the community genetically compromised generations ago.
+    - Locations
+        - Weaver’s Wend
+            - Exterior
+                - Tucked into a massively wide and tall crease in a small-mountain sized stone protrusion that juts violently from the earth.
+                - A building, clearly person- or magic-made, but flowing and organic in appearance, somewhat like a wide- and stout-leafed agave.
+                - The “white fading to rose pink” exterior walls are delicately crafted with undulating, vertical ridges - porous, but that somehow reveals nothing of the other side.
+            - Interior
+                - Rooms are defined more by their furnishings than by their shape or size.
+                - Most spaces are flared at the bottom and ascend to a height of 60 or 70 feet, snaking gently upwards.
+                - Each cream and rose-pink space is well lit by exterior light that filters through porous walls - and which, from this side, can be seen straight thru.
+        - Vur Gamir Camp
+            - An encampment that at first glance suggests maybe 30 or 40 individuals make use of the amenities.
+            - Lean-to shelters appear anything but makeshift - there is crafting and architecture - an artifice inherent in each semi-permanent installation, several of which are set for and meant to accommodate whole families.
+            - A massive, mechanical arcane core has been reassembled here - similar in complexity, if not design, to the orrery the group investigated north of the Farhaven Ruins; it sits central to the shelters.
+        - The Mended Citadel
+            - A massively wide tower of ancient stone rises resolutely from the base of low and barren mountains.
+            - Large veins of polished brass trace circuitous paths across the entire surface of the tower.
+            - The din of what sounds like a town of unseen hundreds echoes from the tower’s many windows.
+        - Myceloid Ruins
+            - The air is heavy with a dust that catches the sun like dull glitter.
+            - Towers have fallen in many different orientations - some straight down, turning in on themselves, others crumbled like jagged bricks blown apart.
+            - Roving groups of myceloids of all colors shapes and sizes tend to piles of wreckage that … well, sighs - an indescribable sound of relief.
+        - Shattered Monolith
+            - An other-worldly hiss, broken by intermittent static, can be heard from a distance of a half mile.
+            - Waves of inner-ear turning distortion surge outwards in a slow, steady pulse.
+            - The ground is strewn with shattered jet black glass, and the parched soil ripped open like a deep-reaching tree that’s been rootballed in the recent past.
+        - Terraced Camp
+            - Slick-looking, wide grasses cover plains interrupted by natural, stone walled terraces erupting from the ground.
+            - On quick inspection, the stone walls are clearly natural, as if pulled up by some strange persuasive or magnetic force.
+            - Tall grass is in some places matted down in wide, rough circles.
+    - NPCs
+        - Zaida (CG, She/Her)
+            - Archetype
+                - Allison Reynolds (The Breakfast Club)
+            - Story Connection
+                - Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+            - Description
+                - A small female, clearly fey, and somewhat larger than a gnome.
+                - True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+                - Glassy eyes much larger than normal, without iris or pupil.
+        - Brinni Stonesoul (CG, She/Her)
+            - Archetype
+                - Gaius Baltar (Battlestar Galactica)
+            - Story Connection
+                - Leader of the First World Conventicle - and friend to Meerabai, mother of Sameera.
+            - Description
+                - Elven woman with bronze skin and dark auburn hair.
+                - Dressed in a flowing, sleeveless dress cut far down from the neck.
+                - Heavy, ostentatious jewelry covers her fingers and wrists - but does nothing to impede her expressive hands.
+        - Ergun Mistwing (LG, He/Him)
+            - Archetype
+                - Lirin Stormblessed (Stormlight Archive)
+            - Story Connection
+                - Last surviving council member of Vur Gamir; father to Araphine and brother of Dinadec.
+            - Description
+                - An upper-middle aged human man with dark pepper-strewn hair.
+                - A rough, weathered look - tanned skin and a beard that’s more like a week’s worth of five o’clock shadows than a proper, cared-for beard.
+                - Small circular glasses that sit low on the nose and an outfit that suggests a successful but reserved rural merchant.
+        - Araphine Mistwing (CG, She/Her)
+            - Archetype
+                - Newt (Aliens)
+            - Story Connection
+                - One of several Tethered Children of Vur Gamir; daughter of Ergun.
+            - Description
+                - A young child with shoulder length chestnut hair, fair skin, and freckles across the bridge of her nose.
+                - Comfortable looking clothes include a kind of utilitarian sash and flowy linen pants that billow about as she runs.
+                - On closer examination, her skin tone is wan and carries an empty blue cast; dark circles form quickly beneath her eyes.
+    - Monsters
+        - 1 Fence (Brinni Stonesoul)
+        - 1 Guecubu
+        - 5 Pipefox
+    - Magic Items
+        - Permanent
+            - Mace - Potency (Rune 2)
+            - Bag of Holding (Item 4)
+            - Aeon Stone - Preserving (Item 5)
+            - Wand of Shardstorm (Item 5)
+            - Clandestine Cloak (Item 6)
+            - Spined Shield (Item 6)
+        - Consumables
+            - Shrinking Potion ( Item 4)
+            - Fear Gem Talisman (Item 4)
+            - Emerald Grasshopper Talisman (5)
+            - Frozen Lava (5)
+            - Iron Cube Talisman (6)
+            - Oil of Weightlessness - Greater (Item 6)
+    - Treasure
+        - Currency
+            - 12 pp
+            - 117 gp
+            - 323 sp
+            - 84 cp
+        - Equipment
+- **Resources**

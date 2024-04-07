@@ -1,0 +1,32 @@
+- In Session
+	- No notes taken!
+- Post Session
+	- Started in the Dusk Meadow Inn. See read in notes.
+	- Discussed next moves, time is of the essence. Decided to only see Thenolin and then head off.
+	- Palebroak, first owl spotted above, hid behind Huldar’s minor illusion cart.
+	- Made their way carefully to the border of Brynn Gardens, owl went overhead but didn’t clock them.
+	- Sprinted all out for Brynn Gardens, Twilight Mendicant alights in front of them. See read in notes.
+	- Huldar casts protection from evil and good, Mayvra lightning lures, Karna sentinels and holds her in place. Arrow hits, black smoke. Goes for Zaida, figures out that she is the target.
+	- Zaida makes a break for it, Sameera chases after her. Mendicant deftly dodges magic from Huldar and Mayvra, mayvra even tries to gore the thing, totally raging, Mendicant goes to owl form, Karna swings and hits, loses owl form. Glaive to chest, puffs out.
+	- Makes way to Thenolin’s comes in. “You brought people here?” kind of vibe. Mayvra doesn’t give her name. “I feel you. Huldar doesn’t always think before he acts. I wasn’t mentally prepared myself.”
+	- Introduces to others. Huldar tells Thenolin about Mayvra saving him. Thenolin takes a shine to Zaida, hasn’t seen kids in awhile.
+	- Huldar asks about what Thenolin knows. She could sense Calm Emotions spell, mentions Andel disparagingly, but doesn’t know of much else. Huldar tells her of the Gray Guard, Wyrfall, and the Temple in the square.
+	- She asks if he really knows what he’s doing. Huldar admits he probably doesn’t. Huldar explains their next moves. Turns to Mayvra. “Watch after him.”
+	- Before they depart, shows him the hammer in a thrice locked chest Huldar knows not mess with. See notes in secrets and clues. “Don’t know why I’m telling you this.” If something happens to me … trails off. “… Then I should get rid of it?” “Maybe. Something is very wrong about this hammer. But I can’t give it up. Not yet. Do you understand?”
+	- They leave, head to dock. Guards call them an arcane tug to get the boat out of the Void Whorl. Old gnarled man with one squinched shut eye and one crazy darting eye charged them 4 silver to tug their boat to the north, and get them out of the Whorl.
+	- Arrive at the beach to the east of Farhaven, have to swim, Karna has to doff and don his armor.
+	- Rolling hills turn to stepped plateaus like something massive had scored the ground, rocky debris, light hits weird.
+	- Everyone but Mayvra sees something green darting behind rubble ahead.
+	- From behind, Trogs. Quaggoth comes out. See talking points.
+	- Massive fight.
+		- Mayvra ice zaps up high, slows him. Gets kill with shilelagh.
+		- Sameera hides, gets second trog kill? Held one shot to get sneak attack.
+		- Huldar takes big hits from one trog, casts shield of faith.
+		- Quaggoth massively expands in size, charges at Karna that stops it dead in its tracks.
+		- Mia’s floating around, btw.
+		- Everyone rushes in to the Quaggoth, pinning his advance.
+		- Huldar booming blades, purple energy wraps, Karna carves, hitting expertly.
+		- Zaida plings out two shortbow attacks.
+		- Sameera gets killing blow in the back - punctures the creatures lung, gasps for breath, falls towards Karna, nearly knocking him over, ends up splayed out at his feet.
+		- Zaida slams the bow down on the ground in frustration.
+

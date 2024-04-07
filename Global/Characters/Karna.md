@@ -1,0 +1,56 @@
+- Initial Notes
+	- Name: Karna
+	- Race: Human
+	- Gender: Male
+	- Age: Early 50s
+	- Class: Fighter (Eventual Battle Master)
+	- Appearance: 6”1, lean at 182 pounds. Dark olive skin, Tan eyes with flecks of hazel. Black, wavy hair that is half turned to gray, pulled back into a bun. Looks like he shaves often, but has stubble, mostly gray. He is right handed, but as he walks he favors his left leg. He uses his glaive as an impromptu staff for walking, and leans on it while at rest.
+	- Personality: Somber, not quick to smile, but will reciprocate. He is somewhere between introverted and extroverted, he favors the outdoors. He has a tendency to recluse himself, however his friend Fynn keeps him open. A heart that seeks the natural world, but has tended pessimism over time.
+	- Backstory:
+		- Childhood (1 - 18)
+			- The town he was raised in, Direcross, was small to medium in size, roughly 1000 people with a fair amount of transient people. People generally know who everyone is, but not always with the amount of transient people.
+			- Directors is located at the base of the Arrid Callum,
+			- Karna was raised towards the perimeter of the town, but not too far to be dangerous
+			- The town is occasionally raided by Knolls (or something else), these raids would take goods, people, and burn buildings
+			- Mother: Tenria (Botanist), Father: Wyll (Blacksmith?)
+			- Has a sister, Mayla, 8 years younger. He has an amicable relationship. Mayla took after her father, attracted to being a craftsperson. Playing with trinkets, taking them apart and building them back up.
+			- Karna took after his mother, favoring being in nature. He would go with her on her treks to document new foliage for use in medicine. He wasn’t gifted with knowledge, but loved being out in the forests.
+		- Working Adult (19 - 26)
+			- The raids on the town start to pick up in frequency. The town leaders call for more rangers to protect the border. Karna volunteers to join and is placed as a scout.
+			- “Fighting pairs” of scouts are sent into the surrounding lands to give notice of incoming raids. Their missions also involve searching out the various lairs of the raiders, to find any survivors of those that are taken, and then bring larger groups of rangers to try and extract prisoners.
+			- These fighting pairs are trained as a unit, one spearman and a blocker with a sword and shield. They fight slightly staggered, the shielder providing cover while the spearman keeps enemies back. They are trained that if they are caught, to kite their enemies, to favor defending each other over going for a kill
+			- Karna takes the role of a spearman. Loyalty and defending one another become a core quality of Karna
+			- He spends his time as a ranger mostly without issue. There are occasional clashes, but he and his smaller groups remain largely safe. Their foray’s were mainly in the Callum, but occasionally in the lower forests, where Karna felt most at home.
+		- Partnered (26 - 41)
+			- To help fund the rangers, the town starts contracting their services. Rangers are loaned as caravan guards, escorts, and general protection.
+			- Karna and his longtime friend / ranger Rye (Elf / Female / Age 107) are loaned as escorts for a small laboratory that specializes in potion making.
+			- Parth (Half Elf / Male / 62) is a natural scientist with a focus on botany. He needs escorts into the lower territories, downwards from the Callum, to help get specimens for his experiments.
+			- Over time, Parth and Karna fall in love. Karna leaves the guard and spends his time pursuing Parth’s research. Karna still acts as a guard for Parth, but his childhood fascination with his mother’s work takes priority.
+			- In this stretch of time
+				- Karna’s parents pass away due to sickness and work place disasters.
+				- Karna’s sister has two children with a Half Elf man, Vance. The children twins Elso (Male / 13 at present time) and Laysa (Female / 13 at present time)
+		- Adrift (41- 47)
+			- On one expedition, Karna and Parth are ambushed. The assailants were defeated, however Karna was grievously injured with a leg wound and Parth was killed. Karna managed to make it back to town with Parth’s body, but was left with chronic leg pain.
+			- Karna descends into a self destructive, directionless, in constant physical and emotional pain, Karna “borrows” pain relief from Parth’s employer.
+			- Karna eventually recluses himself on the outskirts of town, isolating himself from his sister and her attempts to help
+		- The Gang (47 - 52)
+			- Over time, Karna meets Fynn (Human / Male / 27) who helps to give Karna meaning again.
+				- Fynn is part of a small group, a gang, a family. They are only 5 members strong, and understand Karna’s pain
+				- They start engaging Karna in small jobs
+					- As a lookout while Fynn or one of the other members does a job
+					- A guide to some of the surrounding territories gathering ingredients for illicit concoctions
+					- Run shakeups for people who owe money
+			- Mayla (Karna’s sister) has tried time and again to get Karna away, but this has become his family. They saved him. They get him. Karna still appreciates his sister, but this is his life now.
+		- Repercussions (Present)
+			- The gang gets a job from an out of towner: Go into the Arrid Callum and retrieve (something?) from a natural oasis.
+			- The oasis ends up being a den for one of the larger hoards, the group hesitates, but the money is too good to pass up.
+			- They steal the thing but are caught by scouts on the way out, 2 of the 6 die, the rest make it back to town
+			- They deliver the goods to their employer and take their spoils back to the gangs house
+			- The next morning is met by the largest raid Direcross has experienced, close to 400 assailants
+			- Karna and Fynn are separated from the other two members, they flea Direcross after hastily grabbing what belongings they can carry
+			- As they go downwards, away from the Arrid Callum, they see Direcross in flames. They see individuals running from the town in pandemonium, some groups chased by assailants, others escaping into the jungles bellow.
+			- Karna tells Fynn he knows someone in Wyrfall, an old colleague of his husband. They might be able to shed some light into what it was they took that was so important
+	- Development Prompts
+		- Rasa’s Idea
+			- “Karna is gonna have a time of it trying to protect people who willingly throw themselves in danger.”
+

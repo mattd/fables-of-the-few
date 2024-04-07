@@ -1,0 +1,231 @@
+- Global State
+	- Experience Tracking
+		- Last Leveled Before: Session 2
+		- Experience Gained:
+			- Choker (x3): 200 x 3 = 600
+	- World Information
+		- Date: Syhr, Andhel, 28th, 218 PA
+			- Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+			- Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+		- Solar Origin: Southern
+		- Time of Day at Session Start: 7:48pm
+- Kickoff
+	- Operations
+		- What’s everybody’s stop time?
+	- Recap
+		- Righteously pissed from a brutal series of stabs to the gut, Mayvra kicked her now-dead attacker, a linen-clad kobold, heavily in the side. The Cinder Spire was quiet and calm, and from one of the three towers, still marveling over Zaida’s absorption of a mysterious orb, Huldar and Karna could hear the “clang … clang clang” of an empty metal orb falling from the kobold’s clothes and rolling across the floor. Mayvra saw the orb had a highly mechanized exterior, and on inspection, Huldar knew - vaguely - that its origin was tied to an order of arcane practitioners in the north. This one was hollow and sported a hole, but a second orb on another kobold was heavier and entirely closed. The group pocketed both. But there was more looting to be done. Up a stair next to a painting of three moons - including a bright blue moon no one’s ever seen - Huldar found and pocketed a carefully hung gold necklace set with a large ruby. In the other tower - above a painting of three stylized eyes set in a triangle - they found some errant coin and a letter in an unfamiliar script, the only trace of common being a salutation that read “Mir Glim”.
+		- On their way out, Huldar looted the kobolds and then weighed the cost-benefit of stealing thousands of pounds of silver curtains, even briefly considering climbing on Mayvra’s ample shoulders to get more height. Instead, he settled on cutting off a small swath. As he was hacking at it, a nimble and frantic looking elf ran breathless into the Spire’s main hall. This, it turned out, was Sameera. While the group tried to contextualize their connections with each other and their locations during the destruction of Wyrfall, Zaida ran up to Sameera and leaped into her arms. Up until now, Sameera knew only of Zaida’s human guise, but she’s glad to see her - and the revelation that these three were now looking after Zaida seemed to encourage some level of trust between Sameera and the rest of you.
+		- The group, sadly, had to inform Sameera that the man she came to find, Akio Kiran, was dead. Sameera explained that Akio was one of the Circle of Six, a group of mystics that work on behalf of a much larger group that Sameera refers to as the Hope of Ioun. Sameera has for a short time worked for the Circle as spy and messenger, and this morning, another of the six - Yuska Rei - came to Sameera in a panic. “Things are moving faster than the Circle ever dreamed,” Yuska said. “Go to Wyrfall and tell Akio the Hope of Ioun has returned. If Akio has read the signs, he will have already gone to the Cinder Spire. Find him there.” Yuska gave Sameera a small stone with a circle of swirling branches on it, telling her Akio would know how to use it.
+		- The five began heading back to town, and Zaida - surprisingly - re-sealed the Cinder Spire with but a glance. The town was in shambles, coated in a thick grey dust. While some parts of Wyrfall’s buildings were vaporized, others still stood, and nearly all personal effects were strangely in tact. Gathering his shop’s weapons stock was Irrun - a capri-sporting bugbear and business associate of Huldar. Irrun was trying to make sense of what happened, and told the four of a group of treasure hunters called the White Ravens. They claimed to have seen a massive demon two days south of Wyrfall. Only one survived, and they’re now home in Il Ausper. Irrun sent his regards to Huldar’s mentor, Thenolin, and the group went in search of - and found - Miali Glim. Karna soon showed her the letter from the Spire - and Miali was _shook_ by what she saw. It turns out “Mir” is an antiquated honorific, and Mir Glim refers to her father, Ottavio Glim. This, in fact, is the reason Miali lives in Wyrfall. Years ago, her father worked as a sentry protecting the Cinder Spire, helping the Circle to help protect an “object of great influence” as Ottavio would often refer to it. Miali desperately wanted to know what was actually _in_ the Spire, but Karna stopped short of describing the orb. Karna _did_ introduce her to Zaida, though, and Miali noted that since Akio moved to Wyrfall quietly several months ago, the human girl she now knows to be Zaida has rarely left his side.
+		- Bidding Miali farewell for now, the group decided to head for Il Ausper. On your way to the docks and the boat Sameera borrowed from Yuska, you ran into a Gray Guardsman. Karna was a bit brusk with the guy, but he had seen your heroic actions, and shared some intel despite the reception. The Guard has a tight relationship with the Circle of Six, and Full Marshall Rone Brightgrave received an urgent summons the night before. _Something_ has happened to the Circle. The situation was serious enough to cause the Full Marshall to bring the entire Guard with him, leaving only Agent Gallen in Wyfall. “We were so blind,” he lamented.
+		- This only hardened the group’s resolve. From the Cleftstone Docks, the group piloted the Circle’s fishing boat across the Southern Breakwater. Then Huldar saw it - a dark form on the water. You had only a brief moment to prepare as three boneless, tooth-handed chokers threw themselves onto the deck, attacking with ferocious speed and extraordinary reach. One of the chokers lunged with both arms at Huldar, and he was brought down, bleeding profusely, clinging to life. His friends fought valiantly to protect him. Mayvra, under pressure, reached for the magic she doesn’t fully understand. Karna, a spinning master of the glaive. Mia flitting to the aid of her new companions. Zaida, brandishing a sleek shortsword hidden and strapped to her back, carving expertly at each tentacle in her reach. And Sameera, ducking in the hold, missing her first two longbow shots, and then landing the third with devastating accuracy, ending the battle.
+		- At the end, it was Mayvra that kneeled next to Huldar. In the Breakwater’s stiff wind, her eyes leaked a misty light. This same light issued from her hand as she reached out to touch the worst of Huldar’s wounds. Though not healed, the bleeding ceased, and the Firbolg woke. Mayvra nodded. “I’m as confused as you are.”
+- Session Material
+	- Character Review
+		- Huldar
+		- Karna
+		- Mayvra
+		- Sameera
+	- Session Start
+		- We begin on a fishing boat in the Southern Breakwater just south of Il Ausper. This day has a Southern Origin, and as mid-day has given way to evening, the sun has lowered, and taken on a golden cast. The small, gently lapping waves of the Breakwater glint with its light. The air is warm, wet, and smells distinctly of brine.
+		- The four of you have had a few minutes to collect yourself after your fight with the Chokers. Their thick, green-black blood stains the deck.
+		- Huldar: Zaida kneels next to you where you recuperate, with a look like a mix of empathy and curiosity. She reaches up with the sleeve of her tight black tunic and rubs a smear of blood from your temple.
+		- What are the four of you doing as the boat cuts through the Breakwater?
+		- Suddenly, the boat feels like it shifts _ever_ so slightly beneath you. Zaida raises her face into the air and then dashes with near-silent steps to the prow of the boat.
+		- What do you do?
+		- Huldar and Sameera - you know almost immediately what this is. Your boat is now being pulled - slowly at first, but with a _very_ gradually increasing speed - towards a city that is now fully visible to the north.
+		- Zaida hops down from a platform at the prow and quickly darts up the boats mast, wrapping up the sail with a relaxed and practiced grace. She then swings down into the hold where Sameera hid during your fight with the chokers, and using all her strength to begin hoisting up one of a set of large oars.
+		- You see her very consciously try to conjure words.
+		- “Slow!” she urges, trying to hand you the oar.
+		- What do you do?
+	- Scenes
+		- Huldar experiences a portentous vision of Moradin.
+		- The group attempts to glide gracefully into Il Ausper’s southern port and are met by a noticeably anxious Breakwater Guard.
+		- If turned away by the Guard, the group must find an alternate method of entrance to the city.
+		- Once inside, the group discovers a populous largely going about their business - but strange signs of stress and suppressed panic begin to crop up.
+		- A strange flock of owls circle over Il Ausper, and the group investigates.
+		- As the sun falls in the northern sky, the group finds rest - either at an Inn or at the home of a trusted ally.
+		- The group attempts to identify the Periapt of Wound Closure and Sending Stone (linked to Yuska).
+		- Lead by Huldar - and possibly looking for answers - the group heads to Thenolin’s workshop.
+		- Sameera leads her new friends to the Temple of the Six - and discovers only she and Zaida are able to see it.
+		- Once inside the Temple of the Six, the group finds the entire Gray Guard and three of the Circle dead; one of the Circle - Maruna Keen, the Patient - is near death, overcome by some strange, necrotic curse.
+		- Before she dies, Maruna tells the group of two things: the staging ground for the attack on Wyrfall and Yuska’s escape.
+		- The group departs the city for their mission of choice - and soon find themselves confronted by unfriendlies.
+	- Secrets & Clues
+		- The Void Whorl beneath Il Ausper is the result of work done by Andel Glass and the Glass Academy to harness the untapped power of adjacent planes.
+		- The basin that holds Il Ausper aloft is equipped with six gate stones that push against the planar magic that lies at the bottom of the Void Whorl.
+		- Glass has discovered a method of using planar energy to massively expand the effective area of certain spells - including the Calm Emotions spell currently cast on Il Ausper’s populace.
+		- The Temple of the Six is hidden by illusion magic that can only be seen past through the use of Truesight granted by one aligned with the Hope of Ioun.
+		- The Temple of the Six was raided by Lo’Thos and a band of Troglodyte Scions.
+		- Yuska escaped the Scions through the use of a Cape of the Mountebank; Lo’Thos lost her trail just east of the Glass Academy.
+		- Yuska is headed for the Evangelion - the Hope of Ioun’s long-abandoned mountain fortress at the far end of the Penumbra Spine mountain range, three days north of Il Ausper.
+		- Evidence suggests the Scions of Lo’Thos coordinated their attack on Wyrfall from the Farhaven Ruin, northwest and across the river from Il Ausper.
+		- Lo’Thos is monitoring Il Ausper via a triad of spectral night owls, capable of cloaking any near them in the dark of night; they search for any sign of the Graft of Briccriu or the Hope Cipher.
+		- Fynn is dead, having just been killed by recently awoken Berbalang acolytes of Saiviel First-of-the-Name; they were searching for the relic Fynn and Karna stole.
+		- Kord - the Storm Lord - is the lone god to have already begun their return; he will speak to Mayvra throughout his journey.
+		- Thenolin - Huldar's dwarven master - has been working on the restoration of Oblivion, a [sentient] warhammer brought to them by treasure hunters that allegedly found the weapon at the edge of the Night’s Quarter.
+	- Locations
+		- Il Ausper
+			- Exterior
+				- Island raised ten feet above the water’s surface, held in an incomprehensibly huge metal basin supported by a lattice of arcing metal struts.
+				- Skyline defined by improbable towers that follow severe lines and an aggressively modern aesthetic.
+				- Imposing perimeter wall of burnished bronze and stone.
+				- Water rushes with increasing speed beneath the suspended city.
+			- Glass Academy
+				- Exterior
+					- Tightly packed buildings with a brutalist - but colorful -  aesthetic, all hard angles and prismatic shapes.
+					- An _immacuately_ kept minimalist garden leads beckoningly to the main entrance.
+					- A low security wall is designed in a way that melds perfectly with its surroundings.
+			- Old Seocek
+				- Exterior
+					- Low, utilitarian stone buildings stretch out inconspicuously at the feet of massively tall towers.
+					- Bizarre swooping arches of metal and stone connect smaller buildings to nearby towers.
+					- Architecture is foreign in a way that feels otherworldly.
+				- Temple of the Six
+					- A ripple of barely noticeable colorful light - like an ocular migraine - hangs on the southern edge of a circular plaza.
+					- A domed meditation chamber made entirely of some otherworldly substance - like a cold off-white metal veined like marble.
+					- Six low, floor-level, stone seats surround a low dais, 10 feet side to side.
+					- Domed ceiling appears at first glance appears to open into a starry cosmos.
+					- Doorless doorways are situated five feet behind each seat, emptying into tight sleeping chambers.
+			- New Seocek
+				- Exterior
+					- An architecture that seems to mimic that of the Glass Academy but on a much more grand scale.
+					- Towers cluster together in two locations and reach to breathtaking heights.
+					- The island on which the neighborhood sits rests in the ocean water - but looks somehow unnatural.
+			- Brynn Gardens
+				- Exterior
+					- Well-thought out stone buildings give way slowly to disorder.
+					- Heading west, the population thins out and wild-looking parks thickly filled with strange plants proliferate.
+					- On the far western side, several larger estates stretch out, set at odd angles from one another.
+				- Thenolin’s Workshop
+					- Robust and gnarled green-leaved trees fade gradually to a different color, opening into a small area canopied by brilliant, multi-tonal purple foliage.
+					- A stone domicile that looks summoned from the ground, supplemented by an artfully woodworked roof and wrap-around deck.
+					- A massive chimney occupies nearly the entire back left quarter of the home and billows a silvery smoke.
+			- Palebroak
+				- Exterior
+					- Wide, well-kept streets are bordered on either side by modest stone buildings packed dense.
+					- Though heavily developed, wild-looking trees and shrubbery - almost fey in their presentation - are planted at regular intervals.
+					- While not “new”, the whole area has a well-considered feel.
+				- Duskmeadow Inn
+					- Three-story inn that looks entirely out of place in its surroundings - far more woodsy and homey than anything else around it.
+					- Made of an almost honey-colored wood and adorned with heavy lanterns burning with too-big flames.
+					- A covered porch extends off the front and is set with a half dozen large wooden rocking chairs.
+		- Duskland
+			- Open plains give way over miles to a strange tiered landscape, massive, flat steppes scored into the land.
+			- Huge shards of rocky rubble, arranged along the length of many steppes, looks oddly out of place.
+			- Light feels weird, as if everything absorbs the light more than it should; objects appear flat and dull.
+		- Delg’s Annex
+			- A small settlement girded by an imposing metal-latticed wall of weathered bronze.
+			- Buildings within have the look of being built and then immediately abandoned.
+			- A light, hazy, almost glittering fog collects in some places - but quickly scatters in the breeze.
+	- NPCs
+		- Andel Glass (LN, He/Him)
+			- Archetype
+				- Queen Regent Míriel (Rings of Power)
+			- Story Connection
+				- Headmaster of Glass Academy and self-proclaimed protector of Il Ausper.
+			- Description
+				- His head is shaved and a whorl like design is painted in gold around the back and sides.
+				- A handsome elven man with severe features and ears that are far more pronounced than Sameera.
+				- He’s dressed in slim blue clothes and a thin pale colored coat with an upturned collar.
+		- Frehsar (CN, He/Him)
+			- Archetype
+				- Lucius Down (Bone)
+			- Story Connection
+				- The lone surviving member of the White Ravens.
+		- Fynn (N, He/Him)
+			- Archetype
+				- John Connor (Terminator 2)
+			- Story Connection
+				- Former gang partner of and close confidant to Karna.
+		- Maruna Keen, The Patient (LG, She/Her)
+			- Archetype
+				- Charlotte (Charlotte’s Web)
+			- Story Connection
+				- One of the Circle of Six, clinging to life until Zaida can reach her.
+			- Description
+				- A human woman in her late 40s, fit with a round face, and black hair.
+				- Wears a long sleeveless vest identical to that worn by Akio Kiran in Wyrfall.
+				- Her body is 2/3 covered by a roiling black tendrils that are splayed out like veins that extend down her arms and up her neck towards her face.
+		- Henk (NE, He/Him)
+			- Archetype
+				- Scar (The Lion King)
+			- Story Connection
+				- Sells weapons and armor on the grey market; business rival of Irrun, and purchases from Thenolin and Holder.
+			- Description
+				- Super cut orc with vibrant green skin. Wolf pelt head piece. Leather belts cross his massive pecs, and he wears fur lined epaulets and bracers. Dark Green and fur trimmed half plate on bottom. Incredibly thick bow and quiver.
+		- Moradin (LG, He/Him)
+			- Archetype
+				- The Armorer (The Mandalorian)
+			- Story Connection
+				- Huldar and Thenolin’s long-absent god
+			- Description
+				- Eyes of glowing bronze look out upon the world with patience.
+				- A full helmet covers their head, their face mostly obscured by intricately carved panels that obscure their forehead and cheeks.
+				- Takes the form of a dwarf dressed in gleamingly ornate armor of many metals.
+				- A finely braided black beard issues forth from the bottom of the helmet.
+			- Talking Points
+				- “The gods may have abandoned you, Huldar. But do not weep. There is agency in that. And there is Hope. Even now, you and your companions may change the course of things.”
+				- “Maybe you will do a better job than we have done.”
+				- “This, then, is a beginning for you, Huldar. You are on the right path.”
+				- “Though from this distance I cannot see the hearts of your companions, I know that Thenolin has taught you well.”
+				- “I am far from you now, a mere echo of what this world once knew. It has ever been so since you have known me.”
+				- “Trust where trust is earned. Fear only the extinguished flame, the cold, dead forge, long abandoned.”
+				- “There is one among us who has chosen to return. They travel with all deliberate speed, but Nerah’s salvation is not a given.”
+				- “When darkness falls, tend the heat of the forge. Pure creation is found there - a promise that any world may be born anew.”
+		- Thenolin (NG, She/Her)
+			- Archetype
+				- Mike Ehrmantraut (Breaking Bad)
+			- Story Connection
+				- Mentor and spiritual guide to Huldar.
+			- Description
+				- She’s dresses in thick black leather smith’s gear and wears a large copper pendant of a hammer with a dwarven face on each side of the head.
+				- The bottom eight or nine inches of her hair are a brilliant purple, and her ears are adorned with what look like long, thick, polished copper nails that were inserted, bent in half, then twisted twice.
+				- A stout and stunningly ageless dwarf with long white hair partly tied back in a sloppy knot.
+		- Zaida (CG, She/Her)
+			- Archetype
+				- Allison Reynolds (The Breakfast Club)
+			- Story Connection
+				- Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+			- Description
+				- Glassy eyes much larger than normal, without iris or pupil.
+				- True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+				- A small female, clearly fey, and somewhat larger than a gnome.
+	- Monsters
+		- 4 Berbalang
+		- 5 Ghasts
+		- 2 Kobolds
+		- 1 Quaggoth Thonot
+	- Magic Items
+		- Cape of the Mountebank
+- Resources
+	- The Circle of Six
+		- Yuska Rei, The Guide (Alive)
+		- Maruna Keen, The Patient (Mortally Wounded)
+		- Akio Kiran, The Devoted (Deceased)
+		- Belril Bryn, The Skeptic (Deceased)
+		- Naeris Dell, The Brave (Deceased)
+		- Eldren Grai, The Just (Deceased)
+	- Huldar’s Vision
+		- Everything is haze - not black, not white, not gray. All colors and no colors. It’s shifting, and also perfectly still.
+		- In the midst of this no-place, there’s a glow in the distance. Or there’s a glow right next to you. You can’t tell which.
+		- What do you do?
+		- Two heartbeats pass, and in that short span of time, the glow solidifies and becomes clear. You see that this is a forge - but it is unlike any forge you have ever seen. This forge is like a great cylinder, 20 feet from side to side, its bottom quarter separated from the top, which hangs above it, attached to some ceiling far above you that you cannot see.
+		- A short stair leads up into the midst of the forge. Many jets of bright blue and white flame, unimaginably hot, are built around the perimeter of both the top and bottom of this cylinder. In this world, we might say this looked like a complex rocket engine. But surely no such thing exists in this universe.
+		- In the center of the forge stands a short, stout figure with wiry jet black hair tied into many braids that flows out in from a full helmet. They’re dressed in unimaginably ornate armor. They support lean forward against a large stone bowl, 6 feet in diameter. This bowl floats at the center of the forge. This figure’s back is turned to you.
+		- What do you do?
+	- Distance Travel
+		- Pace Rules
+			- 8 hours of travel is permitted per day
+			- After 8 hours, each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion
+			- Speed per minute is a number of feet equal to 10 times character speed
+			- Assume average party speed of 30 ft.
+			- Speed per hour is a number of miles equal to character speed divided by 10
+		- Pace Buffs/Penalties
+			- Normal: None
+			- Slow: Able to use stealth
+			- Fast: -5 penalty to passive perception scores
+		- Calculated Daily Pace
+			- Normal: 24 miles/day
+			- Fast: 30 miles/day
+			- Slow: 18 miles/day

@@ -1,0 +1,37 @@
+- In Session
+	- Huldar got a read on something north from an arcane machinery expert
+	- Three eyes painting were beneath the periapt of wound closure.
+	- Woman painting was below the Glim letter room.
+	- “You can give it to me - he’s dead.”
+	- “I’m as confused as you are.” ← Mayvra as she woke Huldar.
+- Post Session
+	- Mayvra kicked the kobold - hard. Orb clangs. Rolls into corner.
+	- Karna and Huldar come downstairs, Mayvra points them toward it. Sees it is clockwork in nature, and empty.
+	- Huldar picks it up with tongs. It has a hole. Pockets it.
+	- Uses tongs to pull back the coat of another Kobold - heavier, no hole. Picks that up as well.
+	- Check out room, paintings. Painting with the portrait of the woman is where they came down from.
+	- Zaida hanging on to Karna’s hands.
+	- Visit the stair over the 3 moons painting (blue moon? weird), Huldar pockets the periapt of wound closure. zaida pokes at it, shrugs her shoulders.
+	- Visit the other spire, Karna checks out chests, finds platinum gold and silver coins. Take Mir Glim note, not a language anyone knows.
+	- Huldar loots the kobolds, bunch of weapons.
+	- Walk down to first level, Huldar’s working on chopping off some of the silver curtain - Mayvra offers to hoist him up as high as she can, but Huldar thinks better of it, carves off a small piece.
+	- Sameera bolts in - wants to know what they’re doing. Things are awkward, but then Zaida leaps up to hug her, introduces herself.
+	- Group tells Sameera the man she’s looking for is dead. She tells them about her day, without leaving much out.
+	- Zaida says “go now?” Head back to town, Zaida on Mayvra’s shoulders, shuts the door.
+	- Sameera shows the group the stone she was supposed to pass to Akio. Huldar asks Zaida if she recognizes it - and she does. She goes to speak into it - “go now” - but nothing happens.
+	- Run into Irunn first. Trying to make sense of what happened, tells them about the White Ravens. Sends his regards to Thenolin.
+	- Head to look for Miali, she’s helping folks. Show her the letter, she tells them of her father, Ottavio Glim, Mir is honorific.
+	- He worked as a sentry protecting the Cinder Spire. Protecting an object of great influence. She wants to know what was in there, and Karna tells her about most things *except* the orb.
+	- Akio Kiran had been living in the town the last few months, watching after a small girl. They introduce Zaida.
+	- Huldar heals a young woman that Miali was helping.
+	- Miali points out she has no shelter for them. She’ll be fine - the townspeople will shelter in group in the 20% of homes that remain standing.
+	- Group chats, decides the next move should be to go to Il Ausper.
+	- On their way to the docks, at the outskirts of town, they see a handsome half-elf Gray Guard. Karna is actually curt with the guy when he tries to ascertain who everyone is - but the Guard saw their chase after the kobolds.
+	- He tells them of the call for reinforcements in Il Ausper. The Gray Guard were called away at the behest of the Circle of Six, which hold a quiet sway over the Guard in Wyrfall. High Marshal took the call, told Agent Gallen to stay behind. “We were fools - it was a setup, at least in part.”
+	- They go to to the docks - big rocks on the way. Sameera has the boat that Yuska sent her in.
+	- Once on the water, wind pushing the sails, Mayvra's eyes begin to leak a misting light.
+	- Huldar sees something - choker.
+	- Fight highlights: Mayvra’s lightning ice ray and lightning lure, karna with two kills, Huldar knocked all the way out, Sameera hiding in the hold, missing two hits then critting on the final kill. Zaida proferring a shortsword that had previously been deftly hidden against her back.
+	- Bad parts: Karna and Mayvra both grappled. Knock out on Huldar.
+	- Mayvra bends over Huldar, rubs her hand over the worst wound, subtle light from her hand, mending deepest wound.
+	- “I’m as confused as you are.”

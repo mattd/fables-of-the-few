@@ -1,0 +1,39 @@
+- In Session
+	- A slice of a memory. Raised by grandma - druid.
+	- Lived not in a community but in a circle - keeping to their own.
+	- Just remembers *her,* the grandmother.
+	- Circle of Wildfire - lightning.
+	- In a specific place, not much younger than now.
+	- In a spot where she lives. Everything around her is on fire.
+	- Grandma passed away, and now someone has gone too far.
+	- House on fire - she knows that something is in her house. She needs it.
+	- Building rainstorm.
+	- Mayvra lightning lured.
+	- Karna got blasted, Zaida stabilized Karna.
+	- Sameera rolled a nat20
+	- Zaida shoving potion in Karna.
+	- Huldar yells “PROVE YOURSELF.”
+	- Zaida gets smoked.
+	- Karna gets the killing blow with the handaxe, still nearly knocked out.
+	- Lightning changes and calms. [See words Kord said.] Lighning encircles Mayvra and embraces her fully. Energy arcs out from her, slamming into the soil and lifting Mayvra from the ground. Her head is thrown back, blue mist pouring from her eyes.
+	- Huldar stabilizes Zaida, carries her out as they leave.
+	- Mayvra sees a ridge, leads them to the Orrery, make camp. Huldar notices runes, control panel.
+	- Is your name really Destiny?
+	- No. My name is Mayvra.
+	- I wasn’t crying. The lightning was in my eyes.
+	- Sameera at last watch sees a thin line of smoke to the east of the Penumbra Range.
+	- Next morning, play with the Orrery, Huldar uses Identify, gets an idea of its use. Finds a primary control, a kind of multi-stage button. Gets Zaida to help with buttons, then Sameera. Panels close around them, planets come into focus.
+	- Huldar guides to one planet countless light years away with four or five visible continenets. Lets go of control, Orrery idles and deactivates.
+	- Called Yuska. What is your exact location? We’re at the base of the range.
+	- “Delightful. You’re within a day’s travel. Follow the eastern side of the range. Trust me - you’ll see it.”
+	- Pass by the Wound, avoiding the approximate location of the camp Sameera spotted.
+	- Mayvra tracks finds a trail that goes on the range.
+	- Find the Cold Crystal Trench, Huldar wants to send Mia down, short rest.
+	- Sameera spots Evangelion, sees lifts.
+	- Mia goes down, sees gold, Huldar’s in love. Also sees a Mephit, chirping in a strange rythm.
+	- Mayvra and Zaida stay up top. Down with 150 feet of rope, but find they need more. They stop at a roughly level crag and tell Mayvra to throw down the rope and they retie.
+	- Get down to bottom, 15 feet still to the floor, Huldar and Karna drop, Sameera swings the rope and ties it off on the wall, then scales down.
+	- More Mephits peel from the walls. Then a massive crunching sound as a much larger form, 25 feet in height, pushing itself forward out of the wall.
+	- Sameera clocks a ring on its finger as it raises its hand to its face and balls its crystalline fingers into a massive, boulder size fist. The cavern is silent as the golem drops its shoulder, ready to charge.
+- Post Session
+

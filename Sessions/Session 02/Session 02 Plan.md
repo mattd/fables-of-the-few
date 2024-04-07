@@ -1,0 +1,186 @@
+- Global State
+	- Experience Tracking
+		- Last Leveled Before: Session 2
+		- Experience Gained:
+			- None!
+	- World Information
+		- Date: Syhr, Andhel, 28th, 218 PA
+			- Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+			- Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+		- Time of Day at Session Start: 12:06pm
+- Kickoff
+	- Operations
+		- We leveled up!
+			- Let’s roll for HP! (Or don’t!)
+		- Character sheets out!
+		- Can we get a Foundry driver?
+	- Recap
+		- As we begin, Mayvra, the cable-knit-sweater-sporting Minotaur is just returning to Glim’s House from a brief errand. The smell of frying spices is strong in the air, and as she struggles to close the door behind her, Mayvra finds Karna playing sous chef on some root vegetables for the proprietor of the House, the chestnut skinned and (literally) golden haired Miali Glim. Karna can’t cook - but he _sure_ is fast with a knife. Mayvra, it turns out, wasn’t able to find what Miali sent her for, and she’s deeply, anxiously apologetic - but Miali assures her she understands. Then down the stairs comes the still-sleep-fogged Huldar. He returned to Glim’s House late last night from a trip to nearby Il Ausper, and Miali seems a bit concerned.
+		- While cooking, Miali pauses to reflect on the morning. She mentions a suspicious absence of Wyrfall’s security force, the Gray Guard, from the streets. Huldar shared that, when returning last night, he saw at least one such guard leaving town via the docks. Maybe to calm Miali, Huldar conjured his owl familiar, Mia, to fly a circle around Wyrfall and see if anything’s up - but everything looked fine. Karna made a pass too, avoiding interaction with an older man that waved skeptically as he passed. Miali shared with the group how good it was to have some rooms full - she clearly feels some bond with this set. Meanwhile, Huldar introduces Mayvra to Mia, and Mayvra is enamored - if still distrustful of Huldar. “I’m not okay!” Mayvra exclaimed openly. Among other things, her yklwa is broken, and Huldar delivers a mesmerizing mending spell through Mia. The yklwa is fixed, and Mayvra now has a new owl friend. Miali turns to Karna and - putting trust in him at a level maybe even _he_ doesn’t fully understand - asks him to stay close to these two. Karna nods in understanding.
+		- After breakfast, the air changed. A buzz. A whine. And then a _massive_ explosion. Though - oddly - no one was injured by the debris, most of the town’s building’s were simply _gone_ in a flash, reduced to dust, lifted and disbursed by arcane means. Then more explosions. Crying - screaming. While Huldar dons his shield and charges into the street, Mayvra and Karna survey what’s left of nearby buildings. Huddled in the rubble, arms up on either side of her head, is a small human girl with dirty blond hair, dressed in ragged clothes. Her face is strangely blank of expression. Karna advances, hand out, attempting to keep the girl at ease. Just as Karna sees the facade of the girl’s face give way for the briefest moment, he sees also an older brown skinned man hopping nimbly through the debris at remarkable speed. The man takes the girls hand, and she follows him willingly - toward the Cinder Spire. And it was then, for the first time, that you saw packs of snarling, kobolds dressed in uncommonly fine linens. The pursuit was on.
+		- A blast of a strange, radiant flame from Huldar just barely missed one kobold. As you chased, you saw ahead the man reach the Cinder Spire and reveal a door hidden for years. As you followed, Mayvra saw that another gang of kobolds chasing from behind stopped, as if their steadfast pursuit was no longer needed. Inside the tower, all three of you unloaded on two of the kobolds - Karna wielded his glaive with brutal speed and precision, a second blast of radiant flame from Huldar - this time - struck true, and a lash of lightning from Mayvra let her pull the remaining kobold from the stairs. With the sound of a scuffle echoing down from the next level, you paused to observe a room with a sourceless diffuse light. On high 30 foot walls, obscured by massive silver link curtains, was an indecipherable writing. Enough, you think, to fill a weighty tome.
+		- But there were more kobolds on the floor above. Rushing up the stairs, you found the old man surrounded, and the kobolds attacked with brutality. Tragically, the man fell - and as he did, the spell obscuring the small girl’s true form gave way. You saw now a fey creature with unnaturally large, white, iris-free, and glassy eyes. Introductions would have to wait, as you moved with resolve. Mayvra revealed a capacity for flight, soaring directly into the fray. But the kobolds showed their own ferocious resolve, and in close combat daggers flashing, Mayvra fell to the ground, unconscious. Huldar reached out with a healing hand, and her wounds mended, eyes flashing open. Eventually, all of the kobolds lay dead - and the young fey creature wordlessly connected with you all. She stooped over the man - evidently a caretaker - and kissed his forehead. It felt reverent. But now you saw there was something here for her to do. She reached her hand out for Karna, and he took it.
+		- As Mayvra stayed below and took stock of the scene, Huldar and Karna followed this fey being into one of the three narrow spires. There, they found a tall marble statue of a woman - advanced in years and quite beautiful. Held in and outstretched hand: an orb, glowing faintly. The fey creature reached up for the opaque stone, hoping Karna would retrieve for her. With Huldar looking on and marveling at the arcane energy that surrounded it - Karna plucked the orb from the statue’s hand. He looked to Huldar for confirmation - and both seemed to hesitate. But finally, Karna handed it to the girl. It glowed with greater strength, lifting from her hands as she, in turn, lifted with it. As the fey took in a deep breath, a bright, blue-white light overpowered the chamber. Through his splayed fingers, Karna saw the orb push into her chest, fusing with her form.
+		- It was over. The creature’s feet clicked as she landed on the floor. She released a long exhalation, turned to Karna, and motioned for him to stoop down. She patted her chest. “Zaida,” she said. Then Zaida patted Karna. “Hope,” she said, as her fey smile broadened.
+- Session Material
+	- Character Review
+		- Huldar
+		- Karna
+		- Mayvra
+		- Sameera
+	- Session Start
+		- We begin in the Cinder Spire - a strange shrine to a forgotten time. For years, everything within has remained motionless, untouched. The air is dry, but oddly fresh smelling - save for the scene of kobold blood.
+		- Above, in one of the spires, Karna stoops in front of Zaida as she touches his cheek, Huldar watching from a cautious distance.
+		- But on the floor below, Mayvra - our cardigan sporting, reluctant sorcerer - you stand over the body of the linen-clad kobold that only moments before struck you down.
+		- Despite what just happened in the spire above you, it’s quiet.
+		- What is Mayvra doing at this moment?
+		- There’s a sound of something on the kobold shifting _ever_ so slightly. Its arm slides lifeless to the floor, and a thin jacket that it wears flops open.
+		- Clang. Clang clang clang.
+		- A small bronze colored orb, about the size of a small grapefruit rolls out of the jacket and onto the floor.
+		- Its surface is covered in intricate mechanics. You see there is one spot on this orb that has been slid open, revealing an open hole.
+		- What do you do?
+	- Scenes
+		- The group explores the remaining two chambers of the Cinder Spire and deals with arcane signatures emitting from one of the Scions.
+		- Sameera appears on the scene as the group prepares to exit the Cinder Spire - and is recognized by Zaida.
+		- Returning to Wyrfall proper, the group settles business with allies - Miali, Fynn, and Irrun.
+		- Agent Gallen approaches the group, telling them of the Gray Guard’s movements and intel that places the Scions of Lo’Thos at Farhaven Ruin.
+		- Eventually, the group decides to either track the Scions to Farhaven Ruin or head to Il Ausper.
+		- If the group heads to Il Ausper, they commandeer a boat at the Cleftstone Docks and are attacked by three Chokers in the Southern Breakwater.
+		- If the group heads to the Farhaven Ruin, they are stalked - and then attacked - by a Quaggoth Thonot and two Scions of Lo’Thos.
+	- Secrets & Clues
+		- The Gray Guard were drawn to Il Ausper by a distress call, received by Full Marshal Rone Brightgrave, that followed the assassination of four members of the Circle of Six.
+		- The Cinder Spire serves as vault for the Graft of Briccriu - an object lying in wait, ready to fuse with the next incarnation of the Hope Cipher.
+		- Akio Kiran, The Devoted has been living quietly in Wyrfall for months, keeping Zaida close to the Graft of Briccriu and waiting for the day she would be prepared to receive it.
+		- The White Ravens, a small crew of treasure seekers based out of Il Ausper, encountered what a lone survivor described as a “massive demon” two days southwest of the city.
+		- The Scions of Lo’Thos carry six clockwork spheres, each the size of a grapefruit, that can be tuned to disrupt and scatter any material that falls within the tuning’s resonant frequency.
+		- The Scions’ clockwork spheres are tuned to the frequency of materials used in most of Wyrfall’s buildings; other buildings across the town sustain surface damage.
+		- Evidence suggests the Scions of Lo’Thos coordinated their attack on Wyrfall from the Farhaven Ruin, northeast and across the river from Il Ausper.
+		- Miali Glim’s ancestors served as sentries for the Hope of Ioun and vowed to protect the Cinder Spire at all costs.
+		- Kord - the Storm Lord - is the lone god to have already begun their return; he will speak to Mayvra throughout his journey.
+		- Thenolin - Huldar's dwarven master - has been working on the restoration of a [sentient] warhammer brought to them by treasure hunters that allegedly found the weapon at the edge of the Night’s Quarter.
+	- Locations
+		- Wyrfall
+			- City Ruins
+				- A heavy, dull gray dust covers the ground where buildings stood.
+				- Most belongings appear unaffected - furniture, personal effects, tools, weapons.
+				- An acrid, foreign smell hangs in the air - bitter and caustic.
+			- The Cinder Spire
+				- Exterior
+					- Stout tower that looks crafted from a single piece of dark stone.
+					- Three broken spines, like the head of some tri-forked spear, reach 90 feet into the air.
+					- The air at the base of the tower is unnaturally cool and dry.
+				- Hall of the Vow Keeper
+					- A cavernous and oddly ageless room, taller than it is wide.
+					- Heavy curtains of fine metal links cover walls that glow faintly with the color of the sun.
+					- Ten foot columns made of an opaque material are set into two opposing walls.
+				- Dawnhaven Gallery
+					- Thin slivers of sunlight filter in through arrow slits.
+					- Three wall-spanning paintings mounted securely on the walls.
+					- A graying woman, an infinitely large library, and three eyes arranged in a triangle.
+				- Ioun’s Promise
+					- Fourteen foot statue of a woman in a flowing, open robe carved in marble.
+					- In an extended left hand, a spherical, opaque, blue-glowing stone the size of a grapefruit.
+					- Two open front wooden cabinets stand empty.
+				- Shrine of the Mother’s Pledge
+					- Low stone mantle flanked by short burning sconces.
+					- Necklace with a bright red gem hung on a Y-shaped stand.
+					- Painting of a sky with three moons, each larger than the last: white, blue, purple.
+				- Refuge of the Six
+					- Long stone table with heavy wooden benches pushed out.
+					- A single letter, half finished, addressing a “Mir Glim.”
+					- Four wooden chests, one knocked over, one standing fully open.
+		- Cleftstone Docks
+			- Massive jagged stones peel up and away from a cliff face.
+			- A path graveled with dark stone curves through the jagged rocks.
+			- Poorly maintained docks hew closely to the cliff face walls.
+		- The Duskland
+			- Low hills that rise from the ground are always taller on the eastern side.
+			- Clumps of white flowers seem to follow passers by.
+			- Shadows cast by the hills seem darker than they should be.
+		- Il Ausper
+			- Exterior
+				- Island raised ten feet above the water’s surface, held in an incomprehensibly huge metal basin supported by a lattice of arcing metal struts.
+				- Skyline defined by improbable towers that follow severe angles and an aggressively modern aesthetic.
+				- Imposing perimeter wall of burnished bronze and stone.
+				- Water rushes with increasing speed beneath the suspended city.
+	- NPCs
+		- Agent Brix Gallen (NG, He/Him)
+			- Archetype
+				- Jimmy McNulty (The Wire)
+			- Story Description
+				- Lone officer of the Gray Guard in Wyrfall following the Scions’ attack.
+			- Description
+				- A sturdy half-elven male with thick curly red hair tied in a bun.
+				- Dressed in an obviously used but well kept and unornamented gray uniform - angular and austere.
+				- Left eyebrow has close to a dozen piercings.
+		- Akio Kiran, The Devoted (LG, He/Him)
+			- Archetype
+				- Remus Lupin (Harry Potter)
+			- Story Connection
+				- One of the Circle of Six, caretaker of Zaida, the next incarnation of the Hope Cipher.
+			- Description
+				- A human male with a shaved head, olive complexion, full eyebrows and dark eyes.
+				- Dressed in loose fitting linen clothing with a long, blue sleeveless vest with a hood.
+				- Wears no shoes.
+		- Fynn (N, He/Him)
+			- Archetype
+				- John Connor (Terminator 2)
+			- Story Connection
+				- Former gang partner of and close confidant to Karna.
+		- Henk (NE, He/Him)
+			- Archetype
+				- Scar (The Lion King)
+			- Story Connection
+				- Sells weapons and armor on the grey market; business rival of Irrun, and purchases from Thenolin and Holder.
+			- Description
+				- Super cut orc with vibrant green skin. Wolf pelt head piece. Leather belts cross his massive pecs fur lined epaulets and bracers. Dark Green and fur trimmed half plate on bottom. Incredibly thick bow and quiver.
+		- Irrun Tinn (N, They/Them)
+			- Archetype
+				- Prince Durin IV (Lord of the Rings: The Rings of Power)
+			- Story Connection
+				- Sells weapons and armor from a storefront in Wyrfall; purchases from Thenolin and Huldar.
+			- Description
+				- Bugbear with gray fur that’s white along their sternum. Got a little chonk to them. Wearing a pinkish fabric wrapped around their top. White capris. Black leather wrapped around feet. Carries a great axe with a black metal head. Flask chained to their belt.
+				- Jovial person, good business acumen, drives hard bargain. Reputable clerk.
+		- Miali Glim (LG, She/Her)
+			- Archetype
+				- Phyllis Vance (The Office)
+			- Story Connection
+				- Proprietor of Glim’s House and one-woman support system for the group.
+			- Description
+				- A relatively short human woman of indeterminate age, but might be in her early 60s.
+				- Chestnut skin and gold hair that goes past her shoulders - but with a matte cast to it.
+				- Her ears belie a _distant_ hint of elven ancestry.
+		- Zaida (NG, She/Her)
+			- Archetype
+				- Allison Reynolds (The Breakfast Club)
+			- Story Connection
+				- Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+			- Description
+				- A small female, clearly fey, and somewhat larger than a gnome.
+				- True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+				- Glassy eyes much larger than normal, without iris or pupil.
+	- Monsters
+		- 3 Shockers
+		- 1 Quaggoth Thonot
+		- 2 Kobolds
+	- Magic Items
+		- Periapt of Wound Closure
+		- Sending Stone
+			- Linked to a stone carried by one monk of the Hope of Ioun.
+- Resources
+	- Distance Travel
+		- Pace Rules
+			- Assume average party speed of 30 ft.
+			- Speed per minute is a number of feet equal to 10 times character speed
+			- Speed per hour is a number of miles equal to character speed divided by 10
+			- 8 hours of travel is permitted per day
+			- After 8 hours, each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion
+		- Pace Buffs/Penalties
+			- Fast: -5 penalty to passive perception scores
+			- Normal: None
+			- Slow: Able to use stealth
+		- Calculated Daily Pace
+			- Slow: 18 miles/day
+			- Normal: 24 miles/day
+			- Fast: 30 miles/day

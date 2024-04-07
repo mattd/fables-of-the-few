@@ -1,0 +1,189 @@
+- Global State
+	- Experience Tracking
+		- Last Leveled Before: Session 1
+		- Experience Gained:
+			- None!
+	- World Information
+		- Date: Syhr, Andhel, 28th, 218 PA
+			- Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+			- Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+		- Time of Day at Session Start: 10:17am
+- Kickoff
+	- Operations
+		- Tucker’s in Florida for the next two Thursdays (9/22 and 9/29).
+			- We’ll return in full force for session 2 on Thursday, October 6th!
+		- I thought more about the sun!
+			- There _is_ a two day cycle, but the sun moves just east of north to just west of south.
+	- Recap
+		- There isn’t one yet!
+- Session Material
+	- Character Review
+		- Huldar
+		- Karna
+		- Mayvra
+	- Session Start
+		- [Intro]
+			- Welcome - to the World of Nerah.
+			- At the start, we soar above the clouds. The light is brilliant, all consuming. And as our eyes adjust, those clouds part, and we fall through them into a dive, the ground rushing up to meet us. We can’t breathe - it’s too much … and then suddenly our flight levels out. Our breath returns.
+			- We see a varied landscape - almost preternaturally so by the standards of this world. Lush, damp woods; a sparkling, arrid, desert plateau; undulating hills. The whole land feels alive beneath us.
+			- There are also things much older and stranger than anything in our world: a circle of towering monoliths built, presumably, to some long-lost god; a wilderness filled with iridescent pods growing like some foul, corrupted weed of inconceivable size.
+			- From the darkness of a cavern’s mouth, we see a grey-blue furred, bipedal beast with two rows of six eyes, and a grin-like mouth filled with double rows of fanged teeth. It sniffs the air as we soar past, high above.
+			- And there are ruins - ruins that look older than time. And they are _everywhere_.
+		- [Civilization]
+			- Roads are few and nearly no one is traveling them. But we do see _some_ adventurous souls. These few are wildly diverse - and they have the look of a people that are driven.
+			- But now coming into focus are cities spotting the land - developed bastions, many of them shining and new. Many are far more _modern_ than makes sense given what we know of this world’s past. We soar towards one, and our flight slows. A fortified island in the midst of a wide forked river.
+			- And then: we notice a small town to its south. That’s where we’re headed.
+			- As we pan in, we see that this small town has an odd shape - three curved arcs of buildings, clearly once ruined and then repaired, then built-on anew. The buildings arranged in these arcs are set close together, as if they were once part of a much more crowded city.
+			- And these partial semi-circles, these arcing streets, face a spire built atop a low hill, set away from the rest of the town. It may have once looked threatening - but not now.
+		- [Glim’s Home]
+			- And now we pull even closer to those arc’d streets, focusing on one building.
+			- [Read description of the house.]
+			- And someone is just returning - just opening the front door. This … is Mayvra.
+	- Scenes
+		- Huldar, Mayvra, and Karna convene at Glim’s House for a late breakfast.
+		- After noting the strange disappearance of Wyrfall’s Gray Guard, Glim’s House is decimated and chaos breaks out across Wyrfall.
+		- Karna’s attention is drawn to a small female child - Zaida under the effects of a Disguise Self spell - huddled in the rubble of a nearby building.
+		- Akio Kiran braves Wyrfall’s debris littered streets to reunite with Zaida and rush her towards the Cinder Spire.
+		- The group follows Akio and Zaida, now pursued by the Scions’ of Lo’Thos, to the Cinder Spire.
+		- Akio is murdered by the Scions, and the group intervenes in an attempt to rescue Zaida.
+		- Zaida takes the group to the Graft of Briccriu and becomes the Hope Cipher.
+		- Returning to Wyrfall proper, the group investigates, settles business with allies - and eventually decides to either track the Scions to Farhaven Ruin or head to Il Ausper in pursuit of the missing Gray Guard.
+	- Secrets & Clues
+		- Yesterday evening, the Gray Guard quietly vacated the town of Wyrfall.
+		- The Gray Guard were drawn to Il Ausper by a distress call, received by Full Marshal Rone Brightgrave, that followed the assassination of four members of the Circle of Six.
+		- The Cinder Spire serves as vault for the Graft of Briccriu - an object lying in wait, ready to fuse with the next incarnation of the Hope Cipher.
+		- Akio Kiran, The Devoted has been living quietly in Wyrfall for months, keeping Zaida close to the Graft of Briccriu and waiting for the day she would be prepared to receive it.
+		- The White Ravens, a small crew of treasure seekers based out of Il Ausper, encountered what a lone survivor described as a “massive demon” two days southwest of the city.
+		- The Scions of Lo’Thos carry six clockwork spheres, each the size of a grapefruit, that can be tuned to disrupt and scatter any material that falls within the tuning’s resonant frequency.
+		- The Scions’ clockwork spheres are tuned to the frequency of materials used in most of Wyrfall’s buildings; other buildings across the town sustain surface damage.
+		- Evidence suggests the Scions of Lo’Thos coordinated their attack on Wyrfall from the Farhaven Ruin, northeast and across the river from Il Ausper.
+		- Wyrfall is built on the ruins of a city that pre-dates the awakening - Dawn’s Gate, a sprawling metropolis that also occupied land south of Wyrfall and north beyond present day Il Ausper.
+		- Miali Glim’s ancestors served as sentries for the Hope of Ioun and vowed to protect the Cinder Spire at all costs.
+	- Locations
+		- Wyrfall
+			- Glim’s Home
+				- Two story white brick house, uncomfortably askew.
+				- Strange purple and blue moss creeps up the front.
+				- The smell of pungent, biting spices frying in a skillet waft out to the narrow street.
+			- The Cinder Spire
+				- Exterior
+					- Stout tower that looks crafted from a single piece of dark stone.
+					- Three broken spines, like the head of some tri-forked spear, reach 90 feet into the air.
+					- The air at the base of the tower is unnaturally cool and dry.
+				- Hall of the Vow Keeper
+					- A cavernous and oddly ageless room, taller than it is wide.
+					- Heavy curtains of fine metal links cover walls that glow faintly with the color of the sun.
+					- Ten foot columns made of an opaque material are set into two opposing walls.
+				- Dawnhaven Gallery
+					- Thin slivers of sunlight filter in through arrow slits.
+					- Three wall-spanning paintings mounted securely on the walls.
+					- A graying woman, an infinitely large library, and three eyes arranged in a triangle.
+				- Ioun’s Promise
+					- Fourteen foot statue of a woman in a flowing, open robe carved in marble.
+					- In an extended left hand, a spherical, opaque, blue-glowing stone the size of a grapefruit.
+					- Two open front wooden cabinets stand empty.
+				- Shrine of the Mother’s Pledge
+					- Low stone mantle flanked by short burning sconces.
+					- Necklace with a bright red gem hung on a Y-shaped stand.
+					- Painting of a sky with three moons, each larger than the last: white, blue, purple.
+				- Refuge of the Six
+					- Long stone table with heavy wooden benches pushed out.
+					- A single letter, half finished, addressing an “Ottavio Glim.”
+					- Four wooden chests, one knocked over, one standing fully open.
+		- Cleftstone Docks
+			- Massive jagged stones peel up and away from a cliff face.
+			- A path graveled with dark stone curves through the jagged rocks.
+			- Poorly maintained docks hew closely to the cliff face walls.
+		- The Duskland
+			- Low hills that rise from the ground are always taller on the eastern side.
+			- Clumps of white flowers seem to follow passers by.
+			- Shadows cast by the hills seem darker than they should be.
+	- NPCs
+		- Agent Brix Gallahm (NG)
+			- Archetype
+				- Jimmy McNulty (The Wire)
+			- Story Description
+				- Lone officer of the Gray Guard in Wyrfall following the Scions’ attack.
+			- Description
+				- A sturdy half-elven male with thick curly red hair tied in a bun.
+				- Dressed in an obviously used but well kept and unornamented gray uniform - angular and austere.
+				- Left eyebrow has close to a dozen piercings.
+		- Akio Kiran, The Devoted (LG, He/Him)
+			- Archetype
+				- Remus Lupin (Harry Potter)
+			- Story Connection
+				- One of the Circle of Six, caretaker of Zaida, the next incarnation of the Hope Cipher.
+			- Description
+				- A human male with a shaved head, olive complexion, full eyebrows and dark eyes.
+				- Dressed in loose fitting linen clothing with a long, blue sleeveless vest with a hood.
+				- Wears no shoes.
+		- Fynn (N, He/Him)
+			- Archetype
+				- John Connor (Terminator 2)
+			- Story Connection
+				- Former gang partner of and close confidant to Karna.
+		- Henk (NE, He/Him)
+			- Archetype
+				- Scar (The Lion King)
+			- Story Connection
+				- Sells weapons and armor on the grey market; business rival of Irrun, and purchases from Thenolin and Holder.
+			- Description
+				- Super cut orc with vibrant green skin. Wolf pelt head piece. Leather belts cross his massive pecs fur lined epaulets and bracers. Dark Green and fur trimmed half plate on bottom. Incredibly thick bow and quiver.
+		- Irrun Tinn (N, They/Them)
+			- Archetype
+				- Prince Durin IV (Lord of the Rings: The Rings of Power)
+			- Story Connection
+				- Sells weapons and armor from a storefront in Wyrfall; purchases from Thenolin and Huldar.
+			- Description
+				- Bugbear with gray fur that’s white along their sternum. Got a little chonk to them. Wearing a pinkish fabric wrapped around their top. White capris. Black leather wrapped around feet. Carries a great axe with a black metal head. Flask chained to their belt.
+				- Jovial person, good business acumen, drives hard bargain. Reputable clerk.
+		- Miali Glim (LG, She/Her)
+			- Archetype
+				- Phyllis Vance (The Office)
+			- Story Connection
+				- Proprietor of Glim’s House and one-woman support system for the group.
+			- Description
+				- A relatively short human woman of indeterminate age, but might be in her early 60s.
+				- Chestnut skin and gold hair that goes past her shoulders - but with a matte cast to it.
+				- Her ears belie a _distant_ hint of elven ancestry.
+		- Zaida (NG, She/Her)
+			- Archetype
+				- Allison Reynolds (The Breakfast Club)
+			- Story Connection
+				- Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+			- Description
+				- A small female, clearly fey, and somewhat larger than a gnome.
+				- True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+				- Glassy eyes much larger than normal, without iris or pupil.
+	- Monsters
+		- 20 Kobolds
+	- Magic Items
+		- Periapt of Wound Closure
+		- Sending Stone
+			- Linked to members of the Scions of Lo’Thos.
+- Resources
+	- The Scions’ Arrival
+		- Something in the air changes. An electricity - an infinitely small vibration. The hair on the back of your neck stands on end. 
+		- Outside on the street, there’s a high pitched, mechanical whine.
+		- Then the walls begin to shake.
+		- And then everything explodes. A heavy, low crack - like the very center of thunder. It’s as if a detonation has gone off - but you’re right in the middle of it, and somehow you’re able to watch its effects.
+		- The walls around you seem to lose form, vaporize into a dense dust - one that for a split second still looks like a building. But then that dust rises, rocketing into the sky in all directions.
+		- You blink through the thin cloud of dust that hangs in the air, and you see now that most of the building is gone. There are some parts of the walls that remain - some framing still stands, and a six foot high section of the far corner of Glim’s House is almost entirely intact.
+		- And as you look around you see that other buildings around you have similarly been reduced to this strange absence of rubble.
+		- Somehow, you are all unharmed.
+		- Then you hear another thunderous explosion elsewhere - close by. And now you process the yells. And the screams. And the crying.
+	- Distance Travel
+		- Pace Rules
+			- Assume average party speed of 30 ft.
+			- Speed per minute is a number of feet equal to 10 times character speed
+			- Speed per hour is a number of miles equal to character speed divided by 10
+			- 8 hours of travel is permitted per day
+			- After 8 hours, each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion
+		- Pace Buffs/Penalties
+			- Fast: -5 penalty to passive perception scores
+			- Normal: None
+			- Slow: Able to use stealth
+		- Calculated Daily Pace
+			- Slow: 18 miles/day
+			- Normal: 24 miles/day
+			- Fast: 30 miles/day

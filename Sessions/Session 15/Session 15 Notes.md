@@ -1,0 +1,15 @@
+- In Session
+	- None taken!
+- Post Session
+	- Huldar’s holy feeling.
+	- They talk with Jin, she describes what she knows.
+	- Huldar asks about how long Mayva has. A day, no more.
+	- Jin dies, becomes a leshi.
+	- Huldar divine lances the thing, it runs.
+	- Mayvra feels the connection with Sentience, hears from Quan and something beneath.
+	- Karna and Sameera discuss the seventh Blade of the Silver Sun.
+	- Sameera bites it, Huldar buffs out, she stabilizes.
+	- Karna battle medics Pref.
+	- Zaida is crying the whole time.
+	- Session ended with Pref “I never had a plan.” Karna: “It’s okay. We’ve never really had one either.” Pref huffs a single “heh,” pops his shoulder into place. Karna pulls him to his feet - and Pref makes for the stairs.
+

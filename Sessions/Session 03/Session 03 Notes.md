@@ -1,0 +1,48 @@
+# Fables of the Few - Session 03 Notes
+
+- In Session
+   - Huldar made a glaive that has an extension of what he gave karna.
+   - Neat.
+   - Karna missed the oar a little bit Huldar helped.
+   - Guards are giving them a hard.
+   - I’m not doing anything - I distrust authority.
+   - I literally died and she brought me back.
+   - Go to the Dusk Meadow Inn.
+   - Making coin out of the loot. Turned weapons into coin.
+      - 88 gp
+   - Karna gives Huldar money as thanks.
+   - Huldar wants to buy a pearl.
+   - Mom you there? Is everything okay?
+   - Make an item card for the bomb.
+   - Owls attacked mia above.
+   - They took three books, one of which was very damaged.
+   - Huldar loots the incense.
+- Post Session
+   - Started with Huldar’s vision, talked to Moradin, went towards the light. See notes. Moradin formed dagger, Huldar made an extended glaive.
+   - Huldar wakes in the boat, they see Il Ausper in the distance. Their boat is pulled towards the city. Zaida wraps up the sail. Brings out oars. “Slow."
+   - Karna misses the oar a little bit, Huldar helps. Mayvra gets in on it. Guards impressed.
+   - Two of the guards appear agitated. One recognizes Huldar - asks Huldar to vouch for the group, eyeing Karna’s massive glaive - but oddly, not Mayvra or Zaida.
+   - “I literally died and she brought me back.”
+   - Enter at Palebroak in an area of commerce. See description notes. Karna clocks a number of agitated folks - in fact, many.
+   - A 70 year old woman smokes on a large pipe. Karna bribes her with a Platinum. Self-proclaimed gossip. Tells them of Andel Glass.
+   - Sees Mia. “Interesting coincedence, that.” A terror breaks through, she struggles to gain composure.
+   - Admits what happened the evening before. Would rather not relive it further.
+   - Head north to the Dusk Meadow Inn. Inn keeper eyes Huldar and Mayvra, looks concerned that he might not have adequate amenities - but Mayvra is plenty comfortable without a bed, thanks. Zaida makes a makeshift pillow pile for herself.
+   - Huldar identifies the bombs from the Kobolds and the Periapt of Wound Closure - group decides he should wear it.
+   - Identify Sending Stone. Sameera attempts to call Yuska. Nothing.
+   - Crafts metal into money. Crafts an improved glaive for Karna.
+   - Sun is low. Sends Mia out. She circles Old Seocek, and Huldar finds the square that Sameera described. But there’s *nothing* there. Mia is attacked by owls.
+   - Much deliberation, wake up Zaida to ask about the Temple, runs her hand across Huldar’s face. Sameera recognizes the gesture. Does the same to Mayvra and Karna.
+   - Short rest, head out. Find a massacre at the temple.
+   - Maruna Keen is the only survivor. See notes for what she divulged (nothing about Farhaven). Akio did his job well.
+   - Karna checks the rooms, it’s clear to him that whoever was looking for something, they quickly determined it was not there.
+   - Find 3 coarsely bound books written in the same language written on the walls of the Cinder Spire.
+   - Zaida finds in Yuska’s room a small bound collection of maps. Farhaven ruin is marked and circled. “Yuska.” Does that mean that’s where she is? Zaida doesn’t know.
+   - Zaida reverently lays out the dead.
+   - Huldar loots for incense. 75gp worth.
+   - Return to the Dusk Meadow Inn. Sleep for the night.
+   - Wake early the next morning as the sun rises. It’s as if perhaps the prior evening had been a dream. Get food, talk to Inn Keeper.
+   - Huldar resummons Mia. Try again to contact Yuska.
+   - “Sameera! I do not know if Lo’Thos follows - I barely escaped. They gathered at Farhaven. That’s where they planned the attack - but I cannot be delayed. The Hope of Ioun has returned and I head to them now. You already know where they wait: Evangelion.”
+   - Annnnd scene.
+

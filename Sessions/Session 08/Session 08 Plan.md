@@ -1,0 +1,143 @@
+- Global State
+	- Experience Tracking
+		- Last Leveled Before: Session 6
+		- Experience Gained:
+			- Troglodytes (x2): 50 x 2 = 100
+			- Ghast: 450
+			- Kobolds (x2): 25 x 2 = 50
+	- World Information
+		- Date: Derst, Cruvas 2nd, 218 PA
+			- Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+			- Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+		- Time of Day at Session Start: 10:18 pm
+		- Solar Origin: Southern
+- Kickoff
+	- Operations
+		- Next session date on February 2nd if folks are available!
+	- Recap
+		- Sameera floated through a great cosmos, strange and seemingly without end, trying her best to evade the violet-blue vapor that followed her and filled her lungs. Suddenly, a thin arc of light appeared in the middle distance - and soon Sameera could make out a vessel that listed to the side, and turned towards her, approaching fast. Meanwhile, on the Prime Material plane, Karna, Mayvra, Huldar, and Zaida made a play for Sameera’s return. Bobbing in the air on unfurled wings was the planar traveler known as Oglazath. Karna made a blood offering, a symbol of his commitment to find and retrieve the seventh Blade of the Silver Sun. These relics, as you have learned, act as a sort of key when joined, and unlock the Adjuration Flare. But Oglazath intended that this deal be made on his terms. He drew an ethereal, shimmering glyph in the air. Oglazath was upfront: this was a curse, and it would hold the group to their pursuit of the Blade. Zaida stood still, alert and untrusting, hand on the hilt of her sword.
+		- Oglazath saw that to earn their trust, he must offer explanations. Oglazath was conscripted by Saiviel to retrieve the Blades - and, if successful, Saiviel has promised Oglazath a tool to protect his true home. But Oglazath has lost the final Blade’s trail. He promises that the goals of Saiviel Second-Of-The-Name are in line with the survival of Nerah - not its destruction. At this point, the four seemed to soften slightly on the deal and asked for time to discuss. As Oglazath turned from the room, Huldar looted the body of a dead Kobold for whatever it had been mining and found two black shards of light absorbing stone. Karna, still reeling from the news of Fynn’s death, admits that the group seems short on options. Mayvra turns to Zaida and gently asks what she thinks. She looks troubled, and brings her hands to her chest. She _must_ protect what she holds. And so the decision was made.
+		- On the Astral Plane, Sameera was now mere meters from a massive Nautoloid vessel, writhing arms of plasmic energy twisting near its front. Through a portal like an opening throat rose a resplendently armored Illithid, and from a tentacled mouth it spoke: “Astral Elf, we have not seen your kind here in many thousands of years. Come. Aid us.” Sameera had only _just_ responded - “No thanks! I’m good!” - when she felt her form fold in on itself, squeezed through a pinhole, and found herself on the Prime Material. The deal with Oglazath was already made. Perhaps from sheer relief at her return, Sameera listened to the deal’s primary tenets, and then agreed. Oglazath’s glyph split, and each of the four were touched with the heat of its curse.
+		- Now bound by the deal, Oglazath shared more when Huldar asked. Farhaven is what the Few call a “Remnant” - a place once touched by divinity, but now holding only a vestigial, mostly useless connection to the gods. As a Remnant’s divine contact fades, it draws darker energy towards it. Lo’Thos has bound himself to a small number of Scions that he calls the Woken Ones. The Woken Ones wear blindfolds over eyes piked with Nightstone, granting each blindsight - and the ability to redirect all sensory input to their master. This is the substance Huldar holds. Lo’Thos is on a different mission from Oglazath. Lo’Thos cares only about what Zaida carries, and is on his way to Prine - the Midsommar Land’s most populous city - to find her. The five haven’t yet been seen by the Woken Ones, and have thus successfully protected her. Oglazath offers to shepherd the group out of Farhaven unnoticed. Using a duplicate that leaves his true body entirely unprotected, he leads a pair of meddling Woken Ones away. At first, the group leaves Oglazath’s true body behind as they flee - but Karna, realizes more intel is needed, and doubles back for the body. Though the group made an intense racket on their way out, drawing the attention of a Trog sentry, Sameera was able to expertly drop said Trog from a great distance.
+		- Oglazath soon awoke, and while hidden back at camp, he filled in the gaps. Huldar’s skepticism lead Oglazath to share the letter Lo’Thos had left. Sameera flinched as Oglazath explained he tracked the Blade to an elven woman named Meerabai, then to its next holder who was en route to the city of Oachud. The trail went dead. But don’t worry about the lack of details, Oglazath quipped. As long as _someone_ brings the Blade to Saiviel, you’ll be free of the curse. And with that, Oglazath ascended into the late evening sky. After Sameera shared her mother’s fate, the group decided to reach out to Yuska for counsel. Did she need help? Zaida is safe. Sameera and three others are searching for the blade. Thankfully, Yuska was well and responded quickly. “Zaida Safe? Please, please keep her that way. Join us. Where the penumbra turns east, Evangelion is there. The Blades matter more than you know. Last? That cannot be good.”
+		- Wanting to take advantage of the hours left in the day, the group made for their boat and sailed across the river, passing Delg’s Annex, an abandoned town cloaked in a kind of sparkling, reforming fog. As evening fell, they made landfall and headed north towards distant peaks - the Penumbra Range, stone behemoths cut through with unmelting ice and ringed with mist clouds crackling with energy. As the five walked through rolling planes of tall grass, they saw a crater ahead, a starburst of bare ground extending out hundreds of feet. As Huldar and Karna approached to find the crater filled with a tangled orb of blue-white electricity, a voice spoke to Mayvra. “This power is yours. Claim it. You have proven to me: you are strong enough to be made whole.” And then: “Accept your destiny.”
+		- As Huldar sent Mia to flame out at the center of the blinding ball of lightning, Mayvra strode forward. “I’m ready.” And so it began. The energy took shape - like a great serpent, rearing back. Huldar conjured a massive spectral mace that swung away with great force. Mayvra pulled arcane fire from the air, hurling it at the apparition. When Karna charged forward, the attacker met him halfway, parrying away the blade of Karna’s glaive and scoring his flesh with a searing lash. Zaida and Sameera both loosed arrows, Sameera’s connecting with great force lessened by this avatar’s strange, incorporeal form. And then: a mere suggestion of a face formed amid the blue-white energy. It rumbled low two words - this time, out loud, for all to hear: “Destiny … Remember.”
+- Session Material
+	- Character Review
+		- Huldar
+		- Karna
+		- Mayvra
+		- Sameera
+	- Session Start
+		- Let’s say the five of us - this group, in this world - were set down where Karna, Huldar, Mayvra, Sameera, and Zaida stand right now.
+		- In those first moments, we would be in absolute awe of the beauty there.
+		- It’s late evening. The sky is lit with brilliant violet and yellow hues. It’s a Southern Origin today. Today, from where you stand, that means the sun is in the north now partially obscured by the Penumbra Range, its light refracting through the crystalline ice of the mountains’ peaks.
+		- The ground beneath your feet is warm and soft. Even the terrible, roiling mass of electric blue energy that assails you - even that’s beautiful in its own way. The signs of your resistance - Huldar’s vibrant, ethereal mace, the explosive heat of Mayvra’s Bonfire spell, the glinting brilliance of the glaive Huldar god-forged for Karna, Sameera and Zaida, side-by-side nocking arrows in wait.
+		- But at this _exact_ moment - the subtle approximation of a spectral face drawn in electric energy appears and then just as quickly vanishes - and a wave of … something … washes over Mayvra. What emotion is it, Mayvra?
+		- Those words echo:
+		- “Destiny.”
+		- “Remember.”
+		- Anyone looking in Mayvra’s direction would see her eyes burn with a brilliant light, vaporous trails flowing from them, past her temples, down her face.
+		- Mayvra: in this moment, what do you remember?
+		- A voice rumbles so that all of you can hear it. “Good.” A long sigh - relieved. “Prove. Yourselves.”
+		- And then the mass of electric energy gathers and shoots up fifteen feet above you and in an instant unwinds, whipping in every direction.
+	- Scenes
+		- Aided by her friends, Mayvra fulfills her destiny and completes Kord’s challenge - earning a boon and recovering a lost memory.
+		- With night fallen, the group searches for potential camping spots and finds a ruined arcane machine that hints at a massive cosmos.
+		- At camp, the group debriefs and unwinds - with Zaida potentially pressing some of her companions (Karna, Mayvra, Huldar) to open up about recent events.
+		- Waking the next day, the group strikes out for the Penumbra Range and crosses paths with a pair of ice harvesters, probably in bad straights, with some intel about the Hope of Ioun.
+		- Following a search for signs of Evangelion, the group finally catches a fleeting glimpse of fantastic towers near the very highest points of the Penumbra Range.
+		- The group reaches the foothills of the Penumbra Range and must develop a strategy for their ascent.
+		- During their ascent, the group faces an icy encounter.
+		- Evangelion bursts open to the sky with radiant light.
+	- Secrets & Clues
+		- Mayvra hails from the farthest reaches of the Midsommar Lands - a place where the sun falls briefly beyond the horizon each night.
+		- Archmage Dwornak built the orrery to search for proof of the gods’ presence on other worlds.
+		- The Penumbra Range was formed by a burrowing Frost Worm Colossus named Taenoth the Uncorrupted.
+		- The ice that cuts through the Penumbra Range is arcane in nature and reforms where broken from the primary vein.
+		- Ice taken from the Penumbra Range is traded for its stable mutability; it melts 3 moon cycles after it’s harvested.
+		- A group of treasure seekers recently went missing near the Cold Crystal Trench, north of Evangelion, in search of a fabled relic: Taenoth’s Staff of Frost.
+		- Rather than returning all at once, the Hope of Ioun has, in fact, been returning one curator at a time, drawing attendants from across the northern reaches of Midsommar.
+		- Both monks and curators have wandered some distance from Evangelion - and have been spotted by adventurers and gatherers several times.
+		- The High Curator Kwelan Amikye is moments away from returning, delivered by portal and a column of light that reaches to the stars.
+		- Lo’Thos has reached Prine and activated a sleeper cell of Shadowghasts that have lain in wait for months.
+		- Lo’Thos is preparing to take control of the Akremahtir, the Night Tower.
+		- Dormant since the end of the Age of Many, Akremahtir waits to be activated, covering the southwestern reaches of Midsommar in a dome of impenetrable darkness.
+	- Locations
+		- Dwornak’s Orrery
+			- A massive, corroded metal basin built on a wide stone dais.
+			- Ruined and rune etched panels surround two thirds of the basin, forming an open sided sphere.
+			- The inside is burnished and free of corrosion with a round control panel at the center, five feet across.
+		- The Southern Wound
+			- An explosive, wound-like rift between two mountains forming the base of the Penumbra.
+			- A faint, frigid breeze blows from a collapsed tunnel filled with earthen debris.
+			- The air feels thin and dry near the outer lip of the Wound.
+		- Cold Crystal Trench
+			- A ridge of opaque crystalline ice shattered down the center.
+			- Wind passing over the shattered ridge fills the range with a ghastly, multi-tonal drone.
+			- A narrow, craggy crevasse widens before disappearing into darkness below.
+		- Sheer Cliff Cables
+			- A steep, wide peak of ice and stone flattened on one side, exposing a thousand foot drop.
+			- A cable bridge two hundred feet in length spans the gap to a trail that picks up below a much wider peak.
+			- The cables’ slack sways in a stiff breeze.
+		- Evangelion
+			- Three towers float above a natural plateau jutting from the side of the Penumbra’s tallest peak.
+			- The largest is ringed by three hovering circles of brilliant golden light.
+			- Flat, free-floating lifts, tiny from a distance, scale each tower, or swoop quickly from one tower to the next.
+	- NPCs
+		- Harnen (N, He/Him)
+			- Archetype
+				- Cable (X-Force)
+			- Story Connection
+				- Hard-scrabble human leader of a ice harvesting group running this month’s harvest south to Il Ausper.
+			- Appearance
+				- Massively muscle bound man with arms the size of tree trunks and recently coifed short gray hair.
+				- Wears thick dark leather gloves with a strange metal caste of an elongated face on the back of the hand.
+				- Left eye covered in a metal eye patch that’s been bolted into his face.
+		- Vaela (CG, She/Her)
+			- Archetype
+				- Lara Croft (Tomb Raider)
+			- Story Connection
+				- Down-on-her-luck scholar turned ice harvester; partner to Harnen.
+			- Appearance
+				- Yellow skinned tiefling with striking pitch black eyes and hair, and relatively short horns that curl up at the end.
+				- Wears a knee length leather coat and a long whip at her side.
+		- Zaida (CG, She/Her)
+			- Archetype
+				- Allison Reynolds (The Breakfast Club)
+			- Story Connection
+				- Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+			- Description
+				- A small female, clearly fey, and somewhat larger than a gnome.
+				- True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+				- Glassy eyes much larger than normal, without iris or pupil.
+	- Monsters
+		- 1 Living Lightning Bolt
+		- 6 Ice Mephits
+		- 1 Galvanice Weird
+	- Magic Items
+		- Gloves of Hill Giant Strength
+		- Potion of Greater Healing
+		- Pearl of Power
+		- Potion of Fire Breath
+		- Ring of Ice 
+- Resources
+	- Kord’s Words
+		- “I am close - closer than they realize. A god, but you need not bow. You need not believe.”
+		- “You are my fist. You are the harbinger.”
+		- “To you, I grant this gift.”
+	- Distance Travel
+		- Pace Rules
+			- Assume average party speed of 30 ft.
+			- Speed per minute is a number of feet equal to 10 times character speed
+			- Speed per hour is a number of miles equal to character speed divided by 10
+			- 8 hours of travel is permitted per day
+			- After 8 hours, each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion
+		- Pace Buffs/Penalties
+			- Fast: -5 penalty to passive perception scores
+			- Normal: None
+			- Slow: Able to use stealth
+		- Calculated Daily Pace
+			- Slow: 18 miles/day
+			- Normal: 24 miles/day
+			- Fast: 30 miles/day

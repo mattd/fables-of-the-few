@@ -1,0 +1,210 @@
+- Global State
+	- Experience Tracking
+		- Last Leveled Before: Session 6
+		- Experience Gained:
+			- None yet!
+	- World Information
+		- Time of Day at Session Start: 10:24 am
+		- Date: Derst, Cruvas 2nd, 218 PA
+			- Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+			- Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+		- Solar Origin: Southern
+- Kickoff
+	- Operations
+	- Recap
+		- A massive Quaggoth laid dead, it’s grappling arms still draped over Karna’s feet. Zaida, frustrated by her relative inexperience with the shortbow, stormed down the dusty, rock strewn path, Sameera following at a distance. Mayvra charged after the diminutive fey and, instead of trying to fix anything, just offered her a ride on her shoulders. For a moment, Zaida was still troubled. She _had_ to be better - and thumped hard against her chest: “The _whole_ world.” But in the end, she took the ride, and - quietly - Sameera resolved to help.
+		- Always the gear monkey, Huldar looted the corpses, and then the group was off. They made their way through rolling hills choked with thick brush, Karna getting ripped to shreds by briars and hungry vines as he looked for a suitable camp. By the time they found a well-tucked clearing, it was already late. Mayvra checked with a latent ability she’d never thought twice about - asking wordlessly, “Were they safe? Is there bad weather coming?” Only Karna saw thin smoke curl from her eyes, and only Mayvra heard the deep, rumbling reassurance: “Rest.” Sameera approached Zaida, who explained with few words that Akio had been good at teaching how to punch and very _bad_ at shooting. The two practiced, Sameera patiently correcting Zaida’s form and proferring many tips, but more lessons would be needed. Meanwhile, Mayvra spoke with Karna, asking for some advice on use of the Yklwa. With the way the past two days had gone, it was clear to Mayvra she was gonna need it. With a kind, resolute, and maybe proud demeanor, Karna shared the outlines of his military training. Ultimately, though, it all boiled down to, “You charge in and do the whole pokey pokey.”
+		- Huldar laid out an array of metals, and as his hands lit with divine light, the metal softened and gathered, allowing Huldar to mold it into novel shapes. With this, he fashioned a thin but surprisingly weather proof tent. Mayvra exploded a bonfire, but it was all fine. And shortly later, Mia spiraled up on the breeze, Huldar gazing out through her eyes. Only two miles to the west, finally, was Farhaven - a temple-like ruin built into - or perhaps covered by - a large hill. Huldar saw two kobolds approaching the ruin that seemed entirely unaware of the group’s camp. Huldar also clocked two entrances: a long neglected temple entrance at the top - massive, worn pillars glowing brighter than made logical sense - and a cave entrance lower down into which the kobolds walked. But for now: things were safe. Even a rustle in the brush during Karna’s evening watch turned out to be nothing more than a lone Jackalope. Mayvra, not yet asleep, snuck forward, clicking horns with the “taller than it should be” beast, and began clicking away in an animal tongue Karna couldn’t decipher. It seemed … reassuring for Mayvra. The rest of the night was calm - save for a strange far-off chanting that Huldar heard only during the short stutter-start pre-dawn.
+		- The next morning, the group reflected on what lay ahead. Huldar minor-imaged-up an approximation of the ruin, and Karna posed a very sensible question: are we _really_ storming Farhaven? The answer was, in the end, yes - with Zaida maybe the most outwardly excited once she realized it might test her bow skills. Zaida and Sameera _expertly_ snuck ahead, and when they reached the dark cave-like entrance the kobolds had taken, Sameera _quickly_ picked out a trip wire carefully drawn across the entrance. Yet the place was quiet. By the time the pair had guided the others into the Ruins, the strange, historic pull of this place was evident. Stone walls appeared melted by some ancient force, there were rooms of a temple half-finished, and a small chamber packed with filthy bedrolls, suggesting the group was not alone. Sameera was able to read a prayer of some sort etched on the wall of a rubble-filled prayer room, the name of the temple’s god scratched out. And in the bed chamber, she found the faintly glowing head of a statue meant to depict the face of the divine.
+		- After examining the last of a few foot lockers left from some recent exodus, Huldar heard whispers from an adjacent and partly finished cavern. Karna took the lead in, and the group came face to face with two kobolds and a hideous, undead Ghast, its long tongue lashing wildly at the air. The group worked _quick_ - Zaida celebrating a hit with her shortbow coach, Mayvra making expert use of elemental ice, Sameera managing a brutal one-shot, and Karna and Huldar pinning the Ghast against one wall. In the quiet after the fight, the group discovered that they stood in what looked like a depleted mine, which Huldar could tell had a faint necrotic signature.
+		- But here also was a massive, polished door - immaculate, made of polished metal not unlike pale gold. With aid from Huldar and Mayvra, Sameera picked the door’s multi-layered lock - and it gave way with the feel of a vacuum seal opening. Everything here glowed with a divine light. Karna, uncomfortable with this feeling, stood outside the room as the others examined a half dozen representations of what must have been the same god, its name long lost. Huldar briefly left and then returned with the statue Sameera found earlier, and when he attempted to mend the break, he could feel the touch of something that _pulled_ on his connection to Moradin - even if Moradin himself was not the source. Mayvra, perhaps looking for some connection to the voice she heard earlier, touched a statue that looked like a stylized storm - but she too could tell: this was something new.
+		- As we closed, our heroes readied themselves to delve deeper. Sameera opened a southern door that lead into a long hallway. Cautiously, she peered out - and suddenly, two reptilian faces spun towards her. Troglodytes. Sentries. Guardians of the Ruins that Lo’Thos the Corrector had recently claimed.
+- Session Material
+	- Character Review
+		- Huldar
+		- Karna
+		- Mayvra
+		- Sameera
+	- Session Start
+		- We begin a few moments earlier.
+		- The four of you stand in a room that glows with a warm-hued, sourceless light. Most surfaces here have a faint shimmer to them. There’s a very faint, almost indescribable scent on the air - like wilting flower petals and rain.
+		- Karna is just outside the room’s western door and looks out at a room that crumbles into a cavernous, depleted mine. Karna - where’s your head at this moment?
+		- [Back in the other room,] Zaida holds Mayvra’s hand, and with Huldar, they stand behind Sameera as she takes two soft, soundless steps towards the southern door and - after a brief pause - tries a lever-like handle that clicks definitively - and the door opens.
+		- Sameera - you lean forward through the door - shoulder first, a cautious move borne from years of training. You see the Trog nearest to you first. It’s dim here. The only light in this hall is streaming out of the room you’re currently in. You see the face of this Trog closest to you snap in your direction.
+		- And then, a fraction of a second later, you see the second Trog in your peripheral vision. It snarls, grabbing and swinging around a kind of short pillar as leverage to launch itself towards you.
+		- Quick - you can do only one thing before they’re on you.
+		- What do you do?
+	- Scenes
+		- Upon leaving the Faces of the Nearest Star, the group is attacked by two Trogs, one of whom attempts to flee to the fourth level.
+		- The group captures and interrogates one or more of the Scions patrolling the halls of Farhaven.
+		- A crudely blindfolded kobold spots Zaida - and calls for Lo’Thos to return.
+		- The group finds Oglazath as he gathers the items Lo’Thos left - and potentially informs Karna of Fynn’s fate (and the Blades of the Silver Sun) if the encounter leads to parley.
+		- The group makes plans to prepare for Lo’Thos’ arrival.
+	- Secrets & Clues
+		- In the Age of Many, Farhaven was a temple to Nerah’s sun god, their true name already long forgotten.
+		- Farhaven is what the Few call a “Remnant” - a place touched by divinity, but with only a vestigial, mostly useless connection to the gods.
+		- As a Remnant’s divine contact fades, it draws darker energy towards it.
+		- Lo’Thos has bound himself to a small number of Scions that he calls the Woken Ones.
+		- The Woken Ones wear blindfolds over eyes piked with Nightstone, granting each blindsight - and the ability to redirect all sensory input to their master.
+		- Lo’Thos is about 80 miles away, en route to Prine - the Midsommar Land’s most populous city, about 96 miles south of Il Ausper; he can reach Farhaven in about one day.
+		- While the finished areas of the Farhaven Ruins were constructed during the Age of Many, the burrowed, rough-hewn areas were dug out only in the past decade.
+		- Though Lo’Thos serves Saiviel Second-of-the-Name, his true allegiance is to the First Saiviel, yet-to-be-returned.
+		- The deepest parts of Farhaven’s newly-excavated halls are makeshift mining sites where the Scions dig for raw Nightstone.
+		- Word has only recently reached the Scions that Saiviel has located the Adjuration Flare.
+		- Fynn is dead, having recently been killed by Oglazath, a Berbalang currently overseeing the evacuation of Farhaven; they were searching for the Blade that Fynn and Karna stole and know both by name.
+	- Locations
+		- Farhaven Ruins
+			- Level 1
+				- Path of the Undying Star
+					- Massive, sundered, and unspeakably ancient pillars made of a smooth substance, oddly luminous beneath the chips and grime.
+					- Jagged sections of flooring suggest a building that was once much larger.
+					- Ten foot tall altar of two pillars expertly fused with a large metal plate etched with the symbol of an eight pointed star - and a round hole cut 7 feet up and slightly to the right.
+					- A low metal obelisk, three and a half feet tall, stands between the two pillars.
+					- A roughly hewn natural stair leads up into a cool and dimly lit chamber. [A narrow slit, two inches by 18 inches, is cut in the wall to the right.
+				- Sun God’s Welcome
+					- A cavernous, cool, debris filled room with crumbling walls and vaulted ceilings.
+					- A large mural on the far wall, heavily worn down by time, depicts an other-worldly landscape occupied by an armored and cloaked, humanoid-shaped god, a radiant orb of energy in place of its head - one hand outstretched, the other on its chest.
+					- A few clearly unlatched chests sit along the ragged walls; detritus of wood and metal is lightly scattered across the floor.
+				- Post of the Hushed Vow
+					- A tight, bi-level, low-ceilinged room, lit only by the light streaming in from an arrow slit.
+					- A filthy pile of cushions is arranged near a short table with partially burnt candles.
+					- Stylized scrawl of a strange humanoid owl done in charcoal above the table.
+					- Low and emptied shelves are set against one wall.
+				- Officiant’s Quarters
+					- Five extraordinarily filthy beds - if they can be called that - line the walls; it smells of must and bile.
+					- Though heavily worn down, the walls are decorated with ancient bas-relief carvings of solemn and vaguely alien looking robed priests, including an ornamental shelf of some kind that looks ceremonial.
+					- Shoved in a corner are relics that look millennia old - swinging incense hangers, some kind of wire arch that fits on humanoid shoulders, and battered scroll cases.
+			- Level 2
+				- The Sun’s Salon
+					- A wide room with smooth floors and a raised platform held up by pillars of the same substance seen outside the main entrance.
+					- Makeshift food storage room - rotting carcases of several massive beasts, as well as large, almost entirely empty food barrels - takes up the left side of the chamber.
+					- Large swaths of the walls are thinly gilded, but much of the gold has been rubbed off or stripped away.
+					- A flowy, ornate eight pointed star is carved as a bas-relief in the celing.
+					- Very old furniture and communal personal effects - chairs like chaise loungers, low dining tables, long unused silverware - are pushed into the right corner in great piles.
+				- Revelation Chamber
+					- A square high-ceilinged room with two uninterrupted opposing walls that have the appearance of being made of mirror.
+					- Four unornamented square stone pillars run from floor to ceiling, and are scored deeply every three feet.
+					- The facial reflection of anyone entering the room is smudged - as if their face was rendered in still-wet paint and smeared by a thumb.
+					- [A glyph in the center of floor reads “Speak Truth” in Celestial.]
+				- The Dedication Pool
+					- A long room has a five foot wide and four foot deep recessed area running down its center with a stair on either end.
+					- A half dozen sconces line the walls, but only one is lit.
+					- A tarp covers part of the floor of the recessed area; [underneath is equipment - including a several dozen weapons, none of them well kept, badly worn leather armor, and 5 empty Deatomizers].
+					- [If any water-filled vessel is fully emptied into the pool, water magically fills the entire length; any good-aligned creature that bathes in the water is blessed for the next hour.]
+				- Lab of Many Lights
+					- A long room that hooks suddenly to one side - and has clearly been looted long ago.
+					- A row of seven narrow pedestals are broken at various heights - as if it was the easiest way to remove what sat atop them.
+					- Low wooden shelves on the far end of the room are badly rotted - but one is intact enough to see an eight-pointed star etched expertly on its top.
+			- Level 3
+				- Rector’s Study
+					- A room filled with a pile of rubble of all sorts - piled up near the ceiling in one corner and sloping down to cover a third of the floor.
+					- A short round dais is partially obscured by the rubble.
+					- The back wall - also partially obscured - is covered by stone-etched writing in Celestial: a prayer to the sun god, their name scratched out.
+				- Rector’s Quarters
+					- A square room filled with a half dozen thick, filth-covered bedrolls.
+					- Set haphazardly near the center of the bedrolls is a strange, very faintly glowing carving - like the head of a small statue - a many pointed star with long tetrahedral spines of varying length, set to look like a flower.
+					- The sculpture is set on the top of a narrow stone pillar, roughly detached.
+				- Room of the Revocation
+					- A large chamber that looks only partially finished on the north side, and roughly carved on the south and west - as if construction was abandoned.
+					- Two natural pillars - and some portions of the unfinished wall near the external entrance - exhibit a strange geologic formation.
+					- It’s as if the stone had been blown with great force, melted, and pulled in towards the center of the ruins, before quickly hardening.
+					- Low metal foot lockers line the west wall, but there’s a sense that many more have been recently moved.
+				- Faces of the Nearest Star
+					- Heavy, brightly polished metal doors, unlike anything else in the ruins, fit their stone frames precisely.
+					- Claw marks - or maybe gougings from man made tools - can be seen near the latching handle mechanism.
+					- Inside, everything flouresces - the walls, ornate moulding near the ceiling, and statues set carefully on pillars, each depicting the same sun god in slightly different ways.
+				- Hall of Ioun
+					- A long hall sports rods every ten feet with a small, white apple sized sphere atop each rod that produces no light.
+					- Etched on a sign at the end of the hall near the stair is a Celestial glyph meaning “Library.”
+				- The Depleted Mine
+					- A partially finished room crumbles into what is clearly a mine.
+					- The mine has the look of being altogether _new_ compared to the ancient constructions elsewhere in the ruins.
+					- The walls have been dug into at various depths - in many places, small gouges four inches in circumference and maybe six or eight inches deep give the impression that they have given up some small treasure.
+			- Level 4a
+				- The Failed Dig
+					- A hastily dug cavern still littered with various warn-down pieces of mining equipment.
+					- The walls are relatively rough hewn - but there’s the sense that whatever the miners were looking for here, they weren’t finding enough of it to warrant further exploration.
+			- Level 4b
+				- Seat of the Corrector
+					- A large cavern, hastily dug looks given up or abandoned on its southern side.
+					- A smaller tunnel-like passage on the northern end sparkles in an odd way at its entrance - like the darkness is shimmering instead of the light.
+					- At the end of the passage, the walls are set almost like the inside of a finely-grained geode - and set on the floor is what one might describe as a nest or rough throne of shard like rubble.
+				- Library of the Nearest Star
+					- A large L-shaped room with tall vaulted ceilings echoes loudly.
+					- The floor is littered with what looks like ancient shelves, long ago pulled down and destroyed.
+					- The remnants of several large, round fires stain the floor.
+	- NPCs
+		- Lo’Thos The Corrector (NE, He/Him)
+			- Archetype
+			- Story Connection
+		- Oglazath (LE, He/Him)
+			- Archetype
+				- Clown (Spawn)
+			- Talking Points
+				- [The Corrector’s Quarry]
+					- “While we are charged with dissimilar tasks, we work at the same goal. And we answer to the same authority.”
+					- [Looks at Zaida.] “For the life of me, I can’t imagine why.”
+					- “Lo’Thos is formidable. But he is not wise. He is - as you say sometimes on this plane - a dull bulb?”
+					- “The difference is just that Lo’Thos trusts both of their faces equally. And that … _that_ is a mistake.”
+					- “Ahhh. If I am not mistaken … _you_ are the Corrector’s quarry. No?”
+					- “The Corrector is … formidable. Far more formidable than I.”
+					- “Today I am - apparently - a messenger. Lo’Thos does not wish to speak with them directly.”
+				- [Fynn’s Plight]
+					- “His mind was full of you when I bled him dry. Curious - he wanted to keep you out of mind - away from a place where I could … see you.”
+					- “The Blades of the Silver Sun - what you stole. They were [taps on forehead] … they were in there too.”
+					- “It was easy enough to find _those_ faces.”
+					- “But he failed, probably because he cared too much.”
+					- “And the faces of those that paid you to find them.”
+					- “I know your face, troubled one.”
+			- Story Connection
+				- Berbalang servant of Saiviel Second-Of-The-Name, currently searching for the Blades of the Silver Sun.
+		- Zaida (CG, She/Her)
+			- Story Connection
+				- Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+			- Description
+				- True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+				- Glassy eyes much larger than normal, without iris or pupil.
+				- A small female, clearly fey, and somewhat larger than a gnome.
+			- Archetype
+				- Allison Reynolds (The Breakfast Club)
+	- Monsters
+		- 1 Berbalang
+		- 3 Ghasts
+		- 8 Kobolds
+		- 8 Troglodytes
+	- Magic Items
+		- Dagger of Venom
+		- Potion of Greater Healing
+		- Spell Scroll - Immovable Object
+		- Pearl of Power
+		- Potion of Fire Breath
+- Resources
+	- The Woken Ones
+		- “Darkness! It is the Graft! Do you see it?! Do you see, Darkness?!"
+		- “They have arrived! Farhaven!”
+		- “Come and claim them! Hurry! You must return!”
+		- “No, Darkness. Of course.”
+		- “They will not leave. I promise you. They will not leave.”
+	- Notes from Lo’Thos to Oglazath
+		- Oglazath -
+		- Tell Saiviel to keep faith. The Graft of Bricciu does not want to hide. It wants to be known. Akio believed he was clever - but he and five of his order are dead now because of me. That has to count for something.
+		- What the graft contains - we will end it. You have my word. Saiviel has my word.
+		- I will correct the mistake. I will blot out what they know. It is close, and Ioun is powerless to stop me.
+		- Praise Saiviel, Second-Of-The-Name. And praise Saiviel, soon to be returned.
+		- The end of history is near. Praise.
+		- Lo’Thos
+	- Distance Travel
+		- Pace Rules
+			- 8 hours of travel is permitted per day
+			- Speed per minute is a number of feet equal to 10 times character speed
+			- Speed per hour is a number of miles equal to character speed divided by 10
+			- After 8 hours, each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion
+			- Assume average party speed of 30 ft.
+		- Pace Buffs/Penalties
+			- Slow: Able to use stealth
+			- Normal: None
+			- Fast: -5 penalty to passive perception scores
+		- Calculated Daily Pace
+			- Normal: 24 miles/day
+			- Fast: 30 miles/day
+			- Slow: 18 miles/day

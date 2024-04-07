@@ -1,0 +1,149 @@
+- **Global State**
+    - Experience Tracking
+        - Last Leveled Before: Session 12
+        - Experience Gained
+            - Making friends with Gehrp Flintfoot = 30
+            - Avoiding a fight with a Greater Barghest = 30
+    - World Information
+        - Date: Sirt, Cruvas 6th, 218 PA
+            - Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+            - Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+        - Time of Day at Session Start: 3:36 pm
+        - Solar Origin: Southern
+- **Kickoff**
+    - Operations
+    - Recap
+        - A thin trickle of blood coursed from Dawn Walker Pref Patar’s nose as he introduced Mayvra, Huldar, Karna, Sameera, and Zaida to two brilliantly colored, mute-but-humming myceloids he had charmed. There was little time for pleasantries. Pref barely had a hold on these new friends of his, and with the sun dropping in the south, time was short. Huldar, naturally, held back to loot the owlbears - maybe hoping to find keys to the Hope of Ioun’s floating fortress or something. But no, Pref was _serious_, and soon Huldar was hustling to catch up. After an hour of travel, the group came to a rise in the windswept plains, and Pref offered options. He pointed to the edge of the Sombrewood - a forest draped in deep shadow. Pref wouldn’t normally dare to suggest taking refuge in this _particular_ wood. But then he motioned to the immense, organic, and brilliantly colored towers to the south. The Archdruid Quan is there - and he watches. He is powerful. And Pref - as of yet - has no plan.
+        - So the group set off for the forest’s edge, Karna displaying a distinct and sudden interest in the details of Quan’s history. Pref was frazzled by the effort to maintain control of the Myceloids, their long, loping strides keeping pace along the group’s own. So at this moment, he sounded overwhelmed - and maybe a touch guilty as he shared more details that he’d gathered. From what Pref had recently learned, Oristivius Quan is - to put it in the simplest terms - an escaped prisoner. As it turns out, the Sombrewood is home to a naturally occurring portal to the Shadow Plane - and as Sameera and Karna dig more - Who put Quan there? What held him? What’s the plan for putting him back? - the tension in Pref’s voice rises. He answers questions with questions? Like a guy pushed to the limit? At the end of the day? He needs some sleep.
+        - The group arrived at the Sombrewood’s edge, and found a forest devoid of underbrush - but also one that is preternaturally dense. There is, indeed, an unseeable darkness within. They also notice the forest grows on ground that slopes down and in - like a massive, healed-over crater. Camp was made at a copse some seventy feet from the forest’s edge. Once folks were settled in, Zaida sat cross legged on the ground, opposite one of the group’s two myceloid captives. This guy looked _tasty_. Zaida’s voice and manner of speaking sounded more assured, more developed, and she let everyone know she wanted to _eat_ this guy. One bite. She stopped _just_ short of daring Mayvra to join her in licking the bigger of the two myceloids. Mayvra was firm in her rebuff. There was maybe a _tiny_ bit of mom vibes. Huldar foraged, failed, and then prestidigitated a piece of hard tack into something vaguely mushroom flavored. Zaida appreciated the effort.
+        - That night, Karna took first watch, his eyes scanning the strange inky darkness of the Sombrewood. Sure enough, something lurked within. Something small. A goblin with blue-green skin, draped in layered robes. She was cautious, skittery, a hand crossbow held tightly in shaking hands. Somehow, Karna calmed her down a bit - but then Mayvra woke. A _minotaur_ - something Gehrp had never seen. Sameera, then Zaida, also woke. Huldar and Pref just snored. That the group made friends with this small one, it all hinged on the name of that Archdruid - Quan. Gehrp explained that she was a member of a coven with a simple name: the Gate Watchers. They, too, hope to gain leverage on Quan and force him to return to his prison on the Shadow Plane. Quan is _powerful_ - and though Gehrp felt it was probably unlikely that the Gate Watchers would choose to align themselves with relative strangers, she liked this group. Maybe she could talk “the others” into … something. She didn’t know what. Who were those others? Mayvra caught sight of something just beyond the tree line. Something massive. Gehrp yelped, and stood to take leave and join her brother. Just as Huldar woke, Gehrp’s body rippled, expanded, transformed into something larger, bestial, utterly feral. A barghast. She deeply growled her thanks - and a promise she would explain all this to her kin. Then Gehrp galloped into the wood to join a much larger fiend, barely observed in the shadows.
+        - The next morning, Pref felt much better - perky even. Your way turned marshy. That marsh got deeper, broad trunked trees got taller. And through a break in the trees, Mayvra got a clear look at one of the myceloid towers. Massive, hundreds of feet tall, orb-like protrusions that glowed with a shifting hue. And clear as day, Mayvra saw the tower _turn_, as if considering you. This was news to Pref. And only minutes later, there was even worse news. As the group struggled through deeper swamps, climbing over root structures thicker than a mountain dwarf, Pref held up a hand. Then, all around you, Myceloids peeled off from the trunks of trees - the largest, an elder - easily 15 feet in height. Pref whistled and gestured in the air, and the two charmed Myceloids surged forward, tackled two of their kin and disappeared beneath the water.
+        - What followed was chaos. One myceloid surged into the pack, and large pocks in the creatures flesh opened, filling the air with noxious spores. _Everyone_ resisted this. And what’s more, this group has learned _to fight_. Sameera ducked behind cover, and as her arrow found its mark, Zaida tucked in beside. “You’re very good at what you do,” Zaida chimed. Karna’s glaive swung with exacting precision, while Huldar sidled up, blessing the warrior’s blade. Both took massive hits - and kept swinging. And Mayvra, at first unsteady, felt a coiled up fury unraveling. She thrust her palm into one Myceloid’s chest and the taut wire of a summer storm unraveled against it, its porous flesh crisping to black. Mayvra pulled back, her hand faintly glowing. This fight wasn’t finished.
+- **Session Material**
+    - Character Review
+        - Huldar
+        - Karna
+        - Mayvra
+        - Sameera
+    - Session Start
+        - [The Fight]
+            - We begin in the center of the action, mid-battle - but in this _exact_ moment, the camera is frozen. Time is stopped.
+            - You stand in a tepid, humid swamp. The eternal sun of the Midsommar Lands is just past its zenith and glints off the standing water that covers most of the ground. There’s a mellow, sickly sweet smell in the air - like flowers long rotted.
+            - Fungus, so many kinds, coat the massive trees that stretch far out of the swampy ground. The colors here are dizzying.
+            - And lurching among you - these hulking myceloids; ambulating, sentient, humanoid shrooms. They are controlled by Quan - but what does that even mean at this moment? The largest of them stands, partially hunched over, between Karna and Huldar. They are badly wounded. The other two watch their larger brethren absorb mighty blows, their strange faces seemingly emotionless.
+            - And now - time unfreezes. Mayvra’s hands spark with electric energy - and the myceloid nearest spins to face her. Thin strands of some kind of variegated dust jets from its pores. Then: FUNNFFFFF. A cloud of this dust envelops Mayvra and Huldar.
+            - I need you to make a Fortitude saving throw [DC 18].
+        - [The Newcomer]
+            - A man … no. Not a man. A boy on the verge of adulthood. A wiry but powerful frame. A flop of dark hair in his eyes.
+            - He’s hunched over. He reaches out with his left hand and leans his full weight against the trunk of a massive tree.
+            - Then he steps forward … unsteadily and falls to his knees, head bowed, his chest heaving with great effort.
+    - Scenes
+        - As the party struggles to finish a group of myceloids on their home turf, a disease-stricken and disoriented stranger stumbles into view - and possibly surprises Sameera with an unexpected name.
+        - Following their skirmish with the myceloids, Pref encourages the party to take stock of their wounds - but urges momentum if their conditions allow.
+        - The party either searches for higher ground to rest or pushes into the Drained Ring that encircles Sentience, elder brain to the myceloids of the Wastes.
+        - Pref aids the party in sneaking to watch a large contingent of myceloids guarding the base of the tower - who then, perplexingly, charge north.
+        - Upon entering Sentience, the party is met by myceloids compelled to speak directly for Quan - and that deliver dire messages of warning.
+        - The party raids the Archdruid’s collection - and learns from a nearly consumed cultist how to free the myceloids.
+        - Upon entering Quan’s self-fashioned throne room, the party finds him locked to Sentience and controlling two shadows that stand guard.
+    - Secrets & Clues
+        - The Archdruid Oristivius Quan does, in fact, hold the seventh Blade of the Silver Sun.
+        - Archdruid Quan obtained the seventh Blade from a woman named Brinni Stonesoul - who, in turn, had purchased it for a large sum from Fynn and Karna’s employer.
+        - Brinni Stonesoul is the leader of a group called the Conventicle of the First World - a cult based out of Cay Turran, three days northwest of the Myceloid Wastes.
+        - Archdruid Quan didn’t just take the blade of the Silver Sun - he took Brinni herself and currently holds her in myceloid stasis, believing the Conventicle has discovered a deep truth.
+        - The cultists infected by the myceloids - including Cyrgen Kael and Jin Lunai - came to the Wastes to rescue Brinni Stonesoul.
+        - The cultists are close friends of Sameera’s mother, Meerabai - who lives with the First World Conventicle in Cay Turran.
+        - The Conventicle of the First World has no use for the seventh Blade - instead, they seek leverage over Saiviel, believing they could deliver Nerah “back to the beginning”.
+        - In the mess of his sizable collection, Archdruid Quan has lost track of an at-first unassuming rose quartz sphere imbued with a casting of the Imprisonment ritual.
+        - Archdruid Quan’s Imprisonment Orb is etched around its circumference with an incantation, written in Draconic, which must be chanted to activate the spell.
+        - Archdruid Quan is able to control the myceloids by exploiting a link Sentience shares with her children.
+        - Though it thinks and acts on a scale misunderstood by most mortals, Sentience may be convinced to sever the link she shares with her children.
+        - Saiviel’s allies now know something that the Curators do not - Saiviel Second-Of-The-Name is dying, much sooner than was foretold.
+    - Locations
+        - The Drained Ring
+            - Crater surrounds the tower like a twenty foot high ripple in the ground.
+            - Ground within the crater is barren and dry.
+            - Thick veins, mostly buried, extend out from the tower in every direction.
+        - Sentience
+            - Exterior
+                - Large sheets of hardened brilliantly colored shell that shifts in hue.
+                - Fissures cut across the surface reveal a living violet material beneath.
+                - Irregular nodules and veins are evident beneath the outer shell.
+            - Baseroot Tap
+                - Naturally formed stairs like layers of chipped bone lead in.
+                - Hardened walls are smoother than the tower exterior and have a violet sheen.
+                - From out of the middle of the floor slowly - so slow it appears still - rises a bubble filled with a glowing orange liquid or gel.
+            - Gathering Spine
+                - Thick ropes of yellow-orange sinew branch from the wall.
+                - A twisted tangle forms a kind of spine that follows the ascent of the stair.
+                - A platform levels off, out of which extends two similarly colored, organically imperfect obelisks that curve back into the wall.
+            - Voice Tethers
+                - Boney stairs lead up to a wider platform.
+                - Thinner thread like protrusions run from the platform where they join and press thru the ceiling twenty feet above.
+                - A cramped, much narrower stair ascends on the tower’s east wall.
+            - Radiance Stem
+                - Organic vein running from floor to ceiling, encased in an opaque case.
+                - Strobes slowly with a light of changing hue that is bright enough to fill the room.
+                - Thick ropey tentacles have broken through shell-like walls.
+            - Collector’s Hold
+                - Walls covered with blister-like, opaque pods.
+                - Within the pods, a vast array of items of all kinds.
+                - An irregularly shaped aperture style door is shut tight.
+            - Lambent Archive
+                - Room well-lit by strobing veins and sun illuminating opaque ocular bays.
+                - Aperture doors stand open, revealing obviously arranged displays on stands and various man-made daises.
+                - A strange, oscillating, humming moan issues from somewhere above.
+            - Throne of the Archdruid
+                - Bone stairs lead to a high dais afront a seeking eye.
+                - Animate, fungal arms gathered into the shape of a throne.
+                - A disordered set of crystaline shards pierce the floor.
+            - Sentience Seat
+                - Warm and overwhelmingly humid, with a thick smell of subterranean growth hanging on the air.
+                - Massive pod with an umbilical tether latches to a wall of exposed fungal flesh.
+                - A naturally formed chest made of thick calcified carapace.
+    - NPCs
+        - Zaida (CG, She/Her)
+            - Archetype
+                - Allison Reynolds (The Breakfast Club)
+            - Story Connection
+                - Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+            - Description
+                - A small female, clearly fey, and somewhat larger than a gnome.
+                - True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+                - Glassy eyes much larger than normal, without iris or pupil.
+        - Pref Patar (NG, He/Him)
+            - Archetype
+                - Guinon (Star Trek TNG)
+            - Story Connection
+                - A well-traveled ranger policing the broad stretch of land between the Penumbra and the Myceloid Wastes.
+            - Description
+                - A later-middle-aged harengon with warm-hued light-brown fur and wildly long expressive ears that he can stand up or let flop down against his head.
+                - The fur of his muzzle is somewhat logger and graying and frames his perpetual, relaxed smile.
+                - He wears loose fitting trousers, a well worn leather vest that clearly doubles as armor, and thick, rigid bracers on both forearms.
+    - Monsters
+        - 3 Myceloids (Weak)
+        - 4 Poracha
+        - 6 Fungal Vines
+        - 5 Blindheim
+        - 2 Shadows
+        - 1 Oristivius Quan
+    - Magic Items
+        - Consumables
+            - Feather Step Stone (Item 3)
+            - Graveroot (Item 3)
+            - Climbing Bolt (Item 4)
+            - Bloodseeker Beak (Item 4)
+            - Hunting Spider Venom (Item 5)
+            - Tiger Menuki (Item 5)
+        - Permanent
+            - Longbow - Potency (Rune 2)
+            - Guisarne - Striking (Rune 4)
+            - Holy Prayer Beads (Item 5)
+            - Scale Mail - Shadow (Rune 5)
+    - Treasure
+        - Currency
+            - 8 pp
+            - 86 gp
+            - 235 sp
+            - 112 c
+        - Equipment
+- **Resources**

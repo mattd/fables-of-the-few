@@ -1,0 +1,38 @@
+- Campaign Hook
+	- Uncover the lost secrets of the Age of Many.
+- Seven Truths of the World
+	- Sixty thousand years have passed since an unimaginable arcane force decimated Nerah - a near-extinction level event that left few survivors.
+	- After a Long Sleep that lasted for millennia, the few that survived woke and introduced their children to a transformed land, littered with indecipherable remnants of the prior age.
+	- Nerah is nearing the end of the 8th generation since the Awakening, and the Midsommar Lands are, consequently, still sparsely populated; dense cities are separated by wide expanses of unsettled land crossed only by the very bravest of souls.
+	- For as long as anyone can remember, Midsommar has been a land of shifting but perpetual daylight; “nights” of soft dusk flow into brilliant dawns and even longer "days" that seem to never end.
+	- Few have ever attempted to journey to the Night’s Quarter, the side of Nerah turned forever from the sun, cloaked in unending darkness.
+	- Even in the light, unspeakable terrors abound - some hunting freely in the open of the wilds, others waiting patiently to emerge from deep burrows.
+	- And now a rumor spreads: aged seers have suddenly appeared - and speak in long dead tongues of a “turning” that can no longer be undone.
+- Campaign Fronts
+	- Front One
+		- The Front
+			- Lo’Thos The Corrector
+		- The Goal
+			- Preserve the horrors of the Night Quarter by gaining access to, and destroying, the Dawn Chronicle - the collected knowledge of the Hope of Ioun.
+		- The Three Grim Portents
+			- Lo’Thos identifies and murders the Circle of Six, then flies into a rage when he discovers none of them hold the Hope Cipher - a key to locate and understand the Hope of Ioun's research.
+			- Convinced she is somehow connected to the Cipher, Lo’Thos directs all of his energy towards finding Zaida.
+			- Desperate and believing the gods' return to be imminent, Lo’Thos captures Zaida and takes her to the Altar of Undoing.
+	- Front Two
+		- The Front
+			- Saiviel Worldkeeper
+		- The Goal
+			- Cultivate the evil that grew during the Age of Many and mold it into a new plane of existence - one of shadow and black darkness.
+		- The Three Grim Portents
+			- Saiviel Second-Of-The-Name locates the Adjuration Flare and attempts to dismantle it - but draws the attention of a nearby order of Rangers in the process.
+			- Following a ritual that's too ostentatious to completely hide, an aging Saiviel welcomes First-Of-The-Name back to Nerah.
+			- A newly-awoken Saiviel embarks on a search for - and then finds - the Necronomicon, a relic of great importance to dark mages from the Age of Many.
+	- Front Three
+		- The Front
+			- The Hope of Ioun
+		- The Goal
+			- Preserve and protect the Dawn Chronicle until the gods return, absorb its knowledge, and set right Avandra’s grave mistake.
+		- The Three Grim Portents
+			- The Hope’s High Curator, assumed dead by all that knew him, emerges from hiding in search of the Hope Cipher.
+			- Working on behalf of the High Curator, two monks embark on a quest to activate the Adjuration Flare.
+			- Those that have eluded the grasp of Lo’Thos The Corrector convene at the Twilight Conventicle to consider desperate measures, leading to a schism in the ranks that remain.

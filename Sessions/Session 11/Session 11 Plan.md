@@ -1,0 +1,132 @@
+- Global State
+	- Experience Tracking
+		- Last Leveled Before: Session 6
+		- Experience Gained:
+			- Troglodytes (x2): 50 x 2 = 100
+			- Ghast: 450
+			- Kobolds (x2): 25 x 2 = 50
+			- Living Lightning Bolt: 1,800
+			- Ice Golem: 1,800
+			- Ice Mephits (x5): 100 x 5 = 500
+			- Immortal Mystic: 2,900
+	- World Information
+		- Date: Bohn, Cruvas 4th, 218 PA
+			- Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+			- Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+		- Time of Day at Session Start: 4:06 pm
+		- Solar Origin: Southern
+- Kickoff
+	- Operations
+		- This will be our last session of Fables of the Few as a D&D campaign!
+			- Tucker and Christine have a good start on Pathfinder versions of Huldar and Mayvra.
+			- This Thursday for a Karna and Sameera porting session?
+		- When’s Tucker back in town?
+			- Can we target Thursday 3/30 for the first Pathfinder session?
+	- Recap
+		- With Zaida’s hand still pressed against a smooth, galaxy-mapped dome in the Moonkeeper’s Ward of Evangelion, a series of clicks, clacks, and hums announces that she - along with Huldar, Mayvra, Sameera, and Karna - are now locked inside the semi-terrestrial home of the Hope of Ioun. As Huldar put it: “Well, we’re going to space guys.” The group tested both exit portals, and Huldar - with his eyes flashing bronze - eventually summoned Mia to find the sanctuary above changed, a small opening to the outside world having formed near the floor. There were many options discussed: negotiating, hiding Zaida, proferring and then detonating the nuke you obtained from the Scions of Lo’Thos. Huldar even briefly attempted to craft the Blackstone from the Farhaven Ruins into a form suitable for calling Lo’Thos to the scene, but without success. Even the most direct option - fighting the Curators - seemed fraught and weighed heavy on Zaida’s mind. “Huldar, she would kill you.”
+		- In the end, the five decided to run when the opportunity arose. But first: sleep. Mayvra took first watch - meditating, slowing her breath. Those who peeked through half-closed lids _may_ have deemed her peaceful and resolved. Karna woke just as Mayvra was about to rouse the soldier for his watch - but once Mayvra was resting herself, Karna went rigid, his eyes glazed over. He was back in Farhaven, Oglazath speaking to him, furious that Karna had offered to find the seventh Blade of the Silver Sun for another party. Just as Karna tried to choke out the words, “We’re on our way,” he was wracked with pain, tendrils of necrotic rot crawling across his face. Karna snapped-to, and dutifully finished his watch. In the early morning pre-dawn, it was Sameera’s turn, and her thoughts drifted to Yuska - how could a woman she thought she understood be wrapped up in such a morally questionable mess?
+		- And almost as if on cue, the floor shuddered, and Evangelion lurched upwards. Portals opened and Yuska rushed in. “They’re leaving - with all of you,” she said. And then: “For the sake of Nerah - don’t hurt them.” The five followed Yuska to a sanctuary once again reformed, this time sporting a 10 foot wide egress to the outside world - and through it they could see Evangelion was now airborne. Frantically, the group pooled their rope stores and tied off to some strange, quickly evolving control panel. The ceiling opened, and Curator Veo Doorna descended through it a blade of pure, radiant energy forming in her hand. “You are of no consequence to us - but Zaida _stays_.” Karna straight up _leapt_ from the vessel, barely able to slow his fall through use of the rope, and Huldar followed only moments later. With all five on the ground, Zaida pressing herself deeply into Mayvra’s sweater, the Curator touched down - and charged.
+		- And she hit _hard_. Her radiant blade sunk deep through Huldar’s stomach, the Periapt of Wound Closure once again saving his proverbial hide only moments later. The standing four, however, struck harder. Karna hooked Doorna close, preventing her escape, and she was pummeled mercilessly - heavy, shimmering smoke pouring from where Sameera’s arrow stuck in her abdomen. Above, Evangelion banked left hard, and swerved towards the ground. As it crashed spectacularly - its center protected by a shell that almost immediately arced outward and reformed - Mayvra summoned Kord’s thunderous roar, unleashing it on the Curator and reducing her to a thick vapor on the wind. Kord’s voice rumbled deeply, “Yesssss.”
+		- In the brilliant light of dawn, Mayvra surveyed the landscape and chose to guide the team to an oddly verdant landscape abutting the base of the Penumbra. The five, with Huldar’s massive form carried awkwardly by Sameera and Karna, narrowly escaped the pursuit of Yuska and the High Curator. It was Karna that eventually found, among a great many fissures and caves, a large gash at the mountains base - lovely and long-footed boots set carefully near the entrance to a carefully chiseled-out burrow. Mayvra had just expressed caution - any other cave _must_ be safer - when an aged harengon ranger popped from the shadows and restrained Sameera, knife to her neck. “Well, you don’t _look_ like them,” he said. When Karna inquired about what he meant, the harengon described creatures - dozens of them - that have been wandering this typically quiet area for weeks.
+		- Pref Patar turned out to be a gentle soul, and he lead everyone into his home, lit in part by the glow of a massive single-piece crystal wall. Pref healed Huldar and fed the whole group a delightful meal on a low table set on a too-well-kept rug. Pref played ball when Zaida gave him consensual foot-tap-inducing scritches, and the group took a well deserved breath, as he shared the shape of his life and the news that he had heard. For one, local miners claim that Lo’Thos may have caused trouble in Prine. But more generally, Pref tells you he is one member of a much larger coven of Rangers patrolling the Midsommar Lands. His charge is the sprawl between the Penumbra and a place he calls the Myconid Wastes. Right now, his biggest headache is an Archdruid and obsessive collector of the arcane, Oristivius Quan. He claims to have conquered the Myconids - and Pref explains it’s sometimes part of his job to act when things come unbalanced. Curious about that collector bit, the group tells Pref about the Blade of the Silver Sun and wonders whether Oristivius might know something about it - or, perhaps, even hold it.
+		- Given some context on its power - essentially, that it phones home to the gods - Pref has to admit … _maybe_. Maybe Quan came across such a thing. And in any case, Pref was about to head that direction anyway. He offers to head off with you towards the Myconid Wastes - maybe even this afternoon. And so a plan was made. Pref tousles Zaida’s hair, saying, “Yeah. This is good. The five of you are alright. We’re all gonna be alright.”
+- Session Material
+	- Character Review
+		- Huldar
+		- Karna
+		- Mayvra
+		- Sameera
+	- Session Start
+		- Pref Patar, Harengon Ranger of the realm between the Penumbra in the east and the Myconid Wastes in the west, nimbly bounds from rock to rock across a wide and shallow river bed, long dry. 
+		- Over the course of the last several hours, the six of you have covered a lot of ground. Pref has guided you swiftly from his burrow to a small, sturdy dock - one that he _clearly_ built with his own hands - on the banks of the Northern Amble. You caught the swift current, and made landfall several miles south on the river’s west bank hardly forty minutes later.
+		- And ever since then, you’ve walked swiftly, following the narrow trails of roaming beasts through tall, brilliantly blue-green grass. These planes - Pref tells you - trace a long arc north of the Mended Citadel, about a half day’s journey to the west.
+		- It’s late afternoon now, and dispersed among the tall grass, hovering lazily, are large fat insects with faintly glowing hind sections that pulse slowly. On. And off. On. And off. The air smells earthy and thick.
+		- Now you’ve crossed that dried river bed, and Pref is probably 30 feet ahead of you, and Zaida jogs along quietly behind him, trying to keep up. You can see his right ear is cocked in her direction as he pads forward, clocking Zaida’s position.
+		- Sameera: suddenly, you feel a pulse. It feels almost like the throbbing of a bad headache. It’s intense enough to make you involuntarily closer your eyes. When they open again, the pain is gone.
+		- But then a moment later, there’s another throb. It only lasts a couple seconds. But then there’s another. This is rhythmic. A _slow_ rhythm. And it’s coming from a _direction_.
+		- What do you do?
+	- Scenes
+		- Having made their way across the Northern Amble, the five follow Pref across the open plains east of the Myconid Wastes.
+		- Against Pref’s better judgment, the five respond to a mysterious summons from a Nightstone Monolith north of the trail that leads to the Wastes.
+		- With the sun hanging low in the north, the group makes camp with Pref - learning of his people and their oath, as well as the Myconid Wastes and Archdruid Quan.
+		- East of the Sandstone Barrens, the group encounters folk of the Mended Citadel - and either chooses to engage or keeps a wide berth.
+		- The group passes south of the Sombrewood - and notices a thinning of the veil.
+		- Pref seems to sense an imminent danger and disappears - only moments before the group is attacked.
+		- Following the battle, Pref reunites with the group, a pair of new “friends” in tow.
+	- Secrets & Clues
+		- The Nightstone Monolith west of the Northern Amble is a direct link to the minds of many belonging to the True Dark - including both Lo’Thos and Saiviel.
+		- The extraplanar origins of the Nightstone Monolith make extraplanar beings particularly susceptible and receptive to its energy.
+		- Pref belongs to a small oath-driven order of Rangers known as the Dawn Walkers - none of whom are capable of communicating about their work.
+		- The Dawn Walkers are descended, down a long line, from the only sentient beings to have remained awake during the Silent Slumber.
+		- The Sombrewood is home to one of Nerah’s few naturally occurring extraplanar gates - this one leading to the Beastlands.
+		- Archdruid Oristivius Quan crossed over from the Beastlands to the Material Plane from a thinning of the veil in the Sombrewood.
+		- Packs of Owlbears hunting on Pref’s domain have been corrupted by the True Dark, rendering their eyes a deep black and turning their blood a to an ichorous ooze.
+		- Though they usually act alone or in pairs, Owlbears corrupted by the True Dark use advanced tactics, show unusual intelligence, and act in larger packs.
+		- The inhabitants of the Mended Citadel have promised their allegiance to Saiviel in exchange for protection from the growing number of beings corrupted by the True Dark.
+		- Saiviel’s denizens now know something that the Curators do not - Saiviel Second-Of-The-Name is dying, much sooner than was foretold.
+	- Locations
+		- Nightstone Monolith
+			- A monolith of jet-black, jagged stone that rises nearly 30 feet into the air.
+			- Thin fissures spider outwards from which emits a strange, other-worldly hiss.
+			- A chemical smell - like brimstone and bitter herbs - chokes the air.
+		- The Mended Citadel
+			- A massively wide tower of ancient stone rises resolutely from the base of low and barren mountains.
+			- Large veins of polished brass trace circuitous paths across the entire surface of the tower.
+			- The din of what sounds like a town of unseen hundreds echoes from the tower’s many windows. 
+		- Edge of the Sombrewood
+			- A thick, dark wood comprised mostly of wide-trunked, white-barked trees with leaves of violet.
+			- Forest floor is carpeted with a heavy blanket of material that looks like ash.
+			- Barely thirty feet beyond the forest’s border, a veil of darkness obscures whatever lies beyond.
+		- Sandstone Barrens
+			- The rocky ground trembles at intervals, like some thing - or things - with many legs skitters beneath.
+			- Great, crooked towers of a brittle-looking sandstone pocked by countless crevasses and caves.
+			- Each tower is comprised of layer upon layer of strata, each layer a slightly different color.
+		- Owlbear Dispersal
+			- A smell of iron drifts in on the early spring breeze.
+			- A well-worn narrow path tracks close to a stony rise opposite a dense copse of trees.
+			- The blue-green grass appears to be worn down by foot or paw traffic above the rise and into the copse of trees.
+	- NPCs
+		- Zaida (CG, She/Her)
+			- Archetype
+				- Allison Reynolds (The Breakfast Club)
+			- Story Connection
+				- Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+			- Description
+				- Glassy eyes much larger than normal, without iris or pupil.
+				- A small female, clearly fey, and somewhat larger than a gnome.
+				- True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+		- Pref Patar (NG, He/Him)
+			- Archetype
+				- Guinon (Star Trek TNG)
+			- Story Connection
+				- A well-traveled ranger policing the broad stretch of land between the Penumbra and the Myconid Wastes.
+			- Description
+				- A later-middle-aged harengon with warm-hued light-brown fur and wildly long expressive ears that he can stand up or let flop  down against his head.
+				- The fur of his muzzle is somewhat logger and graying and frames his perpetual, relaxed smile.
+				- He wears loose fitting trousers, a well worn leather vest that clearly doubles as armor, and thick, rigid bracers on both forearms.
+	- Monsters
+		- 6 Owlbear
+		- 2 Myconid Sovereigns
+	- Magic Items
+		- Gloves of Hill Giant Strength
+		- Potion of Greater Healing
+		- Pearl of Power
+		- Potion of Fire Breath
+- Resources
+	- Lo’Thos’ Activities
+	- Saiviel’s Activities
+	- Distance Travel
+		- Pace Rules
+			- After 8 hours, each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion
+			- Speed per minute is a number of feet equal to 10 times character speed
+			- Speed per hour is a number of miles equal to character speed divided by 10
+			- 8 hours of travel is permitted per day
+			- Assume average party speed of 30 ft.
+		- Pace Buffs/Penalties
+			- Fast: -5 penalty to passive perception scores
+			- Normal: None
+			- Slow: Able to use stealth
+		- Calculated Daily Pace
+			- Fast: 30 miles/day
+			- Slow: 18 miles/day
+			- Normal: 24 miles/day

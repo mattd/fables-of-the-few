@@ -1,0 +1,130 @@
+- **Global State**
+    - Experience Tracking
+        - Last Leveled Before: Session 18
+        - Experience Gained
+            - None yet!
+    - World Information
+        - Date: Sirt, Cruvas 20th, 218 PA
+            - Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+            - Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+        - Time of Day at Session Start: 10:14 pm
+        - Solar Origin: Southern
+        - Kord’s Arrival: Syhr, Cruvas 28th, 218 PA
+- **Kickoff**
+    - Operations
+    - Recap
+        - Working from a dimly lit and makeshift workshop in a room beneath the base of the Weaver’s Wend, Huldar crafted a series of arcane tools for himself and his friends. An intricate rune carved through the use of careful magic on a mace he had long carried. For Sentience/Mayvra, a set of bronze bull pendants, granting strength - a reminder of who they once were … or still are? Huldar was excited to see what this new friend could become. But other work - more delicate, worked not in metal but in stone - proved more difficult. As Huldar’s fingers slipped while working a small chunk of jade, a sound of a brief scuffle caught his ear.
+        - Its source? Brinni waking - and immediately confronting Sameera about the nature of her stay here. Was she a prisoner? Sameera assured Brinni that she was free to leave whenever she liked. But what was this about Meerabai, Sameera’s mother? Brinni confrimed: she knew _precisely_ where Meerabai stayed - in Cay Abrill, with the Conventicle of the First World, the group that Brinni leads. Somewhat defiantly, Brinni begged off to wander the Wend and find her personal effects. As Huldar climbed the stairs, his tall, imposing form coming into view from an adjacent room, he called loudly to Karna and Sentience/Mayvra, all while Sameera was left with thoughts of a parent she’d barely known.
+        - The four caught up quickly. Brinni was not combative, but _boy_ had she dropped a bomb. She returned fully decked out, rings covering her hands, and curious about what the group had done with the Archdruid Quan’s spectacular horde. Brinni’s words practically _dripped_ with condescension, and she lowered herself gracefully to floor, unrolling a matte of too-nice camp food. Every bite felt like a flex. And it only took minutes for her goals to become obvious. Whatever it was that the Archdruid had taken from the Conventicle, Brinni wanted it back - and badly. She used every lever that seemed available to her in the moment - Sameera’s desire to know more of her mother, Karna’s penchant for negotiation and his thirst for revenge, Huldar’s deep well of support for his friends. One opportunity she most definitely missed - Sentience/Mayvra’s straightforward honesty.
+        - The other three, though - they were drawn in. Whether they realized it in the moment or not, they gave Brinni much of what she wanted. Confirmation that they had held this seventh Blade of the Silver Sun recently, that Oglazath - a demon - was involved. That they were bound by curse to - _if_ and when they found it - bring the relic to Saiviel directly. When Brinni left for some time to forage for a dinner she would cook with Karna, the group shared their unease. Huldar encouraged Sameera - “I would see my parents if I could.” Karna warned of the danger that loomed - “The last time one of these blades was involved, a lot of people died.”
+        - In their end, the group’s talk with Brinni was a slow motion negotiation. Over the dinner preparation they shared, Brinni offered important details. Quan didn’t just take the Blade. He took Brinni herself, believing that she and the Conventicle had discovered some deep truth that the Blades could unlock. But as it turned out, Quan was mistaken. The Conventicle wanted leverage over Saiviel. They had come to understand that Saiviel was - far and away - the most powerful being on Nerah. They know he wants the Blade and intend to use it as leverage - a bargaining chip to convince Saiviel to send everyone still alive on Nerah to the place where everything began - the seat of creation, a different plane, the First World.
+        - But the four heroes didn’t exactly reciprocate - opting instead to conceal their true aims. And Brinni began to lose patience. Huldar in particular was stumbling over his words, searching for an explanation that made sense. As Brinni registered her disappointment, apparently preparing to leave, the group checked in with each other … and a consensus began to gel. For better or worse, they are _of this world_. As Sentience/Mayvra put it, “I just got here.” “But you’ve _been_ here,” Huldar retorted. “That was different,” they replied.
+        - Karna made a last go at it. They all did, maybe not trying to convince Brinni to come with them, but offering up a sliver of an aspect of the truth - that they were headed to the Arrid Callum, the Adjuration Flare. With the sun setting behind her, silhouetting her elven form, Brinni quipped back with some kind of veiled threat … again, dripping with condescension - the Conventicle are skilled, formidable. They have a plan, some bit of knowledge Brinni believes only they possess. Yet that hardly matters now, as she turns and walks resolutely away.
+        - And from within, a frightened voice of an alabaster skinned fey, just awoken. A pleading call. “MAYVRA!”
+- **Session Material**
+    - Character Review
+        - Huldar
+        - Karna
+        - Mayvra
+        - Sameera
+    - Session Start
+    - Scenes
+        - Zaida awakens at the sun’s turn - changed and calling for Mayvra.
+        - Zaida contextualizes what Sentience/Mayvra saw in her dreams - drawing a line from the Graft of Briccriu and the Storm Lord’s imminent return.
+        - On the road to their next destination, the party confronts the harried and frightened people of Vur Gamir, a city now in ruins.
+        - The terror that destroyed Vur Gamir finds the group - and attacks with great ferocity.
+        - The group may grapple with the impact of Oglazath’s curse, manifesting itself as a throbbing, necrotic blackness in the largest of veins (and - mechanically - the enfeebled condition).
+        - While on the road, the group becomes aware of a broken Nightstone Monolith, not unlike the one they encountered east of the Myceloid Wastes.
+    - Secrets & Clues
+        - Saiviel’s allies now know something that the Curators do not - Saiviel Second-Of-The-Name is dying, much sooner than was foretold.
+        - Saiviel has summoned a nameless city of the First World - but the enormity of the arcane force involved lead to miscalculations, leaving it half submerged in the dusty red soil of the Arrid Callum.
+        - The Adjuration Flare is more than just a beacon to be activated by the Blades, sending a call to the divine; it is, in its dormancy, a waypoint, the only relic visible from both this realm and the outer planes.
+        - Saiviel - ever-patient - grows restless, understanding that time is short and only days remain to prevent Kord’s return.
+        - The Adjuration Flare can only be broken once - and though Saiviel does not need the Seventh to break the beacon, deactivating the waypoint requires every blade.
+        - The Guecubu that terrorize the Vur Gamir encampment are the resurrected remnants of the Mortal Fade - followers of Lamashtu and scientists from the Age of Many, aiming to hasten evolution on Nerah in search of life’s perfect form.
+        - The people of Vur Gamir rely on the energy of the Heartbraid Wellspring to keep their progeny alive - all following an accident that left the community genetically compromised generations ago.
+    - Locations
+        - Weaver’s Wend
+            - Exterior
+                - Tucked into a massively wide and tall crease in a small-mountain sized stone protrusion that juts violently from the earth.
+                - A building, clearly person- or magic-made, but flowing and organic in appearance, somewhat like a wide- and stout-leafed agave.
+                - The “white fading to rose pink” exterior walls are delicately crafted with undulating, vertical ridges - porous, but that somehow reveals nothing of the other side.
+            - Interior
+                - Rooms are defined more by their furnishings than by their shape or size.
+                - Most spaces are flared at the bottom and ascend to a height of 60 or 70 feet, snaking gently upwards.
+                - Each cream and rose-pink space is well lit by exterior light that filters through porous walls - and which, from this side, can be seen straight thru.
+        - Vur Gamir Camp
+            - An encampment that at first glance suggests maybe 30 or 40 individuals make use of the amenities.
+            - Lean-to shelters appear anything but makeshift - there is crafting and architecture - an artifice inherent in each semi-permanent installation, several of which are set for and meant to accommodate whole families.
+            - A massive, mechanical arcane core has been reassembled here - similar in complexity, if not design, to the orrery the group investigated north of the Farhaven Ruins; it sits central to the shelters.
+        - The Mended Citadel
+            - A massively wide tower of ancient stone rises resolutely from the base of low and barren mountains.
+            - Large veins of polished brass trace circuitous paths across the entire surface of the tower.
+            - The din of what sounds like a town of unseen hundreds echoes from the tower’s many windows.
+        - Myceloid Ruins
+            - The air is heavy with a dust that catches the sun like dull glitter.
+            - Towers have fallen in many different orientations - some straight down, turning in on themselves, others crumbled like jagged bricks blown apart.
+            - Roving groups of myceloids of all colors shapes and sizes tend to piles of wreckage that … well, sighs - an indescribable sound of relief.
+        - Shattered Monolith
+            - An other-worldly hiss, broken by intermittent static, can be heard from a distance of a half mile.
+            - Waves of inner-ear turning distortion surge outwards in a slow, steady pulse.
+            - The ground is strewn with shattered jet black glass, and the parched soil ripped open like a deep-reaching tree that’s been rootballed in the recent past.
+        - Terraced Camp
+            - Slick-looking, wide grasses cover plains interrupted by natural, stone walled terraces erupting from the ground.
+            - On quick inspection, the stone walls are clearly natural, as if pulled up by some strange persuasive or magnetic force.
+            - Tall grass is in some places matted down in wide, rough circles.
+    - NPCs
+        - Zaida (CG, She/Her)
+            - Archetype
+                - Allison Reynolds (The Breakfast Club)
+            - Story Connection
+                - Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+            - Description
+                - A small female, clearly fey, and somewhat larger than a gnome.
+                - True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+                - Glassy eyes much larger than normal, without iris or pupil.
+        - Ergun Mistwing (LG, He/Him)
+            - Archetype
+                - Lirin Stormblessed (Stormlight Archive)
+            - Story Connection
+                - Last surviving council member of Vur Gamir; father to Araphine and brother of Dinadec.
+            - Description
+                - An upper-middle aged human man with dark pepper-strewn hair.
+                - A rough, weathered look - tanned skin and a beard that’s more like a week’s worth of five o’clock shadows than a proper, cared-for beard.
+                - Small circular glasses that sit low on the nose and an outfit that suggests a successful but reserved rural merchant.
+        - Araphine Mistwing (CG, She/Her)
+            - Archetype
+                - Newt (Aliens)
+            - Story Connection
+                - One of several Tethered Children of Vur Gamir; daughter of Ergun.
+            - Description
+                - A young child with shoulder length chestnut hair, fair skin, and freckles across the bridge of her nose.
+                - Comfortable looking clothes include a kind of utilitarian sash and flowy linen pants that billow about as she runs.
+                - On closer examination, her skin tone is wan and carries an empty blue cast; dark circles form quickly beneath her eyes.
+    - Monsters
+        - 1 Fence (Brinni Stonesoul)
+        - 1 Guecubu
+        - 5 Pipefox
+    - Magic Items
+        - Permanent
+            - Mace - Potency (Rune 2)
+            - Bag of Holding (Item 4)
+            - Aeon Stone - Preserving (Item 5)
+            - Wand of Shardstorm (Item 5)
+            - Clandestine Cloak (Item 6)
+            - Spined Shield (Item 6)
+        - Consumables
+            - Shrinking Potion ( Item 4)
+            - Fear Gem Talisman (Item 4)
+            - Emerald Grasshopper Talisman (5)
+            - Frozen Lava (5)
+            - Iron Cube Talisman (6)
+            - Oil of Weightlessness - Greater (Item 6)
+    - Treasure
+        - Currency
+            - 12 pp
+            - 117 gp
+            - 323 sp
+            - 84 cp
+        - Equipment
+- **Resources**

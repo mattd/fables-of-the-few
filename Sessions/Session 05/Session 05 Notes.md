@@ -1,0 +1,42 @@
+- In Session
+	- Mayvra goes after Zaida
+	- Mayvra check weather, hears from Kord, smoke eyes
+	- Sameera training Zaida, target practice. Corrects form. Sameera hit but barely. Zaida misses.
+	- Karna teach Mayvra “You go in and do the whole pokey pokey.” Teaches kata, Mayvra struggles but puts in good effort. Doing my best.
+	- Huldar take gold. Arrange in campsite. Pulls out notebook. Sketching tent design he has.
+	- Jackalope, speak with animals. Touch Point things.
+- Post Session
+	- Evening after Quaggoth fight, Zaida storms off, kicks Quaggoth, see words she said to Mayvra. Karna stowes her weapons.
+	- Huldar finds some metal, coinage, and oddly a potion of healing next to the Quaggoth sitting upright.
+	- Heavy snarled brush. Make camp, Karna looking for a good campsite, takes a long while, the sun is set. Found good secure camp distance from path.
+	- Mayvra check weather, see above.
+	- Sameera talks to Zaida, offers training. Z does martial arts form. “Akio taught me … bad at shooting.” See above.
+	- Mayvra asks Karna for some help with the Yklwa. Talks about his military training, not unlike the spears they used, shows forms. It’s about keeping them at a distance. And then you go in and do the whole pokey pokey. See above.
+	- Huldar sits down and makes gold test, see above.
+	- Mayvra makes bonfire, scoops Zaida up before the blaze gets her.
+	- Huldar sends Mia up. Sees two kobolds making their way towards what is Farhaven. Describe. Kobolds don’t clock the smoke from the fire, take a cave entrance. Sees sentry at the upper entrance.
+	- Go down for rest. Karna first, sees lanky tall Jackalope, eyes warrily. Mayvra not asleep quite asleep, sits up, casts speak with animals. Clacks horns together. In Jackalope clicking speak, Karna puzles. “you’re not like them. That’s good, that’s good. They have pointy things. Pointy things. Watch out for the pointy things.”
+	- Wake up, Huldar minor images a model of the ruins, and they take off in that direction. Karna: are we really still doing this. Sameera asks Zaida, readies bow. “I’m better. I’m ready.”
+	- Sameera and Zaida sneak up to the cave entrance, clock a trip wire across the path and two doors without latch mechanisms, and an arrow slit.
+	- Goes back, gets the gang, tells what she saw.
+	- Go in, notice the strange geologic formation, see notes.
+	- Huldar checks foot lockers.
+	- Sameera stealths up to check two rooms, one has a half dozen nasty bedrolls, and a source of light, a broken statue sitting between them. See notes for appearance.
+	- Other room, corner filled by detritus and debris of all kinds under one part of the debris, a low dais.
+	- Celestial on walls, Sameera can read. Get from notes. She realizes this is a prayer room of some kind.
+	- Huldar starts heading south, can hear voices, but they’re hiding. Rallies everyone.
+	- Karna walks in first, sees the Ghast that growls at him. An awful stench of death fills the room.
+	- Zaida bounds in, first hit - “I did it!” - then gets smacked by a kobold’s sling.
+	- Sameera hides, one shots a kobold.
+	- Karna one shots the other.
+	- Mayvra ray of frost, smacks the Ghast, ice covering its long tongue.
+	- Huldar misses with a sacred flame, Ghast whiffs.
+	- Karna charges in, pins it between Huldar and wall, wails on it, trips it, falls prone, glaive to chest. Dead.
+	- Huldar loots bodies, barely any metal of use. But does find a roll of 5 gold, twined together, on one of the kobolds.
+	- Check the room, see it’s a spent mine - something’s taken from the walls, but no sign of it. Huldar gets a faint hint of necrotic energy.
+	- See gold door, unlike anything else here, clearly been attempts to open.
+	- Mayvra does Guidance, Picks lock, gets advantage from … ? Multiple layers to the lock, level after level, takes minutes then click and it’s like a vacuum seal breaking.
+	- Walk in, radiant light emanates from nearly everything, statues, three broken off. One looks like lightning, Mayvra touches it, pulse of warmth, but not the power that runs through her.
+	- Huldar goes off, gets the statue, mends it to its base, Mending is amplified, mends perfectly, lights up.
+	- Note: Tucker thinks statues are in the dungeon.
+	- Sameera heads out the south door, two trog heads, at opposite sides of the door, each looking the other way. Heads snap towards her. Oops.

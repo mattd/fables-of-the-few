@@ -1,0 +1,49 @@
+- In Session
+	- No notes taken!
+- Post Session
+	- Started with Sameera trying to slam the door, getting shoved back.
+	- Sameera hits in shoulder, misses some of the others.
+	- Booming Blade from Huldar.
+	- Shillelagh misses from Mayvra. She’s hit. (Others are hit too.)
+	- Karna uses the axe that sticks in the second Trog’s shoulder.
+	- Zaida gets both kills with her sword, wipes blood from blade. Disappointed can’t use bow.
+	- Huldar sends Mia into the cavernous room to the west, Karna shuts door, listens, quiet.
+	- Group heads down the stairs, Huldar first.
+	- Huldar sees burnt out rubble, shelves long ruined. 40 foot high ceilings. L shaped room, creates an illusion of a Jackalope that makes realistic sounds.
+	- Ghast sees it and lunges for it, falling prone.
+	- Karna and Huldar flank, Huldar doing smite, lights guy on fire after Karna’s first hit. Thing unhinges jaw, but Huldar is able to bat him away.
+	- Two kobolds show up. Zaida clocks them, draws them out.
+	- Mayvra flies towards the Ghast for twinned spells at the kobolds, one explodes in ice.
+	- Sameera and Zaida both have bad misses, Zaida takes awful hit in the shoulder. Sameera runs up to her, guides her bow, she drops the kobold.
+	- Bad stench, Karna and Huldar both shake it off.
+	- Mayvra is near the Ghast, takes out the Yklwa - he’s *almost* down, barely alive ... and she fumbles it, dropping on floor. He looks confused - and the flames consume him.
+	- Huldar heals Zaida’s arm. Thank you. Excited about bow - “Better.”
+	- Huldar loots, finds 2 daggers, some change.
+	- Karna checks the deep pit - can barely see the bottom.
+	- Huldar sits down against the wall, looks through Mia’s eyes - sees two kobolds, one of them he can see is blindfolded - something is beneath the blindfold. They survey the damage and head up a northern passage.
+	- Sameera checks with the group, decides to take the northern passage. Heads down, nearly slips out.
+	- One shots kobold in brutal fashion, and silently. Head totally exploded with the english.
+	- Notices shimmering black walls, like the inside of a geode.
+	- Sneaks up to a small passage, sees a short creature with large wings, ruddy purple skin. They dig in a nest - or a makeshift throne - hard crystals, soft bedding.
+	- She nocks an arrow - hesitates as she see him vanish a letter he finds in the mess - and he sees her - “I really wish you wouldn’t” - flaps his wings up, chants spell in a strange sibilant language.
+	- Draws hands apart, a sphere grows, but no - it’s a portal, there’s space there - and it envelops Sameera. She’s gone, floating in endless space.
+	- After some minutes, group heads down, Karna first. Huldar falls with a massive clanging mess, thing turns to Karna - see talking point notes - “I know your face, troubled one.”
+	- “Where’s Sameera?”
+	- Karna charges, it’s on.
+	- Oglazath gets first drop on K, massive claw and bite. Hisses “His mind was full of you when I bled him dry.”
+	- “You … and the Blade.”
+	- Zaida runs in, swinging sword, hits its leg.
+	- Mayvra looks like she’s about to try and say something, buries face in hands.
+	- Huldar Guiding Bolt misses.
+	- Meanwhile, Sameera floats in endless space. Tries to move, moves with thought.
+	- He doesn’t want to fight. Talks about taking the blade (see notes.)
+	- Huldar sees this creature wants more than anything to *not* fight - it looks frustrated - and bored.
+	- Mayvra tries to intimidate - “Where is she? Give her back.” And it slows the momentum of the fight.
+	- Karna wants to know *why*. “You’ll have to be more specific, Karna.”
+	- “We got off on the wrong foot.” I didn’t *want* to kill Fynn. Talks about Lo’Thos. Shows the note, then vanishes it again. See notes.
+	- “What blade are we talking about here?” Minor images up the Blade.
+	- Tells them about how there’s only one blade remaining. Saiviel when he has it - he already has found the Adjuration Flare.
+	- Mayvra snarls “Do you think this is it? That it’s just us?” And Oglazath looks troubled - maybe shook - but he tucks it down and then the look of fear is gone.
+	- “What can you do for *me*? What will you do for me if I bring her back?”
+	- “We’ll help you find the last Blade.”
+	- He’s intrigued. “Tell me Karna - do I have your word?”

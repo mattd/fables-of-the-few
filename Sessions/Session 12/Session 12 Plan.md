@@ -1,0 +1,144 @@
+- Global State
+	- Experience Tracking
+		- Last Leveled Before: Session 12
+		- Experience Gained:
+			- None yet!
+	- World Information
+		- Date: Moz, Cruvas 5th, 218 PA
+			- Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+			- Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+		- Time of Day at Session Start: 7:14 pm
+		- Solar Origin: Northern
+- Kickoff
+	- Operations
+		- I totally said I was going to use the D&D name for walking humanoid mushrooms, “Myconid” - but then it got too darn confusing. Say hello to the Myceloids!
+	- Recap
+		- By the light of the blue glow from an opaque wall in Dawn Walker Pref Patar’s burrow, Huldar traced the glyph of a Detect Magic spell in the air. Pref had just healed Karna from the group’s devastating skirmish with Curator Doorna, and now he sidled silently up to Huldar. As Pref explained, many believe the frost worm colossus Taenoth the Uncorrupted formed the Penumbra Range when they violently burrowed beneath Nerah’s surface. Pref was honestly pretty understated about this history, though - there’s a lot of strange stuff that happens in this world. Soon, Mayvra, Sameera, Huldar, Karna, and Zaida were all following Pref through fields of tall, blue-green grass west of the Northern Amble. This is when Sameera’s head began to throb, slow and rhythmic - and it seemed to originate from the north. Immediately, Pref was troubled. “Who are you? Where have you been?” he asked - and then explained that though he’d never cared to risk finding out why, those that have known other planes of existence seem to have a connection to the source of Sameera’s pain.
+		- Choosing to investigate, the six found a Nightstone Monolith, which Sameera recognized was  made of the same material mined from Farhaven. As Sameera carefully circled the bent and jagged monolith, her friends passed out of view, and for the briefest of moments, she could make out a figure within - tall, pale, and wearing robes that gathered into strange shifting spikes. Mayvra, wired as she is to fidget and touch and feel, steps forward and lays her hand on its surface. To the others, this is a momentary thing, but to Mayvra time stops - and her arm sinks in to the elbow, as if submerged in a cool liquid. Maybe don’t touch it, she cautions the others. It wants to pull us in. They may have been about to leave, but Karna stepped forward, and - perhaps out of frustration - swung his glaive at the structure … and it sank through. As time stands still, a hand grabs the glaive and _pulls_ Karna inside. Karna stands face to face with an eight foot tall creature. They have a featureless, roiling face like constantly moving clay. This, Karna correctly guessed, was Saiviel Second-Of-The-Name. Their face calmed, and took on slight, delicate features. “I know you, Karna. You have caused many troubles already. Thank you … for letting me know where you are.” Karna is pushed out, and quickly counsels the group to move. Fast.
+		- At camp that evening, Pref explained his anxiety and troubled mood. The story will be hard to tell, as an enchantment keeps him from divulging certain details, his voice occasionally lost in a static-y hiss. What the group _does_ come to learn is that Pref Patar took oaths long ago as a Dawn Walker - the descendant of a people that remained awake during the Silent Slumber, a period of 60,000 years between the Age of the Many and the Age of the Few - awake when everyone else slept. The Dawn Walkers' oath is to Saiviel, but Pref either knows precious little of this entity - or he’s unable to say. His family - his mother, his great-great grandparents, generation after generation - they all took the oath. They rarely gather now, but they all believe they work for the good of a world worth saving. Exhausted from the emotions this surfaces, Pref sleeps soundly, and the group whispers quietly, Karna questioning whether they can trust someone aligned with Saiviel. “It’s a crappy world when you start to distrust everyone,” Huldar quips. And before everyone beds down, Sameera’s thoughts turn to Yuska. She pulls out the Circle’s Sending Stone, now recharged, and attempts to deceive Yuska about the group’s bearing. “You must feel great hurt, but don’t lie to me, Sameera. Amikye heads for the Nameless City - just south of the northern edge of Midsommar.”  Huldar conjures Mia, and during his watch, approaches - but avoids - a pack of roaming Owlbear in close range of the camp.
+		- The next day, the group passed some distance south of the Sombrewood, a strange and spacious forest crowded with deep shadows. The veil between worlds is thin here, and Pref believes the one you seek - Archdruid Oristivius Quan - may have emerged from a gate hidden within. But it’s later that day that things suddenly go sideways. Pref sniffs the air. “Well, I’ll be.” And then vanishes. Moments later, it becomes clear they’ve been stalked, as three cursed owlbears pad quietly towards the group. The group narrowly avoids a vicious ambush, giving themselves precious seconds to brace for impact. Karna’s whirling dance of violence drops one quickly - and further maneuvers pull the remaining two from their feet. Sameera’s arrows, surgically precise, find purchase - but in between attacks, she is knocked unconscious, her blood covering the ground. Huldar mutters a word of healing - and Sameera is pulled from the brink of death. Zaida is flanked and in real danger - but an unexpected fury fills her eyes. The whole squad comes to her aid in their own way, Mia zipping around one owlbear’s head as distraction. Mayvra pulls a massive, stony diamond from her pocket - holding it aloft, unable to contain the surge of energy now accessible to her. And as a massive thrum of arcane energy echoes across the plane, Huldar runs at the last living owlbear prone on the ground.
+		- With his mace lit by the flame of Moradin, Huldar swung away, finishing this cursed beast, its feathers catching fire. And there was overkill. Terrible overkill, Huldar hunched over the beast, looking unhinged. Right then, Pref crested the top of the embankment. “Huh. You … uh. You look like you all can take care of yourselves,” he said - with the great owlbear corpse quite obviously ablaze. And loping forward from behind him, two massive and brilliantly colored Myceloids - fungal humanoids, dazed and glamored by the ranger’s arcane talents. Pref smiled wanly. “I found us some friends.”
+- Session Material
+	- Character Review
+		- Huldar
+		- Karna
+		- Mayvra
+		- Sameera
+	- Session Start
+		- [Scene Setting]
+			- For us, it has been weeks - but for Karna, Sameera, Huldar, Mayvra, and Zaida, only moments have passed.
+			- It’s early spring. Evening, the sun dropping in the south. There are wind-swept clouds above you that are just starting to take on a hint of richer color from the setting sun.
+			- The corpses of three owlbears, vicious in life but now _quite_ dead, are arrayed about you. One smolders.
+			- You’re on a foot path as it curves to pass by a steep, dusty embankment. At the top of that embankment stands Pref Patar, his long ears up, at attention. On either side of him stand what can only be described as humanoid-shaped mushroom people. They are brilliantly colored of many hues. One is taller than the other - significantly taller than Pref, in fact. The other is approximately dwarvish in height.
+		- [Friends On The Move]
+			- Pref looks down at the five of you and his left cheek draws up in a wincing kind of pain. A trickle of blood flows out of his nose.
+			- “Ahhck,” he says. “Yeah, so like, uh … friends.” He hooks his thumb back at the myceloid on his right. Then he gestures at the dead owlbears and chuckles. “_Not_ friends. Am I right?”
+			- “Listen, so … I don’t _exactly_ have control of these guys - not entirely.” Pref shakes his head a bit - like he’s trying to shake something off. “It’d be better if we could, uhh … Walk and talk maybe.”
+			- “The sun’s moving fast, and I wanna make sure we’e got a good spot to lay low for the evening. We’re still a day’s walk out from the edge of the Myceloid Wastes.”
+			- Pref turns to lead the way - and you’re off. The myceloids walk with a loping kind of amble with long, careful strides. They hum softly as they go - low, almost guttural. The movements of their body sound … thick. Solid but spongy.
+			- Around you sprawls a beautiful, rolling, open plain of tall grass and thin, wispy wildflowers. Pref guides you along a series of single track paths - and then eventually, you crest a small hill and have a better look at two things.
+			- To the north, that sprawling forest of violet foliage you’ve been tracking from a distance. It’s closer to you now. It’s a walk still, but even from this distance, it looks shrouded in something inky and thick. This isn’t just a darkness you see - but a darkness that almost has substance.
+			- To the west, much farther away, you see something even more distinctly alien. Towers, many hundreds of feet tall, organic in nature. Brilliantly colored and glinting in the evening sun. Fungal. The cloistered empire of a strange species. The Myceloid Wastes.
+		- [Risky Gambit]
+			- Pref is still walking, but he falls back a bit and gestures towards the towers in the west.
+			- “That … that’s where our friends are from. Normally, I wouldn’t be too concerned about being in the open like this, but the Archdruid … this Quan fellow … he’s got a quite a vantage from that point. And given that you may have an interest in something he holds - and I’ve got an interest in … well, figuring out how to make him _gone_ … I’d rather we maintain some element of surprise - if at all possible.”
+			- At this point, Pref stops. He turns towards the forest in the north.
+			- “In almost any other circumstance, I’d caution folks traveling my domain to avoid the Sombrewood. But we need cover for the evening if we’re gonna maintain that element of surprise.”
+			- “This thing I’m doing here with these guys - it isn’t exact. It’s not a science. But I’m not so much controlling these two chuckleheads as I am keeping Quan _out_ of their minds. Quan has done a _number_ on the Myceloids. He has them entirely under his control. It’s … troubling. And that’s putting it very mildly.”
+			- “In any case, it’s … taxing, keeping Quan out. I need rest. I should be able to get _some_ sleep without losing this glamour I have over them.”
+			- “But again, we’ll need cover. And the edge of the Sombrewood should be _reasonably_ safe.” He pauses. “As long as we don’t venture too much beyond the edge.”
+			- “I leave it to you, though. You’re about to have just as much skin in this game as I do. You want that Blade. Quan _might_ have it. If you want to take anything from him … and if I want to help the Myceloids rid themselves of this despot … we’re gonna need to play this smart.”
+			- “So what do you think? Stay in the open air for the evening - and avoid the kinds of risks that the Sombrewood can pose?”
+			- “Or do we opt for better cover in the thick darkness - and a better chance at catching Quan completely unawares?”
+	- Scenes
+		- Following their fight with a pack of owlbears, the group reunites with Pref - and the two glamoured myceloids he has in tow.
+		- Pref encourages the group to make a risky move and camp in the relative cover of trees at the Sombrewood’s southern edge.
+		- During a night’s rest, the group is spied upon by Gehrep Flintfoot - a scout for the coven of Barghests that hopes to return Oristivius Quan to his prison on the Shadow Plane.
+		- While wading through the verdant swamps of the eastern Wastes, the group is ambushed by a cluster of myceloids.
+		- Pref and the group press farther into the Wastes and are alarmed to find an army of Myceloids, suddenly turned, and converging on the largest of the Waste’s towers.
+	- Secrets & Clues
+		- The Archdruid Oristivius Quan does, in fact, hold the seventh Blade of the Silver Sun.
+		- Archdruid Quan controls the Myceloids of the Waste entirely by using their own spore-based telepathy against them.
+		- Pref Patar’s ability to clear the minds of the Myceloids is “on the clock” - and limited to only two targets at a time.
+		- Archdruid Quan obtained the seventh Blade from a woman named Brinni Stonesoul - who, in turn, had purchased it for a large sum from Fynn and Karna’s employer.
+		- Brinni Stonesoul is a member of the Conventicle of the First World - a cult based out of Cay Turran, three days northwest of the Myceloid Wastes.
+		- Archdruid Quan didn’t just take the blade of the Silver Sun - he took Brinni herself and currently holds her in Myceloid stasis, pending further questioning.
+		- The Conventicle of the First World has no use for the seventh Blade - instead, they seek leverage over Saiviel, believing they could deliver Nerah “back to the beginning”.
+		- A coven of Barghests known as the Gate Watchers are prowling the southern edge of the Sombrewood.
+		- The Gate Watchers seek to return the Archdruid Quan to his prison on the Shadow Plane.
+		- Saiviel’s allies now know something that the Curators do not - Saiviel Second-Of-The-Name is dying, much sooner than was foretold.
+	- Locations
+		- Sandstone Barrens
+			- Great, crooked towers of a brittle-looking sandstone pocked by countless crevasses and caves.
+			- Each tower is comprised of layer upon layer of strata, each layer a slightly different color.
+			- The rocky ground trembles at intervals, like some thing - or things - with many legs skitters beneath.
+		- Sombrewood’s Edge
+			- Forest devoid of choking underbrush but crowded by thick, closely set trees.
+			- A dark haze of unseeing hangs in the air, obscuring vision beyond short distance.
+			- The floor tilts towards the forest center - as if the wood grew perfectly in some wide crater.
+		- The Eastern Wastes
+			- Marshy waters that grip the soles of boots soon turn boggy - and oddly sweet smelling.
+			- Sun glints off deeper waters, reflecting a surprising myriad of colors.
+			- Massive rooted trees slow progress - and sprout a rainbow of brilliantly colored fungi.
+		- Myceloid Towers
+			- Organic towers covered in a thick chitinous shell and rising hundreds of feet into the sky.
+			- Surface pocked with massive opaque orbs that pulse with a light of shifting hues.
+			- Towers sometimes readjust in place - searching or reaching for something just out of range.
+	- NPCs
+		- Zaida (CG, She/Her)
+			- Archetype
+				- Allison Reynolds (The Breakfast Club)
+			- Story Connection
+				- Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+			- Description
+				- A small female, clearly fey, and somewhat larger than a gnome.
+				- True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+				- Glassy eyes much larger than normal, without iris or pupil.
+		- Pref Patar (NG, He/Him)
+			- Archetype
+				- Guinon (Star Trek TNG)
+			- Story Connection
+				- A well-traveled ranger policing the broad stretch of land between the Penumbra and the Myceloid Wastes.
+			- Description
+				- A later-middle-aged harengon with warm-hued light-brown fur and wildly long expressive ears that he can stand up or let flop  down against his head.
+				- The fur of his muzzle is somewhat logger and graying and frames his perpetual, relaxed smile.
+				- He wears loose fitting trousers, a well worn leather vest that clearly doubles as armor, and thick, rigid bracers on both forearms.
+		- Gehrp (CE, She/Her)
+			- Archetype
+				- Smelly (Bone)
+			- Story Connection
+				- Scout for the Gate Watchers, a coven of Barghests that keep guard of extraplanar gates hidden deep within the Sombrewood.
+			- Description
+				- A quite-small goblin with blue-green skin.
+				- A row of ear rings - more than a dozen in all - weigh down their left ear.
+				- Wears three cloaks, layered one on top the other, each layer darker than the last.
+	- Monsters
+		- 15 Barghests
+		- 2 Greater Barghests
+		- 5 Myceloids (Weak Myceloids)
+		- 1 Myceloid Sovereign (Elite Myceloid)
+	- Magic Items
+		- Consumables
+			- Feather Step Stone (Item 3)
+			- Graveroot (Item 3)
+			- Climbing Bolt (Item 4)
+			- Bloodseeker Beak (Item 4)
+			- Hunting Spider Venom (Item 5)
+			- Tiger Menuki (Item 5)
+		- Permanent
+			- Longbow - Potency (Rune 2)
+			- Guisarne - Striking (Rune 4)
+			- Holy Prayer Beads (Item 5)
+			- Scale Mail - Shadow (Rune 5)
+	- Treasure
+		- Currency
+			- Platinum
+				- 8
+			- Gold
+				- 86
+			- Silver
+				- 235
+			- Copper
+				- 112
+		- Equipment
+- Resources

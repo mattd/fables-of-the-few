@@ -1,0 +1,32 @@
+- In Session
+	- No notes taken!
+- Post Session
+	- Started with Miali Glim cooking root vegetables, Mayvra returning having failed to find what she was sent for.
+		- Wearing a large sweater that Miali cut and then tethered together on the sides with leather lacing.
+	- Mayvra deeply apologetic - and “do I need to kill anybody?” Miali reassured her that she’s fine. Gets her some liquid bread.
+	- Karna refused an apron, is sous chef’ing root vegetables. He’s doing a good job by Miali’s standards.
+	- Huldar comes down rubbing his eyes and Miali tosses him a cooled chunk of the tubers. Miali, seeming to sense *something*, asks if he’s doing okay. Yep. He grabs a glass of the liquid bread, and sips it.
+	- While cooking, Miali mentions the lack of Gray Guard in town. Huldar mentions that he saw one *leaving* at the docks the night before as he was returning to town.
+	- Huldar sends Mia up into the air - she spots no Gray Guard anywhere - but otherwise, nothing seems particularly amiss - the town is going about its business.
+	- Karna does a check out into the streets and likewise clocks nothing strange. An older man, stooped slightly, waves at him with reserve. Karna doesn’t respond.
+	- While eating, Miali shares how nice it’s been to have residents. They all settle down into their plates.
+	- Huldar and Mayvra chat, with Huldar introducing Mayvra to Mia - and Mayvra is enamored. For Huldar, though - she’s distrustful and uncertain of the nature or direction of their relationship. “I’m not okay!” Mayvra takes out her yklwa - it’s broke. She’s reluctant to have Huldar fix it, so he has Mia deliver the spell - it mends. Mayvra is delighted.
+	- Miali leans over to Karna - not whispering, but trying not to interrupt Huldar and Mayvra's lively chatter. “Whatever happened to Mayvray, it sure seems like she’s *just* beginning to deal with it. She can for certain take care of herself - but would you ... stay close? For me?” Karna nods in understanding.
+	- They finish up and Mayvra and Miali are doing dishes. Huldar gets his gear from upstairs. And then all hell breaks loose.
+	- Everything explodes. Miali dives behind some large chunks of debris, yelling, smoke and dust everywhere.
+	- “I did this!” Mayvra says in a panicked, lost kind of tone.
+	- While Huldar dons his shield and charges into the street, Mayvra and Karna survey what’s left of nearby buildings.
+	- Huddled in the rubble, arms up on either side of her head is a small human girl with dirty blond hair, dressed in ragged clothes. Her face is strangely blank of expression.
+	- Karna begins walking towards her cautiously, a hand out, reassuringly. “It’s okay. I can help you.”
+	- Sees man darting nimbly and running on his toes towards the girl from behind where she’s hid in the rubble. He reaches her before Karna does, and grabs her hand, gripping it tight. The two run in the direction of the tower.
+	- Huldar yells out: “HALT!” but the man shrugs it off. he turns back and looks deperately at Huldar, subtly shaking his head.
+	- In pursuit: a small pack of kobolds, snarling viciously.
+	- Huldar conjures and shoots a sacred flame, but it narrowly misses the closest kobold’s head.
+	- From the other direction, a shout in a raspy, growled language no one recognizes - and a second pack comes into view. Seeing the kobolds pursue, Karna takes off first at full speed, then Huldar - and Mayvra follows behind. “YES! Killing time.”
+	- Akio reaches the tower, does something with his left hand before pressing that hand, palm flat, against the building a door appears and he rushes inside. kobolds follow - maybe six, maybe more.
+	- Karna rushes in first - then Huldar then Mayvra.
+	- Huldar looses another sacred flame, this one scoring a direct hit. thing turns around and hisses.
+	- Karna is rushed by the other kobold, and his lightning fast reflex takes over, an arcing blow dropping the kobold instantly.
+	- As Mia flutters in, Mayvra charges to the bottom of the stair where one kobold is attempting to reach the upper floor. She holds out her hand, and a lash of lightning wraps the kobold, and she pulls him down the steps of the spiral stair, and the kobold collapses in a pile.
+	- Sounds upstairs, the group examines their surroundings. Sees the sourceless light. Huldar casts Detect Magic. Huldar pulls back the curtains, sees a wall full of writing in a language no one is able to discern. Tons of it.
+	- Karna charges upstairs first, again followed by Huldar. Mayvra stays below.

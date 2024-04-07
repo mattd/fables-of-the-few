@@ -1,0 +1,18 @@
+- Her Recent Past
+	- Several months ago, Sameera met a woman that called herself Yuska Rei, The Guide.
+	- Yuska had a calm, warm, and inviting demeanor.
+	- Drawn to Yuska for reasons she found hard to express, Sameera sensed a deep, timeless wisdom in Yuska, and the two began to meet on the regular.
+	- Despite any initial reservations she may have had, Sameera told Yuska of her mother and the relic that was lost.
+	- Yuska considered Sameera’s story - but rather than respond to it immediately, Yuska met her story with a proposal: accept temporary employment as a messenger and spy for her order, a group in Il Ausper known as the Circle of Six.
+	- Yuska explained that the Circle of Six sought to - as she put it - “keep safe the history of this world”.
+	- "Stay close to us," Yuska told Sameera. "We are only part of a much larger whole. If your mother held what I think she held, the Hope of Ioun will want to know.”
+	- Yuska promised that if Sameera gave assistance to the Circle of Six, the Hope of Ioun would, upon their return, aid Sameera in retrieving her mother’s relic and locating those responsible for her death.
+- The Last 6 Hours
+	- Just this morning, Yuska came to Sameera - she was panicked, frantic in a way that Sameera had never seen.
+	- “Things are moving faster than the Circle ever dreamed. One of the six - Akio Kiran, The Devoted - he is in Wyrfall with his charge. I need you to bring him *and* his charge home - here, to Il Ausper. Tell Akio the Hope of Ioun has returned.”
+	- Yuska pressed a small, non-descript stone into Sameera’s palm.
+	- “This stone, Akio will know how to use this.”
+	- “If Akio has read the signs, he will have already gone to the Cinder Spire. Find him there.”
+	- Sameera and Yuska parted ways - Yuska returning to the Circle’s small temple in Il Ausper and Sameera heading swiftly, by chartered boat, to Wyrfall.
+	- When she was two miles from the outskirts of town, Sameera witnessed the decimation of Wyrfall.
+	- Breaking off in a sprint, Sameera headed for the Cinder Spire.

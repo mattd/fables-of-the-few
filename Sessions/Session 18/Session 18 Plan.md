@@ -1,0 +1,156 @@
+- **Global State**
+    - Experience Tracking
+        - Last Leveled Before: Session 18
+        - Experience Gained
+            - None yet!
+    - World Information
+        - Date: Sirt, Cruvas 6th, 218 PA
+            - Days of Week: Syhr, Vihr, Derst, Ream, Bohn, Moz, and Sirt
+            - Months of Year: Andhel (28), Cruvas (32), Idish (28), Priesis (34), Vryim (28), Dojost (34), Stuent (28), Zoaz (32), Ollan (28), Egent (34), Abor (28), Izenn (32)
+        - Time of Day at Session Start: 11:14 pm
+        - Solar Origin: Southern
+- **Kickoff**
+    - Operations
+    - Recap
+        - Finally, it came to this. Mayvra stood before the visage of Sentience, a golden pearl of continual death and hard-won rebirth. Just feet away in the adjacent chamber, Sameera, Karna, and Huldar clashed with the Archdruid Quan. But here, Mayvra moved with intention through spore-clouded air, encouraged by a myceloid “brother”, noticing the common ground they share beyond language. Face to face, knowing this erupting bloom is the source of what grows inside her, Mayvra may have discovered that the link she shares with Sentience opens some sort of path or line that could help her trace the shape of her half-remembered life. Sentience has come to know her. And Mayvra is more than Sentience could have asked for. For Mayvra, confronted by this ancient entity who has known a nearly literal eternity, what’s important is laid bare - her mortal friends. Mayvra has known them mere weeks, but they _matter_ to her. Is it possible for Mayvra to save them? Sentience concedes - there may very well be a way.
+        - But in that other chamber, the struggle against Quan feels near to a dark turn. Perhaps out of a belief that Quan could still be slain swiftly, Huldar uttered a blessing for his friends - weighing offensive action over health and survival. The Archdruid sneered through a self-assured screed as Sameera launched volley after volley. Quan was a pincushion, but the shadowy death ribbons under his control were far harder to hit. (And though defense is never quite as exciting, the trio’s ability to evade at these moments may have actually saved lives.) What’s more, Karna caught - for the first time - a literal glimmer of hope. Something slender but substantial was hidden deep in Quan’s chest.
+        - At that very moment, in the other chamber, Mayvra became aware of the choice before her - its shape, its size, and its weight. Quan can be defeated - but only if Sentience severs the tie that binds them to their children, scattering the hive, and ending a reign that has lasted millennia. Quan, she learned, exploits that bond. Without it, he has nothing. Yet, no matter what Sentience _wants_, Sentience is incapable of sacrifice. She is beholden to her nature. Sentience is duty bound to survive. And _there_ lies the solution. If Mayvra will carry Sentience - if she will consent to _become_ them, dropping her own form for something unknown and altogether new. The courage and purity of Mayvra’s sacrifice may, in fact, be at least partially lost on her. To Mayvra, it may have felt like moments of consideration passed. But to any one of her friends, her internal world would have registered as but a scant handful of moments. Mayvra thought simply of all that she had failed to save. She could do better _this_ time.
+        - And just like that, the decision was made. Tethers pulled from the walls, readying for an embrace. A lichen-esque chest bloomed next to her, revealing an orb Sentience says may contain what’s left of Quan. But that’s just an operational detail. Now, in this moment, Sentience is unspeakably proud of what Mayvra has done. As fungal tethers wrap Mayvra, pulling her close, she is aware that this is over. This is done. Something new has begun. Mayvra lets go and her form scatters as spores, leaving a nascent but swiftly growing, huamnoid form, cradled by an umbilical mass, lowered quickly to the floor.
+        - Though he didn’t yet know the gravity of what had just occurred, Quan would soon. His body - more myceloid than fey - quickly gave way. There was no deal to be had now, but Quan reached for it. There was no sense in mocking Sameera, his distant fey kin, but he did. This was all set in stark contrast to Huldar’s whispered prayer of healing, surging out from him in all directions, healing the living and scattering Quan’s shadows. And Karna, for his part, seized a chance to take whatever Quan had buried deep in his chest. Right away he knew it, the moment his fingers touched it - the seventh Blade of the Silver Sun. Tearing it free was enough to end Quan, who fell as a dissolving, viscous mass to the floor.
+        - Things moved quickly. Zaida and Brinni Stooesoul, leader of the Conventicle of the First World were freed as the pods that contained them gave way, Karna catching Zaida tenderly when she fell. Pref marveled at the turn, lifting himself up to seated, once again conscious. And Huldar searched for Mayvra, finding the Myceloid that had joined them, watching the final stages of her transformation. Mustering all his will, they confirmed this was indeed Mayvra that they held now - and Huldar may have quickly understood the scope of what had happened.
+        - As the tower, Sentience’s former body, fell to pieces, the group fled - quickly gathering as much of Quan’s collection as they could carry. They hurried into the softening dusk light of the Myceloid Wastes with more inhabitants of the tower, undiscovered until only moments ago. At a safe distance, they watched the tower fall. Zaida and Mayvra - along with Brinni, still an unknown to them all - all three had yet to awake. But they were safe - and to those that considered the tower’s wreckage against the dropping sun, the future felt that much more open.
+- **Session Material**
+    - Character Review
+        - Huldar
+        - Karna
+        - Mayvra
+        - Sameera
+    - Session Start
+        - [New Beginning]
+            - We begin with a sudden flash of iridescent light - like a migraine aura that covers our entire field of view, strobing wildly for what feels like an eternity. In reality, we are like this for only a few seconds.
+            - And I say “we” here - but there is no we. Not quite yet. Right now, this is Mayvra experiencing this. Or whoever Mayvra used to be. And for you, this is … a lot.
+            - But in fact, from a certain point of view, this is the _first_ thing that Mayvra is experiencing. This is a somewhat literal capture of what it looks like to this new being - their mind knitting itself together, a weave of synapses mending as swift as electricity.
+            - Huldar, of everyone, you would appreciate what emerges for Mayvra next - what … emerges out of this cacophonous light show. You have context for what comes next. You spoke to Torag recently - and in that vision, Torag was veiled in haze and far off at first. Then you were pulled, inexorably, a far distance, towards them.
+            - The core experience is the same, but something altogether different happens in the first moments. Mayvra, the strobe halts with the suddenness of a visual POP - pure white. Whatever you _might_ have been - now you _are_.
+            - There’s only a moment here where you’re pondering what that might be - because, in fact, something’s in front of you. But _before_ you’re aware of that, in that _one_ moment, right before there is a world and beings _outside_ of you: what does this new being feel or believe?
+        - [Kord]
+            - You are here. Somewhere corporeal. With real substance. But _immediately_, you know that this place is liminal - somewhere in between.
+            - There was strobing, endless white - and now you are in a grand hall, pillared, polished ornate arches supporting some ceiling so high above you, it registers like sky.
+            - And in that not-sky, lightning arcs quietly among ephemeral clouds.
+            - More immediately, in front of you, right there - in your face. A myceloid, far bigger than those you came to knew at the tower, Sentience. Brilliantly colored, tones infinitely and swiftly shifting. Its eyes are blue electricity. Wispy arcs of lightning glide over its variegated skin. It _is_ a myceloid, but it is also a being of constant, roiling change.
+            - To their left stands a woman that you … recognize. This is Zaida. She is grown - tall and lithe … but you know, instinctively at this moment, that Zaida doesn’t grow - and, in fact, has _never_ grown. This is … another form? Maybe? She is dressed in all black leathers that cover almost all of her alabaster white skin. Her face is grave … almost apologetic? But also hopeful.
+            - On the other side of the myceloid is a man that - if I remember correctly - only Karna has seen. Almost a weird re-telling of Zaida. A man with delicate features - alabaster, skin without color of any kind. He wears an intricately and minutely ridged black cloak of some unfathomably stiff fabric. It looks like it would crack if you were to squeeze it. Large, horn-like protrusions arc up from his shoulders. And his head - it undulates upwards a forehead extending up, and turning to something that approximates hair underwater, but this is flesh, not hair, and it ripples. It’s like an optical illusion. How far does it go, really? How tall is he? You can’t tell. This is Saiviel. He looks resigned. He shakes his head. He lets out a long sigh as he considers you.
+            - This myceloid kneels before you. Even kneeling, they are taller than you. They bow their head.
+            - They raise their face, meet your eyes. They reach out with their right hand and with two fingers push up on your chin.
+            - “Indeed - we are both pleased. Fully pleased with you. Yes.”
+            - You are aware that this being is … well, it _is_ a myceloid. But it also … wears this flesh. And now the flesh looks overwhelmed. Underneath is the power of a storm.
+            - Their voice deepens. It’s … resonant.
+            - “I will be … the first … to return. Aeons have passed since I have known this world, and in a heartbeat, I will know this world again. Three weeks and a day, my child. Naught but a heartbeat.”
+            - You see out of the corner of your eye - Saiviel presses his lips together. He shakes his head more noticeably. “You made a deal, Kord. You _all_ made a deal. With _me_. How _dare_ you.”
+            - The myceloid - what’s underneath, as the myceloid’s flesh begins to fall away - radiant, electric energy … encourages you.
+            - “Protect the Waypoint, my child. Without it, I am lost to this world.”
+            - The temple shakes. Violently. Faster. It’s being consumed. An earthquake. A quasar exploding.
+            - And suddenly - in the real world, in Nerah - your eyes open for the first time.
+            - Pref is next to you, his hand warm, resting on the upper part of your chest, just below your neck. He huffs a laugh, a chuckle. And he says loudly, to the room - “They’re awake.”
+            - The being that was Mayvra has been resting for two days and two nights. Who might be the closest? Who is within earshot?
+            - Anybody else?
+            - What do you do?
+        - [Coming to Weaver’s Wend]
+            - Let’s back up a couple of days.
+            - As the four of you stood in the midst of the Myceloid Wastes, the dust of Sentience settling, Pref seemed to … come to. Not from any spell - but like he realized the enormity of what you had accomplished.
+            - And he was suddenly - and gladly - beholden to you. You could tell, the way he was sizing up the situation, his ears twitching and scanning - he intended to repay this gift you all had given to his realm, the watch of a Dawn Walker.
+            - “Zaida. Zaida and … this one. Brinni. Stonesoul, I think they said? If I know what Quan was wielding like I think I do, they’ll be okay. But I’ll need to tend to them. Two weeks at least.”
+            - He smiled in the direction of whoever carries Mayvra. “I don’t pretend to know what happened there _exactly_ - but I have a sense she might waken quicker.”
+            - And quickly, Pref was urging you on. The myceloids that had escaped with you, they stood at a respectful distance - but for Pref’s part, he was already trying to move you all by example.
+            - “We’ll stay clear of the woods, take the open plains. The Dawn Walkers have a small compound of sorts, north-northwest, a day’s walk. We should move swiftly.”
+    - Scenes
+        - Before she wakes, and with both Zaida and Saiviel standing in the wings, Kord speaks to the being that Mayvra has become.
+        - A brief flashback reveals that Pref Patar brought the group to the Weaver’s Wend, a Dawn Walker garrison built for covert and long-term recovery.
+        - Sameera, Karna, Huldar, and a wakened Mayvra describe their activities in the weeks following the fall of Sentience and before the waking of Brinni and Zaida.
+        - At dawn one morning, with Pref ministering to her breaking fever, Brinni Stonesoul wakes up.
+        - Fitfully, as Brinni wakes, Zaida’s fever also spikes, and leads to her waking at the sun’s turn - clearly aware that some danger is near at hand.
+        - Zaida contextualizes what Mayvra saw in her dreams - drawing a line from the Graft of Briccriu and the Storm Lord’s imminent return.
+        - Once he has roused those who needed waking, Pref bids farewell and heads west.
+        - Brinni speaks to Sameera, potentially revealing that Sameera’s mother is with the Conventicle even now, 6 days west in the city of Cay Abrill.
+        - If she discovers that the group now carries the Seventh Blade, Brinni Stonesoul may attempt to take the Blade by force.
+        - On the road to their next destination, the party confronts the harried and frightened people of Vur Gamir, a city now in ruins.
+        - The terror that destroyed Vur Gamir finds the group - and attacks with great ferocity.
+    - Secrets & Clues
+        - The Dawn Walkers have called Pref Patar west, beyond the border between Midsommar and the Night’s Quarter.
+        - Kord is hardly more than a week and a day from their return.
+        - Archdruid Quan obtained the seventh Blade from a woman named Brinni Stonesoul - who, in turn, had purchased it for a large sum from Fynn and Karna’s employer.
+        - Brinni Stonesoul is the leader of a group called the Conventicle of the First World - a cult based out of Cay Abrill, three days northwest of the Myceloid Wastes.
+        - Archdruid Quan didn’t just take the blade of the Silver Sun - he took Brinni herself and held her for months in myceloid stasis, believing the Conventicle had discovered a deep truth.
+        - The cultists are close friends of Sameera’s mother, Meerabai - who lives with the First World Conventicle in Cay Abrill.
+        - The Conventicle of the First World has no use for the seventh Blade - instead, they seek leverage over Saiviel, believing they could deliver their people “back to the beginning”.
+        - Saiviel’s allies now know something that the Curators do not - Saiviel Second-Of-The-Name is dying, much sooner than was foretold.
+        - Saiviel has summoned a nameless city of the First World - but the enormity of the arcane force involved lead to miscalculations, leaving it half submerged in the dusty red soil of the Arrid Callum.
+        - The Adjuration Flare is more than just a beacon to be activated by the Blades, sending a call to the divine; it is, in its dormancy, a waypoint, the only relic visible from both this realm and the outer planes.
+        - Saiviel - ever-patient - grows restless, understanding that time is short and only days remain to prevent Kord’s return.
+        - The Adjuration Flare can only be broken once - and though Saiviel does not need the Seventh to break the beacon, deactivating the waypoint requires every blade.
+    - Locations
+        - Weaver’s Wend
+            - Exterior
+                - Tucked into a massively wide and tall crease in a small-mountain sized stone protrusion that juts violently from the earth.
+                - A building, clearly person- or magic-made, but flowing and organic in appearance, somewhat like a wide- and stout-leafed agave.
+                - The “white fading to rose pink” exterior walls are delicately crafted with undulating, vertical ridges - porous, but that somehow reveals nothing of the other side.
+            - Interior
+                - Rooms are defined more by their furnishings than by their shape or size.
+                - Most spaces are flared at the bottom and ascend to a height of 60 or 70 feet, snaking gently.
+                - Each cream and rose-pink space is well lit by exterior light that filters through porous walls - and which, from this side, can be seen straight thru.
+        - Vur Gamir Camp
+            - An encampment that at first glance suggests maybe 30 or 40 individuals make use of the amenities.
+            - Lean-to shelters appear anything but makeshift - there is crafting inherent each in semi-permanent installation, several of which are set for and meant to accommodate whole families.
+            - A massive, mechanical arcane core has been reassembled here - similar in complexity, if not design, to the orrery the group investigated north of the Farhaven Ruins; it sits central to the shelters.
+    - NPCs
+        - Zaida (CG, She/Her)
+            - Archetype
+                - Allison Reynolds (The Breakfast Club)
+            - Story Connection
+                - Raised by the Circle of Six to become the next incarnation of the Hope Cipher.
+            - Description
+                - A small female, clearly fey, and somewhat larger than a gnome.
+                - True-white skin, almost translucent, with a tousled shock of blue white hair, shaved around the sides.
+                - Glassy eyes much larger than normal, without iris or pupil.
+        - Pref Patar (NG, He/Him)
+            - Archetype
+                - Guinon (Star Trek TNG)
+            - Story Connection
+                - A well-traveled ranger policing the broad stretch of land between the Penumbra and the Myceloid Wastes.
+            - Description
+                - A later-middle-aged harengon with warm-hued light-brown fur and wildly long expressive ears that he can stand up or let flop down against his head.
+                - The fur of his muzzle is somewhat logger and graying and frames his perpetual, relaxed smile.
+                - He wears loose fitting trousers, a well worn leather vest that clearly doubles as armor, and thick, rigid bracers on both forearms.
+        - Brinni Stonesoul (CG, She/Her)
+            - Archetype
+                - Gaius Baltar (Battlestar Galactica)
+            - Story Connection
+                - Leader of the First World Conventicle - and friend to Meerabai, mother of Sameera.
+            - Description
+                - Elven woman with bronze skin and auburn hair.
+                - Dressed in a flowing, sleeveless dress cut far down from the neck.
+                - Heavy, ostentatious jewelry covers her fingers and wrists - but does nothing to impede her expressive hands.
+    - Monsters
+        - 1 Guecubu
+    - Magic Items
+        - Permanent
+            - Mace - Potency (Rune 2)
+            - Aeon Stone - Preserving (Item 5)
+            - Wand of Shardstorm (Item 5)
+            - Clandestine Cloak (Item 6)
+            - Spined Shield (Item 6)
+        - Consumables
+            - Shrinking Potion ( Item 4)
+            - Fear Gem Talisman (Item 4)
+            - Emerald Grasshopper Talisman (5)
+            - Frozen Lava (5)
+            - Iron Cube Talisman (6)
+            - Oil of Weightlessness - Greater (Item 6)
+    - Treasure
+        - Currency
+            - 12 pp
+            - 117 gp
+            - 323 sp
+            - 84 cp
+        - Equipment
+- **Resources**
